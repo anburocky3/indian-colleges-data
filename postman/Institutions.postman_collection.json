@@ -1,0 +1,58 @@
+{
+  "info": {
+    "name": "Indian Colleges List API - AICTE Data",
+    "_postman_id": "indian-colleges-aicte",
+    "description": "Collection with requests for /api/institutions and /api/institution/:aicteid",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "GET /api/institutions (offline default)",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{base_url}}/api/institutions",
+          "host": ["{{base_url}}"],
+          "path": ["api", "institutions"]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "GET /api/institutions (online example)",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{base_url}}/api/institutions?online=1&year=2025-2026&state=Tamil%20Nadu",
+          "host": ["{{base_url}}"],
+          "path": ["api", "institutions"],
+          "query": [
+            { "key": "online", "value": "1" },
+            { "key": "year", "value": "2025-2026" },
+            { "key": "state", "value": "Tamil Nadu" }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "GET /api/institution/:aicteid (example)",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{base_url}}/api/institution/1-44638482322?course=1&year=2025-2026",
+          "host": ["{{base_url}}"],
+          "path": ["api", "institution", "1-44638482322"],
+          "query": [
+            { "key": "course", "value": "1" },
+            { "key": "year", "value": "2025-2026" }
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}

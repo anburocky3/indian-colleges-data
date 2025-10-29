@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "download": "node --experimental-fetch scripts/download.js"
   },
   "dependencies": {
     "react": "19.2.0",
