@@ -17,7 +17,7 @@ const DEFAULT_PARAMS: Record<string, string> = {
   course: "1",
 };
 
-function corsHeaders() {
+export function corsHeaders() {
   return {
     "Access-Control-Allow-Origin": "*",
     "Access-Control-Allow-Methods": "GET,OPTIONS",
@@ -38,10 +38,15 @@ export async function OPTIONS() {
 export async function GET(req: Request) {
   try {
     const url = new URL(req.url);
-    const incoming = Object.fromEntries(url.searchParams.entries()) as Record<string, string>;
+    const incoming = Object.fromEntries(url.searchParams.entries()) as Record<
+      string,
+      string
+    >;
 
     const onlineFlag =
-      incoming.online === "1" || incoming.online === "true" || incoming.online === "yes";
+      incoming.online === "1" ||
+      incoming.online === "true" ||
+      incoming.online === "yes";
 
     let payload: unknown;
     let status = 200;
@@ -58,10 +63,18 @@ export async function GET(req: Request) {
         }
         status = 200;
       } catch (e) {
-        return new NextResponse(JSON.stringify({ error: `Failed to read offline data: ${String(e)}` }), {
-          status: 500,
-          headers: { "Content-Type": "application/json; charset=utf-8", ...corsHeaders() },
-        });
+        return new NextResponse(
+          JSON.stringify({
+            error: `Failed to read offline data: ${String(e)}`,
+          }),
+          {
+            status: 500,
+            headers: {
+              "Content-Type": "application/json; charset=utf-8",
+              ...corsHeaders(),
+            },
+          }
+        );
       }
     } else {
       // Online: fetch from upstream using merged params

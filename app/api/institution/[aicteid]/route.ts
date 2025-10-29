@@ -1,4 +1,5 @@
 import { NextResponse } from "next/server";
+import { corsHeaders } from "../../institutions/route";
 
 const TARGET_BASE =
   "https://facilities.aicte-india.org/dashboard/pages/php/approvedcourse.php";
@@ -102,6 +103,7 @@ export async function GET(
 
       return NextResponse.json(dataPayload, {
         headers: { "Access-Control-Allow-Origin": "*" },
+        ...corsHeaders(),
       });
     } catch {
       return NextResponse.json(
@@ -112,11 +114,16 @@ export async function GET(
       );
     }
   } catch (error) {
+    const headers = {
+      "Content-Type": "application/json; charset=utf-8",
+      ...corsHeaders(),
+    } as Record<string, string>;
+
     return NextResponse.json(
       { error: (error as Error).message },
       {
         status: 500,
-        headers: { "Access-Control-Allow-Origin": "*" },
+        headers,
       }
     );
   }
