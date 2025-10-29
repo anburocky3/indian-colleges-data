@@ -4,7 +4,7 @@ export default function Home() {
       <h1 className="text-3xl font-extrabold bg-clip-text bg-linear-to-bl from-orange-500 to-orange-800 text-transparent text-center flex items-center justify-center space-x-4">
         <span>Indian Colleges List (Datasets)</span>
         <a
-          href="#"
+          href="https://github.com/anburocky3/indian-colleges-data/fork"
           className="inline-flex items-center justify-center w-8 h-8 rounded-full  text-white hover:bg-orange-500"
           title="Fork this project"
         >

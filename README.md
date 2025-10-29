@@ -14,8 +14,8 @@ website.
 
 ## 🚀 Available Endpoints
 
-- 👉 [![List all Institutions](https://indian-colleges-list.vercel.app/api/institutions)
-- 👉 [![List all Courses offered by that institutions](https://indian-colleges-list.vercel.app/api/institution/1-44641241273?course=1&year=2025-2026)
+- 👉 [GET - List all Institutions](https://indian-colleges-list.vercel.app/api/institutions)
+- 👉 [GET - List all Courses offered by that institutions](https://indian-colleges-list.vercel.app/api/institution/1-44641241273?course=1&year=2025-2026)
 
 ### ✅ [Download Postman Collections](https://raw.githubusercontent.com/anburocky3/indian-colleges-data/refs/heads/main/postman/Institutions.postman_collection.json)
 
@@ -183,7 +183,7 @@ curl "http://localhost:3000/api/prefetch?year=2024-2025"
 
 ## Author
 
-- [Anbuselvan Annamalai](https://fb.me/anburocky3)
+- [Anbuselvan Annamalai](https://fb.me/anburocky3) ([MIT License](/LICENSE))
 
 ## Acknowledgement
 
