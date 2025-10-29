@@ -79,7 +79,7 @@ fetch("/api/institutions?year=2024-2025&state=Tamil%20Nadu")
 
             <p className="text-sm text-zinc-700 mt-3">Curl (cmd.exe):</p>
             <pre className="bg-zinc-100 dark:bg-zinc-900 p-3 rounded mt-2 text-sm overflow-auto">
-              curl http://localhost:3000/api/institutions
+              curl https://indian-colleges-list.vercel.app/api/institutions
             </pre>
           </section>
 
@@ -191,9 +191,14 @@ fetch("/api/institutions?year=2024-2025&state=Tamil%20Nadu")
 
           <p className="mt-3 text-sm text-green-600">
             <strong>Example: </strong>
-            <code>
-              /api/institutions?year=2025-2026&state=Tamil%20Nadu&program=1
-            </code>
+            <a
+              href="/api/institution/1-44641241273?course=1&year=2025-2026"
+              target="_blank"
+            >
+              <code>
+                /api/institutions?year=2025-2026&state=Tamil%20Nadu&program=1
+              </code>
+            </a>
           </p>
         </section>
 
@@ -256,7 +261,7 @@ fetch("/api/institutions?year=2024-2025&state=Tamil%20Nadu")
             <p className="text-sm text-zinc-700 mt-3">Curl (cmd.exe):</p>
             <pre className="bg-zinc-100 dark:bg-zinc-900 p-3 rounded mt-2 text-sm overflow-auto">
               curl
-              &quot;http://localhost:3000/api/institution/1-44641241273?course=1&year=2025-2026&quot;
+              &quot;https://indian-colleges-list.vercel.app/api/institution/1-44641241273?course=1&year=2025-2026&quot;
             </pre>
           </div>
 

@@ -1,14 +1,31 @@
 # Indian Colleges List — (Data via API)
 
+[![Stars](https://img.shields.io/github/stars/anburocky3/indian-colleges-data)](https://github.com/anburocky3/indian-colleges-data)
+[![Forks](https://img.shields.io/github/forks/anburocky3/indian-colleges-data)](https://github.com/anburocky3/indian-colleges-data)
+[![GitHub license](https://img.shields.io/github/license/anburocky3/indian-colleges-data)](https://github.com/anburocky3/indian-colleges-data)
+![Anbuselvan Rocky Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fanburocky3%2Findian-colleges-data)
+[![Support Server](https://img.shields.io/discord/742347296091537448.svg?label=Discord&logo=Discord&colorB=7289da)](https://discord.gg/6ktMR65YMy)
+[![Cyberdude youtube](https://img.shields.io/youtube/channel/subscribers/UCteUj8bL1ppZcS70UCWrVfw?style=social)](https://www.youtube.com/c/cyberdudenetworks)
+
 This api contains 1278 colleges data, like names, district, address, etc., including private, government, autonomous, and affiliated institutions across India. The data is sourced from the All India Council for Technical Education (AICTE)
 website.
 
-Browse it here:
-Postman collections:
+> Note: This project is not affiliated with or endorsed by any government entity. Data comes from publicly available pages and may change or break at any time.
+
+## 🚀 Available Endpoints
+
+- 👉 [![List all Institutions](https://indian-colleges-list.vercel.app/api/institutions)
+- 👉 [![List all Courses offered by that institutions](https://indian-colleges-list.vercel.app/api/institution/1-44641241273?course=1&year=2025-2026)
+
+### ✅ [Download Postman Collections](https://raw.githubusercontent.com/anburocky3/indian-colleges-data/refs/heads/main/postman/Institutions.postman_collection.json)
+
+### Screenshots
+
+![Indian Colleges lists - Datasets](/screenshots/1.png)
 
 ## Quick start
 
-1. Install deps and run the dev server:
+1. [Fork this repository](https://github.com/anburocky3/indian-colleges-data/fork) and install the deps.
 
 ```bash
 npm install
@@ -107,7 +124,7 @@ Notes on running the script:
 
 ```bash
 # Runs with node; ensure Node version supports global fetch or run with experimental fetch enabled if needed.
-npm run download:download
+npm run download
 ```
 
 If you need to run the script with an older Node version, you can run it using `node --experimental-fetch scripts/download.js`.
