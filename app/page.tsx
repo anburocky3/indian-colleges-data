@@ -309,7 +309,10 @@ fetch("/api/institutions?year=2024-2025&state=Tamil%20Nadu")
           </p>
           <ul className="mt-3 text-sm text-zinc-700 list-disc pl-6">
             <li>
-              <a href="/postman/Institutions.postman_collection.json" download>
+              <a
+                href="https://raw.githubusercontent.com/anburocky3/indian-colleges-data/refs/heads/main/postman/Institutions.postman_collection.json"
+                download
+              >
                 Institutions.postman_collection.json
               </a>
             </li>
