@@ -7,7 +7,66 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-2863798081"
+    "other_id": "1-2863798081",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "COMPUTER SCIENCE AND ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "POST GRADUATE",
+        "course": "MCA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "ARTIFICIAL INTELLIGENCE",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "UNDER GRADUATE",
+        "course": "BCA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "180",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Manipur",
+    "university": "None"
   },
   {
     "aicte_id": "1-44639349865",
@@ -17,7 +76,66 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-480586901"
+    "other_id": "1-480586901",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER SCIENCE & ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Manipur",
+    "university": "Manipur University, Imphal"
   },
   {
     "aicte_id": "1-44640678137",
@@ -27,7 +145,44 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-500930171"
+    "other_id": "1-500930171",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "PLASTIC TECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "54",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "PLASTICS MOULD TECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "18",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE DIPLOMA",
+        "course": "PLASTICS PROCESSING AND TESTING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "36",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Manipur",
+    "university": "NOT APPLICABLE"
   },
   {
     "aicte_id": "1-44641090219",
@@ -37,6 +192,54 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-848846411"
+    "other_id": "1-848846411",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "20",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "40",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRONICS & COMMUNICATION ENGG",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Manipur",
+    "university": "Manipur University, Imphal"
   }
 ]

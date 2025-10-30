@@ -15,9 +15,9 @@ website.
 ## 🚀 Available Endpoints
 
 - 👉 [GET - List all Institutions](https://indian-colleges-list.vercel.app/api/institutions)
-- 👉 [GET - List available states (state snapshots)](https://indian-colleges-list.vercel.app/api/institutions/state)
-- 👉 [GET - Get institutions for a specific state (example)](https://indian-colleges-list.vercel.app/api/institutions/state/tamil-nadu)
-<!-- - 👉 [GET - List all Courses offered by that institutions](https://indian-colleges-list.vercel.app/api/institution/1-44641241273?course=1&year=2025-2026) -->
+- 👉 [GET - List available states (state snapshots)](https://indian-colleges-list.vercel.app/api/institutions/states)
+- 👉 [GET - Get institutions for a specific state (example)](https://indian-colleges-list.vercel.app/api/institutions/states/tamil-nadu)
+- 👉 [GET - List all Courses offered by that institutions](https://indian-colleges-list.vercel.app/api/states/Tamil%20Nadu/1-44641241273)
 
 > Calling /api/institutions will load 11.9MB of data, which is time consuming. Instead you can load institutions by state api call.
 

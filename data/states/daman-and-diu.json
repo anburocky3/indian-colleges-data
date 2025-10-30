@@ -7,7 +7,66 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-3662092341"
+    "other_id": "1-3662092341",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "BIOMEDICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Daman and Diu",
+    "university": "Gujarat Technological University, Ahmedabad"
   },
   {
     "aicte_id": "1-44640328645",
@@ -17,7 +76,55 @@
     "institution_type": "Govt aided",
     "women": "N",
     "minority": "N",
-    "other_id": "1-2056611791"
+    "other_id": "1-2056611791",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "54",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "54",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "54",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "MARINE ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "54",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Daman and Diu",
+    "university": "Gujarat State Technical Examination Board"
   },
   {
     "aicte_id": "1-44640636665",
@@ -27,7 +134,88 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-414180401"
+    "other_id": "1-414180401",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "CHEMICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "INFORMATION TECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "COMPUTER ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "PLASTIC ENGINEERING(SANDWICH PATTERN)",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Daman and Diu",
+    "university": "Gujarat State Technical Examination Board"
   },
   {
     "aicte_id": "1-44644204353",
@@ -37,6 +225,32 @@
     "institution_type": "Private-Self Financing",
     "women": "N",
     "minority": "N",
-    "other_id": "1-44244960803"
+    "other_id": "1-44244960803",
+    "programmes": [
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "UNDER GRADUATE",
+        "course": "BCA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "120",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "MANAGEMENT",
+        "level": "UNDER GRADUATE",
+        "course": "BBA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "120",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Daman and Diu",
+    "university": "Veer Narmad South Gujarat University, Surat"
   }
 ]

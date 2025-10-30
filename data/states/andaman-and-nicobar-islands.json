@@ -7,7 +7,33 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-3689480791"
+    "other_id": "1-3689480791",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "24",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "COMPUTER SCIENCE & ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "24",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Andaman and Nicobar Islands",
+    "university": "Maharashtra State Board of Technical Education, Mumbai"
   },
   {
     "aicte_id": "1-44641284001",
@@ -17,7 +43,121 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-468009933"
+    "other_id": "1-468009933",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRONICS & COMMUNICATION ENGG",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER SCIENCE & ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "COMPUTER ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "INFORMATION TECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "HOTEL MANAGEMENT AND CATERING",
+        "level": "DIPLOMA",
+        "course": "HOTEL MANAGEMENT  &  CATERING TECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Andaman and Nicobar Islands",
+    "university": "Netaji Subhash Chandra Bose Institute of Higher Learning (NSCBIHL-Deemed University), Port Blair"
   },
   {
     "aicte_id": "1-44644880222",
@@ -27,7 +167,22 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-44499380776"
+    "other_id": "1-44499380776",
+    "programmes": [
+      {
+        "programme": "MANAGEMENT",
+        "level": "UNDER GRADUATE",
+        "course": "BBA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "50",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Andaman and Nicobar Islands",
+    "university": "Pondicherry University, Pondicherry"
   },
   {
     "aicte_id": "1-44644667441",
@@ -37,6 +192,32 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-44465113304"
+    "other_id": "1-44465113304",
+    "programmes": [
+      {
+        "programme": "MANAGEMENT",
+        "level": "UNDER GRADUATE",
+        "course": "BBA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "34",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "UNDER GRADUATE",
+        "course": "BCA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "56",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Andaman and Nicobar Islands",
+    "university": "Pondicherry University, Pondicherry"
   }
 ]

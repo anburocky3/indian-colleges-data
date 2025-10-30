@@ -7,7 +7,88 @@
     "institution_type": "Private-Self Financing",
     "women": "N",
     "minority": "N",
-    "other_id": "1-10830181"
+    "other_id": "1-10830181",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRONICS & COMMUNICATION ENGG",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER SCIENCE & ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "120",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ARTIFICIAL INTELLIGENCE (AI)  AND DATA SCIENCE",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ROBOTICS AND AUTOMATION",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "INFORMATION TECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Puducherry",
+    "university": "Pondicherry University, Pondicherry"
   },
   {
     "aicte_id": "1-44638096722",
@@ -17,7 +98,66 @@
     "institution_type": "Private-Self Financing",
     "women": "N",
     "minority": "N",
-    "other_id": "1-5979231"
+    "other_id": "1-5979231",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "INFORMATION TECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER SCIENCE & ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Puducherry",
+    "university": "Pondicherry University, Pondicherry"
   },
   {
     "aicte_id": "1-44638167650",
@@ -27,7 +167,187 @@
     "institution_type": "Central University",
     "women": "N",
     "minority": "N",
-    "other_id": "1-9525134661"
+    "other_id": "1-9525134661",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "COMPUTER SCIENCE AND ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "COMPUTER NETWORKS AND INFORMATION SECURITY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "MANAGEMENT",
+        "level": "POST GRADUATE",
+        "course": "MBA (BUSINESS ADMINISTRATION)",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "180",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "POST GRADUATE",
+        "course": "COMPUTER APPLICATIONS",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "90",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "CIVIL ENGINEERING (ENVIRONMENTAL AND POLLUTION CONTROL)",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "COMPUTATIONAL BIOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "NANO SCIENCE AND TECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "GREEN ENERGY TECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER SCIENCE & ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ENERGY SCIENCE & TECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "MATERIAL SCIENCE AND TECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "MANAGEMENT",
+        "level": "UNDER GRADUATE",
+        "course": "BBA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "92",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "UNDER GRADUATE",
+        "course": "BCA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER SCIENCE AND BUSINESS SYSTEMS",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Puducherry",
+    "university": "NOT APPLICABLE"
   },
   {
     "aicte_id": "1-44639411026",
@@ -37,7 +357,55 @@
     "institution_type": "Private-Self Financing",
     "women": "N",
     "minority": "N",
-    "other_id": "1-454063381"
+    "other_id": "1-454063381",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "240",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "120",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRONICS & COMMUNICATION ENGG",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "COMPUTER ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Puducherry",
+    "university": "Directorate of Technical Education, Chennai"
   },
   {
     "aicte_id": "1-44640152102",
@@ -47,7 +415,66 @@
     "institution_type": "Government",
     "women": "Y",
     "minority": "N",
-    "other_id": "1-466670321"
+    "other_id": "1-466670321",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER SCIENCE AND ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ARCHITECTURAL ASSISTANTSHIP",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "INFORMATION SCIENCE AND ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Puducherry",
+    "university": "PUDUCHERRY TECHNOLOGICAL UNIVERSITY"
   },
   {
     "aicte_id": "1-44639890323",
@@ -57,7 +484,77 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-424551451"
+    "other_id": "1-424551451",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "40",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "120",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "90",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRONICS & COMMUNICATION ENGG",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "INFORMATION TECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "40",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "COMPUTER ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Puducherry",
+    "university": "Directorate of Technical Education, Chennai"
   },
   {
     "aicte_id": "1-44640322226",
@@ -67,7 +564,55 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-488164671"
+    "other_id": "1-488164671",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "COMPUTER ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "27",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "INSTRUMENTATION AND CONTROL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "27",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "27",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "21",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Puducherry",
+    "university": "Directorate of Higher and Technical Education, Puducherry"
   },
   {
     "aicte_id": "1-44640717709",
@@ -77,7 +622,44 @@
     "institution_type": "Government",
     "women": "Y",
     "minority": "N",
-    "other_id": "1-412355991"
+    "other_id": "1-412355991",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "COMPUTER ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "INSTRUMENTATION AND CONTROL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Puducherry",
+    "university": "Directorate of Technical Education, Chennai"
   },
   {
     "aicte_id": "1-44640384161",
@@ -87,7 +669,66 @@
     "institution_type": "Private-Self Financing",
     "women": "N",
     "minority": "N",
-    "other_id": "1-15572441"
+    "other_id": "1-15572441",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER SCIENCE AND ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRONICS & COMMUNICATION ENGG",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER SCIENCE AND ENGINEERING (INTERNET OF THINGS AND CYBER SECURITY INCLUDING BLOCK CHAIN TECHNO",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Puducherry",
+    "university": "Pondicherry University, Pondicherry"
   },
   {
     "aicte_id": "1-44640398383",
@@ -97,7 +738,99 @@
     "institution_type": "Private-Self Financing",
     "women": "N",
     "minority": "N",
-    "other_id": "1-2183471891"
+    "other_id": "1-2183471891",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "INFORMATION TECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER SCIENCE & ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "90",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ARTIFICIAL INTELLIGENCE (AI)  AND DATA SCIENCE",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "MANAGEMENT",
+        "level": "POST GRADUATE",
+        "course": "MBA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ROBOTICS AND AUTOMATION",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Puducherry",
+    "university": "Pondicherry University, Pondicherry"
   },
   {
     "aicte_id": "1-44640360238",
@@ -107,7 +840,99 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-511311581"
+    "other_id": "1-511311581",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "90",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "80",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "110",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "INSTRUMENTATION AND CONTROL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "INFORMATION TECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "40",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "CHEMICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "COMMERCIAL PRACTICE",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Puducherry",
+    "university": "Directorate of Technical Education, Chennai"
   },
   {
     "aicte_id": "1-44640968366",
@@ -117,7 +942,99 @@
     "institution_type": "Private-Self Financing",
     "women": "N",
     "minority": "Y",
-    "other_id": "1-2194788061"
+    "other_id": "1-2194788061",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRONICS & COMMUNICATION ENGG",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER SCIENCE AND ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "120",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "BIOMEDICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "MANAGEMENT",
+        "level": "POST GRADUATE",
+        "course": "MBA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "120",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER SCIENCE AND ENGINEERING (INTERNET OF THINGS AND CYBER SECURITY INCLUDING BLOCK CHAIN TECHNO",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Puducherry",
+    "university": "Pondicherry University, Pondicherry"
   },
   {
     "aicte_id": "1-44641352294",
@@ -127,7 +1044,44 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-486301191"
+    "other_id": "1-486301191",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "COMPUTER ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRONICS & COMMUNICATION ENGG",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Puducherry",
+    "university": "Directorate of Technical Education, Chennai"
   },
   {
     "aicte_id": "1-44641561181",
@@ -137,7 +1091,121 @@
     "institution_type": "Private-Self Financing",
     "women": "N",
     "minority": "Y",
-    "other_id": "1-4661421"
+    "other_id": "1-4661421",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "COMPUTER SCIENCE AND ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "9",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "WIRELESS COMMUNICATIONS",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "9",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "INFORMATION TECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "120",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "BIOMEDICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "MANAGEMENT",
+        "level": "POST GRADUATE",
+        "course": "MBA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRONICS & COMMUNICATION ENGG",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "120",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER SCIENCE & ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "180",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "POST GRADUATE",
+        "course": "MASTER OF COMPUTER APPLICATIONS",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "120",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Puducherry",
+    "university": "Pondicherry University, Pondicherry"
   },
   {
     "aicte_id": "1-44642010085",
@@ -147,7 +1215,275 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-7842176"
+    "other_id": "1-7842176",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "120",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "120",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRONICS & COMMUNICATION ENGG",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "120",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER SCIENCE AND ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "120",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "CHEMICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "INFORMATION TECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "ENVIRONMENTAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "18",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "ENERGY TECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "17",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "PRODUCT DESIGN AND MANUFACTURING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "18",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "INFORMATION SECURITY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "24",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "24",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "WIRELESS COMMUNICATIONS",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "18",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "DATA SCIENCE",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "25",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "ELECTRICAL DRIVES AND CONTROL",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "25",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "POST GRADUATE",
+        "course": "MASTERS IN COMPUTER APPLICATIONS",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "STRUCTURAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "24",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "INTERNET OF THINGS",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "24",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "INSTRUMENTATION ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "12",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "MECHATRONICS",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "MANAGEMENT",
+        "level": "POST GRADUATE",
+        "course": "MBA(INTERNATIONAL BUSINESS)",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "MANAGEMENT",
+        "level": "POST GRADUATE",
+        "course": "MBA (INNOVATION, ENTREPRENEURSHIP AND VENTURE DEVELOPMENT)",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "CHEMICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "18",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Puducherry",
+    "university": "Puducherry Technological University"
   },
   {
     "aicte_id": "1-44642301144",
@@ -157,7 +1493,176 @@
     "institution_type": "Private-Self Financing",
     "women": "N",
     "minority": "Y",
-    "other_id": "1-4337601"
+    "other_id": "1-4337601",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRONICS & COMMUNICATION ENGG",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "180",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER SCIENCE AND ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "240",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "INFORMATION TECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "120",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "MANAGEMENT",
+        "level": "POST GRADUATE",
+        "course": "MBA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "180",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "ELECTRONICS & COMMUNICATION ENGG",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "12",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "COMPUTER SCIENCE & ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "12",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ROBOTICS AND AUTOMATION",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "FOOD TECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER SCIENCE AND ENGINEERING (INTERNET OF THINGS AND CYBER SECURITY INCLUDING BLOCK CHAIN TECHNO",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "180",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "MANAGEMENT",
+        "level": "UNDER GRADUATE",
+        "course": "BBA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "120",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "UNDER GRADUATE",
+        "course": "BCA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "120",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "POST GRADUATE",
+        "course": "MCA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Puducherry",
+    "university": "Pondicherry University, Pondicherry"
   },
   {
     "aicte_id": "1-44643410445",
@@ -167,7 +1672,33 @@
     "institution_type": "Private-Self Financing",
     "women": "N",
     "minority": "Y",
-    "other_id": "1-24234541"
+    "other_id": "1-24234541",
+    "programmes": [
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "POST GRADUATE",
+        "course": "MASTERS IN COMPUTER APPLICATIONS",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "UNDER GRADUATE",
+        "course": "BCA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "50",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Puducherry",
+    "university": "Pondicherry University, Pondicherry"
   },
   {
     "aicte_id": "1-44643636526",
@@ -177,7 +1708,44 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-24221311"
+    "other_id": "1-24221311",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "INFORMATION TECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER SCIENCE AND ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Puducherry",
+    "university": "Puducherry Technological University"
   },
   {
     "aicte_id": "1-44643113152",
@@ -187,7 +1755,66 @@
     "institution_type": "Private-Self Financing",
     "women": "N",
     "minority": "Y",
-    "other_id": "1-2504901"
+    "other_id": "1-2504901",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRONICS & COMMUNICATION ENGG",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER SCIENCE AND ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "MANAGEMENT",
+        "level": "POST GRADUATE",
+        "course": "MASTERS IN BUSINESS ADMINISTRATION",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Puducherry",
+    "university": "Pondicherry University, Pondicherry"
   },
   {
     "aicte_id": "1-44643346248",
@@ -197,7 +1824,253 @@
     "institution_type": "Private-Self Financing",
     "women": "N",
     "minority": "Y",
-    "other_id": "1-4516101"
+    "other_id": "1-4516101",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER SCIENCE AND ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "300",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "INFORMATION TECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "240",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "INSTRUMENTATION AND CONTROL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "120",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "POST GRADUATE",
+        "course": "MASTERS IN COMPUTER APPLICATIONS",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "180",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "MANAGEMENT",
+        "level": "POST GRADUATE",
+        "course": "MBA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "300",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "ELECTRONICS & COMMUNICATION ENGG",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "24",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "COMPUTER SCIENCE AND ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "24",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "120",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRONICS & COMMUNICATION ENGG",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "240",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "MANUFACTURING ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "24",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "VLSI AND EMBEDDED SYSTEMS",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "24",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "MECHATRONICS ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "BIOMEDICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER SCIENCE AND ENGINEERING AND BUSINESS SYSTEMS",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "120",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER AND COMMUNICATION ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "300",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "COMPUTER SCIENCE ENGINEERING (BIG DATA ANALYTICS)",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "UNDER GRADUATE",
+        "course": "BCA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "120",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "MANAGEMENT",
+        "level": "UNDER GRADUATE",
+        "course": "BBA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "120",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Puducherry",
+    "university": "Pondicherry University, Pondicherry"
   },
   {
     "aicte_id": "1-44642771271",
@@ -207,7 +2080,110 @@
     "institution_type": "Private-Self Financing",
     "women": "N",
     "minority": "Y",
-    "other_id": "1-7717771"
+    "other_id": "1-7717771",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "120",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "MANAGEMENT",
+        "level": "POST GRADUATE",
+        "course": "MBA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "180",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "POST GRADUATE",
+        "course": "MASTERS IN COMPUTER APPLICATIONS",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER SCIENCE & ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "120",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRONICS & COMMUNICATION ENGG",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "120",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "INFORMATION TECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Puducherry",
+    "university": "Pondicherry University, Pondicherry"
   },
   {
     "aicte_id": "1-44644484493",
@@ -217,7 +2193,33 @@
     "institution_type": "Private-Self Financing",
     "women": "N",
     "minority": "N",
-    "other_id": "1-44420935583"
+    "other_id": "1-44420935583",
+    "programmes": [
+      {
+        "programme": "MANAGEMENT",
+        "level": "UNDER GRADUATE",
+        "course": "BBA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "110",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "UNDER GRADUATE",
+        "course": "BCA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Puducherry",
+    "university": "Pondicherry University, Pondicherry"
   },
   {
     "aicte_id": "1-44644451043",
@@ -227,7 +2229,33 @@
     "institution_type": "Private-Self Financing",
     "women": "N",
     "minority": "N",
-    "other_id": "1-44359202263"
+    "other_id": "1-44359202263",
+    "programmes": [
+      {
+        "programme": "MANAGEMENT",
+        "level": "UNDER GRADUATE",
+        "course": "BBA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "100",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "UNDER GRADUATE",
+        "course": "BCA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "75",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Puducherry",
+    "university": "Pondicherry University, Pondicherry"
   },
   {
     "aicte_id": "1-44644113902",
@@ -237,7 +2265,33 @@
     "institution_type": "Private-Self Financing",
     "women": "N",
     "minority": "Y",
-    "other_id": "1-44233549393"
+    "other_id": "1-44233549393",
+    "programmes": [
+      {
+        "programme": "MANAGEMENT",
+        "level": "UNDER GRADUATE",
+        "course": "BBA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "50",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "UNDER GRADUATE",
+        "course": "BCA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "50",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Puducherry",
+    "university": "Pondicherry University, Pondicherry"
   },
   {
     "aicte_id": "1-44644214849",
@@ -247,7 +2301,22 @@
     "institution_type": "Private-Self Financing",
     "women": "N",
     "minority": "N",
-    "other_id": "1-44245462103"
+    "other_id": "1-44245462103",
+    "programmes": [
+      {
+        "programme": "MANAGEMENT",
+        "level": "UNDER GRADUATE",
+        "course": "BBA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Puducherry",
+    "university": "Pondicherry University, Pondicherry"
   },
   {
     "aicte_id": "1-44644153300",
@@ -257,7 +2326,22 @@
     "institution_type": "Private-Self Financing",
     "women": "Y",
     "minority": "Y",
-    "other_id": "1-44239665214"
+    "other_id": "1-44239665214",
+    "programmes": [
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "UNDER GRADUATE",
+        "course": "BCA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "50",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Puducherry",
+    "university": "Pondicherry University, Pondicherry"
   },
   {
     "aicte_id": "1-44644039427",
@@ -267,7 +2351,33 @@
     "institution_type": "Private-Self Financing",
     "women": "N",
     "minority": "N",
-    "other_id": "1-44228481185"
+    "other_id": "1-44228481185",
+    "programmes": [
+      {
+        "programme": "MANAGEMENT",
+        "level": "UNDER GRADUATE",
+        "course": "BBA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "UNDER GRADUATE",
+        "course": "BCA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Puducherry",
+    "university": "Pondicherry University, Pondicherry"
   },
   {
     "aicte_id": "1-44643810195",
@@ -277,7 +2387,33 @@
     "institution_type": "Private-Self Financing",
     "women": "N",
     "minority": "N",
-    "other_id": "1-43877969879"
+    "other_id": "1-43877969879",
+    "programmes": [
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "UNDER GRADUATE",
+        "course": "BCA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "50",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "MANAGEMENT",
+        "level": "UNDER GRADUATE",
+        "course": "BBA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "100",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Puducherry",
+    "university": "Pondicherry University, Pondicherry"
   },
   {
     "aicte_id": "1-44644040383",
@@ -287,7 +2423,22 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-44228628674"
+    "other_id": "1-44228628674",
+    "programmes": [
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "UNDER GRADUATE",
+        "course": "BCA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Puducherry",
+    "university": "Pondicherry University, Pondicherry"
   },
   {
     "aicte_id": "1-44644162842",
@@ -297,7 +2448,33 @@
     "institution_type": "Private-Self Financing",
     "women": "N",
     "minority": "N",
-    "other_id": "1-44240935933"
+    "other_id": "1-44240935933",
+    "programmes": [
+      {
+        "programme": "MANAGEMENT",
+        "level": "UNDER GRADUATE",
+        "course": "BBA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "UNDER GRADUATE",
+        "course": "BCA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Puducherry",
+    "university": "Pondicherry University, Pondicherry"
   },
   {
     "aicte_id": "1-44638983207",
@@ -307,7 +2484,44 @@
     "institution_type": "Deemed to be University(Pvt)",
     "women": "N",
     "minority": "N",
-    "other_id": "1-43938333453"
+    "other_id": "1-43938333453",
+    "programmes": [
+      {
+        "programme": "MANAGEMENT",
+        "level": "POST GRADUATE",
+        "course": "MBA (HOSPITAL ADMINISTRATION)",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "MANAGEMENT",
+        "level": "UNDER GRADUATE",
+        "course": "BBA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "UNDER GRADUATE",
+        "course": "BCA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Puducherry",
+    "university": "Sri Balaji Vidyapeeth, Mahatma Gandhi Medical College Campus, Puducherry"
   },
   {
     "aicte_id": "1-44644706581",
@@ -317,6 +2531,21 @@
     "institution_type": "Private-Self Financing",
     "women": "N",
     "minority": "N",
-    "other_id": "1-44468810854"
+    "other_id": "1-44468810854",
+    "programmes": [
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "UNDER GRADUATE",
+        "course": "BCA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "40",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Puducherry",
+    "university": "Pondicherry University, Pondicherry"
   }
 ]

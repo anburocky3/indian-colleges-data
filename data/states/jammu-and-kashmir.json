@@ -7,7 +7,22 @@
     "institution_type": "Govt aided",
     "women": "N",
     "minority": "N",
-    "other_id": "1-2857231461"
+    "other_id": "1-2857231461",
+    "programmes": [
+      {
+        "programme": "MANAGEMENT",
+        "level": "POST GRADUATE",
+        "course": "MBA(GENERAL MANAGEMENT)",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "University of Kashmir, Srinagar"
   },
   {
     "aicte_id": "1-44638474216",
@@ -17,7 +32,88 @@
     "institution_type": "State Government University",
     "women": "N",
     "minority": "N",
-    "other_id": "1-7399545041"
+    "other_id": "1-7399545041",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "POWER SYSTEM AND CONTROL",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "18",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "ELECTRONICS & COMMUNICATION ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "18",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "DESIGN ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "18",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "NOT APPLICABLE"
   },
   {
     "aicte_id": "1-44638108861",
@@ -27,7 +123,55 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-7418421841"
+    "other_id": "1-7418421841",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRONICS & COMMUNICATION ENGG",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "Baba Ghulam Shah Badshah University"
   },
   {
     "aicte_id": "1-44638166773",
@@ -37,7 +181,33 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-3691016684"
+    "other_id": "1-3691016684",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "MCA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "62",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "M Tech Computer Science",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "22",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "University of Kashmir"
   },
   {
     "aicte_id": "1-44638239999",
@@ -47,7 +217,22 @@
     "institution_type": "Central University",
     "women": "N",
     "minority": "N",
-    "other_id": "1-3379880901"
+    "other_id": "1-3379880901",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "COMPUTER SCIENCE AND TECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "NOT APPLICABLE"
   },
   {
     "aicte_id": "1-44637285239",
@@ -57,7 +242,66 @@
     "institution_type": "Private-Self Financing",
     "women": "N",
     "minority": "N",
-    "other_id": "1-43411121953"
+    "other_id": "1-43411121953",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "90",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ARTIFICIAL INTELLIGENCE (AI)",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "90",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "INFORMATION TECHNOLOGY AND ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "UNIVERSITY OF KASHMIR(SRINAGAR)"
   },
   {
     "aicte_id": "1-44638622615",
@@ -67,7 +311,55 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-2512098211"
+    "other_id": "1-2512098211",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "COMPUTER ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "Islamic University of Sciences and Technology University, Pulwama"
   },
   {
     "aicte_id": "1-44637291540",
@@ -77,7 +369,55 @@
     "institution_type": "Private-Self Financing",
     "women": "N",
     "minority": "Y",
-    "other_id": "1-453022272"
+    "other_id": "1-453022272",
+    "programmes": [
+      {
+        "programme": "MANAGEMENT",
+        "level": "POST GRADUATE",
+        "course": "MBA(GENERAL MANAGEMENT)",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "POST GRADUATE",
+        "course": "MASTER OF COMPUTER APPLICATIONS",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "MANAGEMENT",
+        "level": "UNDER GRADUATE",
+        "course": "BBA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "120",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "UNDER GRADUATE",
+        "course": "BCA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "120",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "Kashmir University, Jammu and Kashmir"
   },
   {
     "aicte_id": "1-44639424174",
@@ -87,7 +427,44 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-483909511"
+    "other_id": "1-483909511",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "COMPUTER SCIENCE & ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "J&K State Board of Technical Education"
   },
   {
     "aicte_id": "1-44638903919",
@@ -97,7 +474,66 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-3693775341"
+    "other_id": "1-3693775341",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER SCIENCE & ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "BIOMEDICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "CLUSTER UNIVERSITY SRINAGAR"
   },
   {
     "aicte_id": "1-44638949651",
@@ -107,7 +543,33 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-12121996303"
+    "other_id": "1-12121996303",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER SCIENCE AND ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "Jammu University , Jammu Tawi"
   },
   {
     "aicte_id": "1-44639340662",
@@ -117,7 +579,44 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-1037778081"
+    "other_id": "1-1037778081",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "AUTOMOBILE ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "COMPUTER ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "J&K State Board of Technical Education"
   },
   {
     "aicte_id": "1-44639971847",
@@ -127,7 +626,77 @@
     "institution_type": "Private-Self Financing",
     "women": "N",
     "minority": "N",
-    "other_id": "1-446189381"
+    "other_id": "1-446189381",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "COMPUTER ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRONICS & COMMUNICATION ENGG",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "INFORMATION TECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "J&K State Board of Technical Education"
   },
   {
     "aicte_id": "1-44639455050",
@@ -137,7 +706,44 @@
     "institution_type": "Deemed to be University(Govt)",
     "women": "N",
     "minority": "N",
-    "other_id": "1-498139141"
+    "other_id": "1-498139141",
+    "programmes": [
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "POST GRADUATE",
+        "course": "MASTERS IN COMPUTER APPLICATIONS",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "CYBER FORENSICS",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "18",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "UNDER GRADUATE",
+        "course": "BCA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "NIELIT Deemed to be University"
   },
   {
     "aicte_id": "1-44639997626",
@@ -147,7 +753,44 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-1041356851"
+    "other_id": "1-1041356851",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "HOTEL MANAGEMENT AND CATERING",
+        "level": "DIPLOMA",
+        "course": "HOSPITALITY AND TOURISM ADMINISTRATION",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "J&K State Board of Technical Education"
   },
   {
     "aicte_id": "1-44639507691",
@@ -157,7 +800,44 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-935761941"
+    "other_id": "1-935761941",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "J&K State Board of Technical Education"
   },
   {
     "aicte_id": "1-44639881976",
@@ -167,7 +847,44 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-483596771"
+    "other_id": "1-483596771",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "COMPUTER SCIENCE & ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "J&K State Board of Technical Education"
   },
   {
     "aicte_id": "1-44639553289",
@@ -177,7 +894,44 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-1053089281"
+    "other_id": "1-1053089281",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "AUTOMOBILE ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "J&K State Board of Technical Education"
   },
   {
     "aicte_id": "1-44639819826",
@@ -187,7 +941,44 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-1039532121"
+    "other_id": "1-1039532121",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "COMPUTER ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "J&K State Board of Technical Education"
   },
   {
     "aicte_id": "1-44639557495",
@@ -197,7 +988,66 @@
     "institution_type": "Private-Self Financing",
     "women": "N",
     "minority": "N",
-    "other_id": "1-454069293"
+    "other_id": "1-454069293",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "162",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "COMPUTER ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "36",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "36",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "54",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "54",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "J&K State Board of Technical Education"
   },
   {
     "aicte_id": "1-44639720788",
@@ -207,7 +1057,44 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-1049369841"
+    "other_id": "1-1049369841",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "OFFICE MANAGEMENT AND COMPUTER APPLICATION",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "J&K State Board of Technical Education"
   },
   {
     "aicte_id": "1-44639940831",
@@ -217,7 +1104,99 @@
     "institution_type": "Government",
     "women": "Y",
     "minority": "N",
-    "other_id": "1-483935131"
+    "other_id": "1-483935131",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRONICS & COMMUNICATION ENGG",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "COMPUTER ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "MEDICAL LAB TECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "GARMENT TECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "FOOD TECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "OFFICE MANAGEMENT AND COMPUTER APPLICATION",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "TEXTILE TECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "TRAVEL AND TOURISM",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "J&K State Board of Technical Education"
   },
   {
     "aicte_id": "1-44640317978",
@@ -227,7 +1206,121 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-487904031"
+    "other_id": "1-487904031",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER SCEINCE AND ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRONICS & COMMUNICATION ENGG",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "COMPUTER SCIENCE & ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "18",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "18",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "18",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "18",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "ELECTRICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "18",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "Jammu University , Jammu Tawi"
   },
   {
     "aicte_id": "1-44640465164",
@@ -237,7 +1330,66 @@
     "institution_type": "Private-Self Financing",
     "women": "N",
     "minority": "N",
-    "other_id": "1-456138611"
+    "other_id": "1-456138611",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "180",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRONICS & COMMUNICATION ENGG",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "COMPUTER ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "J&K State Board of Technical Education"
   },
   {
     "aicte_id": "1-44640683443",
@@ -247,7 +1399,22 @@
     "institution_type": "State Government University",
     "women": "N",
     "minority": "N",
-    "other_id": "1-502872221"
+    "other_id": "1-502872221",
+    "programmes": [
+      {
+        "programme": "MANAGEMENT",
+        "level": "POST GRADUATE",
+        "course": "MBA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "NOT APPLICABLE"
   },
   {
     "aicte_id": "1-44640816136",
@@ -257,7 +1424,77 @@
     "institution_type": "Government",
     "women": "Y",
     "minority": "N",
-    "other_id": "1-483107441"
+    "other_id": "1-483107441",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRONICS & COMMUNICATION ENGG",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "COMPUTER ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "TEXTILE DESIGNING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "MEDICAL LAB TECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "OFFICE MANAGEMENT AND COMPUTER APPLICATION",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "J&K State Board of Technical Education"
   },
   {
     "aicte_id": "1-44640352129",
@@ -267,7 +1504,110 @@
     "institution_type": "Private-Self Financing",
     "women": "N",
     "minority": "N",
-    "other_id": "1-3955211"
+    "other_id": "1-3955211",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "MANAGEMENT",
+        "level": "POST GRADUATE",
+        "course": "MBA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "POST GRADUATE",
+        "course": "MASTERS IN COMPUTER APPLICATIONS",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER SCIENCE AND ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "180",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "COMPUTER SCIENCE & ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "9",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY)",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "Jammu University , Jammu Tawi"
   },
   {
     "aicte_id": "1-44640356595",
@@ -277,7 +1617,55 @@
     "institution_type": "Private-Self Financing",
     "women": "N",
     "minority": "N",
-    "other_id": "1-16821231"
+    "other_id": "1-16821231",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "90",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER SCIENCE AND ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "90",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "90",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "Jammu University , Jammu Tawi"
   },
   {
     "aicte_id": "1-44640195208",
@@ -287,7 +1675,55 @@
     "institution_type": "Private-Self Financing",
     "women": "N",
     "minority": "N",
-    "other_id": "1-485007171"
+    "other_id": "1-485007171",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "COMPUTER ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "32",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "CIVIL ENGINEERING (PUBLIC HEALTH ENGINEERING)",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "32",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "MEDICAL ELECTRONICS",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "32",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "QUANTITY SURVEYING AND CONSTRUCTION MANAGEMENT",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "32",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "J&K State Board of Technical Education"
   },
   {
     "aicte_id": "1-44640869957",
@@ -297,7 +1733,44 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-1045774011"
+    "other_id": "1-1045774011",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "J&K State Board of Technical Education"
   },
   {
     "aicte_id": "1-44641421071",
@@ -307,7 +1780,121 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-492861561"
+    "other_id": "1-492861561",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "COMPUTER ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "35",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "45",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "45",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "45",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ARCHITECTURAL ASSISTANTSHIP",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "AUTOMOBILE ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "35",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "INSTRUMENTATION AND CONTROL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "HOTEL MANAGEMENT AND CATERING",
+        "level": "DIPLOMA",
+        "course": "TRAVEL AND TOURISM",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "45",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "INFORMATION TECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "MEDICAL LABORATORY TECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "J&K State Board of Technical Education"
   },
   {
     "aicte_id": "1-44640921401",
@@ -317,7 +1904,22 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-511424471"
+    "other_id": "1-511424471",
+    "programmes": [
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "POST GRADUATE",
+        "course": "MASTER OF COMPUTER APPLICATIONS",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "Jammu University , Jammu Tawi"
   },
   {
     "aicte_id": "1-44641091769",
@@ -327,7 +1929,121 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-474267171"
+    "other_id": "1-474267171",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "LEATHER TECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "AUTOMOBILE ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRONICS & COMMUNICATION ENGG",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "COMPUTER ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "45",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "WOOD TECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "INFORMATION TECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "MEDICAL LABORATORY TECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "J&K State Board of Technical Education"
   },
   {
     "aicte_id": "1-44641062871",
@@ -337,7 +2053,44 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-1045796631"
+    "other_id": "1-1045796631",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "J&K State Board of Technical Education"
   },
   {
     "aicte_id": "1-44641188037",
@@ -347,7 +2100,22 @@
     "institution_type": "State Government University",
     "women": "N",
     "minority": "N",
-    "other_id": "1-475927671"
+    "other_id": "1-475927671",
+    "programmes": [
+      {
+        "programme": "MANAGEMENT",
+        "level": "POST GRADUATE",
+        "course": "MBA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "120",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "NOT APPLICABLE"
   },
   {
     "aicte_id": "1-44641189358",
@@ -357,7 +2125,44 @@
     "institution_type": "Private-Self Financing",
     "women": "N",
     "minority": "N",
-    "other_id": "1-14253613"
+    "other_id": "1-14253613",
+    "programmes": [
+      {
+        "programme": "MANAGEMENT",
+        "level": "POST GRADUATE",
+        "course": "MBA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "MANAGEMENT",
+        "level": "UNDER GRADUATE",
+        "course": "BBA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "120",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "UNDER GRADUATE",
+        "course": "BCA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "100",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "Jammu University , Jammu Tawi"
   },
   {
     "aicte_id": "1-44641319430",
@@ -367,7 +2172,33 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-1037261391"
+    "other_id": "1-1037261391",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "AUTOMOBILE ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "J&K State Board of Technical Education"
   },
   {
     "aicte_id": "1-44641322405",
@@ -377,7 +2208,77 @@
     "institution_type": "State Government University",
     "women": "N",
     "minority": "N",
-    "other_id": "1-465756641"
+    "other_id": "1-465756641",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRONICS & COMMUNICATION ENGG",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER SCIENCE & ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "POST GRADUATE",
+        "course": "MASTERS IN COMPUTER APPLICATIONS",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "FOOD TECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "Islamic University of Sciences and Technology University, Pulwama"
   },
   {
     "aicte_id": "1-44640897288",
@@ -387,7 +2288,44 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-1033271921"
+    "other_id": "1-1033271921",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "COMPUTER ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "J&K State Board of Technical Education"
   },
   {
     "aicte_id": "1-44640899477",
@@ -397,7 +2335,44 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-1045157161"
+    "other_id": "1-1045157161",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "J&K State Board of Technical Education"
   },
   {
     "aicte_id": "1-44640900001",
@@ -407,7 +2382,44 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-1037776551"
+    "other_id": "1-1037776551",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "AUTOMOBILE ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "J&K State Board of Technical Education"
   },
   {
     "aicte_id": "1-44641495511",
@@ -417,7 +2429,44 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-1035511421"
+    "other_id": "1-1035511421",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "AUTOMOBILE ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "J&K State Board of Technical Education"
   },
   {
     "aicte_id": "1-44641496025",
@@ -427,7 +2476,44 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-1037108351"
+    "other_id": "1-1037108351",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "INSTRUMENTATION & CONTROL",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "J&K State Board of Technical Education"
   },
   {
     "aicte_id": "1-44641496531",
@@ -437,7 +2523,44 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-1052010131"
+    "other_id": "1-1052010131",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "COMPUTER ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "AUTOMOBILE ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "J&K State Board of Technical Education"
   },
   {
     "aicte_id": "1-44640865388",
@@ -447,7 +2570,44 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-1049358594"
+    "other_id": "1-1049358594",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "ELECTRONICS & COMMUNICATION ENGG",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "COMPUTER ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "DIPLOMA",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "J&K State Board of Technical Education"
   },
   {
     "aicte_id": "1-44641858154",
@@ -457,7 +2617,66 @@
     "institution_type": "State Government University",
     "women": "N",
     "minority": "N",
-    "other_id": "1-22015311"
+    "other_id": "1-22015311",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "INFORMATION TECHNOLOGY AND ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER SCIENCE AND ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "NOT APPLICABLE"
   },
   {
     "aicte_id": "1-44641791953",
@@ -467,7 +2686,88 @@
     "institution_type": "Private-Self Financing",
     "women": "N",
     "minority": "Y",
-    "other_id": "1-462068941"
+    "other_id": "1-462068941",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER SCIENCE AND ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "120",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "INFORMATION TECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "Jammu University , Jammu Tawi"
   },
   {
     "aicte_id": "1-44641730970",
@@ -477,7 +2777,132 @@
     "institution_type": "Private-Self Financing",
     "women": "N",
     "minority": "N",
-    "other_id": "1-7376611"
+    "other_id": "1-7376611",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "ELECTRONICS & COMMUNICATION ENGG",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "18",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "18",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "120",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRONICS & COMMUNICATION ENGG",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "180",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "180",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "POST GRADUATE",
+        "course": "MASTERS IN COMPUTER APPLICATIONS",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "MANAGEMENT",
+        "level": "POST GRADUATE",
+        "course": "MBA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "120",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "120",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "MANAGEMENT",
+        "level": "UNDER GRADUATE",
+        "course": "BBA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "120",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ARTIFICIAL INTELLIGENCE (AI)",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "Kashmir University, Jammu and Kashmir"
   },
   {
     "aicte_id": "1-44643103570",
@@ -487,7 +2912,176 @@
     "institution_type": "State Government University",
     "women": "N",
     "minority": "N",
-    "other_id": "1-40782250"
+    "other_id": "1-40782250",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRONICS & COMMUNICATION ENGG",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "120",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "MECHANICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "Smart Manufacturing",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "18",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "MANAGEMENT",
+        "level": "POST GRADUATE",
+        "course": "MBA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "ARTIFICIAL INTELLIGENCE",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "18",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "ELECTRONICS & COMMUNICATION ENGG",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "18",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER SCIENCE & ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "120",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "ENERGY SYSTEMS",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "18",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ELECTRICAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "MATHEMATICS AND COMPUTING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "BIOTECHNOLOGY",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "DESIGN",
+        "level": "UNDER GRADUATE",
+        "course": "DESIGN",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "ROBOTICS AND ARTIFICIAL INTELLIGENCE",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "MANAGEMENT",
+        "level": "Integrated",
+        "course": "BBA/MBA",
+        "course_type": "Course Institute-2",
+        "shift": "",
+        "availability": "",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "None"
   },
   {
     "aicte_id": "1-44643420715",
@@ -497,7 +3091,33 @@
     "institution_type": "State Government University",
     "women": "N",
     "minority": "N",
-    "other_id": "1-460937221"
+    "other_id": "1-460937221",
+    "programmes": [
+      {
+        "programme": "MANAGEMENT",
+        "level": "POST GRADUATE",
+        "course": "MBA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "54",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "MANAGEMENT",
+        "level": "UNDER GRADUATE",
+        "course": "BBA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "45",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "BGSB University"
   },
   {
     "aicte_id": "1-44642886933",
@@ -507,7 +3127,33 @@
     "institution_type": "State Government University",
     "women": "N",
     "minority": "N",
-    "other_id": "1-22043841"
+    "other_id": "1-22043841",
+    "programmes": [
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "POST GRADUATE",
+        "course": "MASTERS IN COMPUTER APPLICATIONS",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "UNDER GRADUATE",
+        "course": "BCA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "40",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "NOT APPLICABLE"
   },
   {
     "aicte_id": "1-44644481018",
@@ -517,7 +3163,22 @@
     "institution_type": "Private-Self Financing",
     "women": "N",
     "minority": "N",
-    "other_id": "1-44411137274"
+    "other_id": "1-44411137274",
+    "programmes": [
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "UNDER GRADUATE",
+        "course": "BCA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "140",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "UNIVERSITY OF KASHMIR(SRINAGAR)"
   },
   {
     "aicte_id": "1-44644412848",
@@ -527,7 +3188,22 @@
     "institution_type": "Private-Self Financing",
     "women": "N",
     "minority": "N",
-    "other_id": "1-44338513214"
+    "other_id": "1-44338513214",
+    "programmes": [
+      {
+        "programme": "MANAGEMENT",
+        "level": "UNDER GRADUATE",
+        "course": "BBA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "Jammu University , Jammu Tawi"
   },
   {
     "aicte_id": "1-44645383157",
@@ -537,7 +3213,22 @@
     "institution_type": "Government",
     "women": "N",
     "minority": "N",
-    "other_id": "1-11315655511"
+    "other_id": "1-11315655511",
+    "programmes": [
+      {
+        "programme": "MANAGEMENT",
+        "level": "POST GRADUATE",
+        "course": "MBA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "UNIVERSITY OF KASHMIR(SRINAGAR)"
   },
   {
     "aicte_id": "1-44645402513",
@@ -547,7 +3238,77 @@
     "institution_type": "Central University",
     "women": "N",
     "minority": "N",
-    "other_id": "1-3361171701"
+    "other_id": "1-3361171701",
+    "programmes": [
+      {
+        "programme": "MANAGEMENT",
+        "level": "POST GRADUATE",
+        "course": "MBA(HUMAN RESOURCE MANAGEMENT)",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "MANAGEMENT",
+        "level": "POST GRADUATE",
+        "course": "MBA(TOURISM MANAGEMENT)",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "MANAGEMENT",
+        "level": "POST GRADUATE",
+        "course": "MBA(MARKETING MANAGEMENT)",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "MANAGEMENT/IT/ ITES",
+        "level": "BACHELOR OF VOCATION (B. VOC)",
+        "course": "TOURISM MANAGEMENT",
+        "course_type": "Vocational Course",
+        "shift": "",
+        "availability": "",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "MANAGEMENT/IT/ ITES",
+        "level": "BACHELOR OF VOCATION (B. VOC)",
+        "course": "BANKING AND FINANCIAL SERVICES",
+        "course_type": "Vocational Course",
+        "shift": "",
+        "availability": "",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "MANAGEMENT/IT/ ITES",
+        "level": "BACHELOR OF VOCATION (B. VOC)",
+        "course": "RETAIL MANAGEMENT",
+        "course_type": "Vocational Course",
+        "shift": "",
+        "availability": "",
+        "intake": "30",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "NOT APPLICABLE"
   },
   {
     "aicte_id": "1-44644910206",
@@ -557,7 +3318,33 @@
     "institution_type": "Govt aided",
     "women": "N",
     "minority": "N",
-    "other_id": "1-44514133716"
+    "other_id": "1-44514133716",
+    "programmes": [
+      {
+        "programme": "MANAGEMENT",
+        "level": "UNDER GRADUATE",
+        "course": "BBA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "160",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "UNDER GRADUATE",
+        "course": "BCA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "80",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "UNIVERSITY OF KASHMIR(SRINAGAR)"
   },
   {
     "aicte_id": "1-44760102328",
@@ -567,7 +3354,33 @@
     "institution_type": "State Government University",
     "women": "N",
     "minority": "N",
-    "other_id": "1-44760102328"
+    "other_id": "1-44760102328",
+    "programmes": [
+      {
+        "programme": "COMPUTER APPLICATIONS",
+        "level": "UNDER GRADUATE",
+        "course": "BCA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "240",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "MANAGEMENT",
+        "level": "UNDER GRADUATE",
+        "course": "BBA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "180",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "Cluster University of Jammu"
   },
   {
     "aicte_id": "1-44784210107",
@@ -577,6 +3390,76 @@
     "institution_type": "Central University",
     "women": "N",
     "minority": "N",
-    "other_id": "1-44784210107"
+    "other_id": "1-44784210107",
+    "programmes": [
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "CIVIL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "60",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "UNDER GRADUATE",
+        "course": "COMPUTER SCIENCE & ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "44",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "COMPUTER SCIENCE AND ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "25",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "ENGINEERING AND TECHNOLOGY",
+        "level": "POST GRADUATE",
+        "course": "STRUCTURAL ENGINEERING",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "25",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "MANAGEMENT",
+        "level": "UNDER GRADUATE",
+        "course": "BBA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "40",
+        "enrollment": "",
+        "placement": ""
+      },
+      {
+        "programme": "MANAGEMENT",
+        "level": "POST GRADUATE",
+        "course": "MBA",
+        "course_type": "Course Institute-1",
+        "shift": "1st Shift",
+        "availability": "FULL TIME",
+        "intake": "40",
+        "enrollment": "",
+        "placement": ""
+      }
+    ],
+    "state": "Jammu and Kashmir",
+    "university": "Central University of Jammu & Kashmir, Jammu & Kashmir"
   }
 ]

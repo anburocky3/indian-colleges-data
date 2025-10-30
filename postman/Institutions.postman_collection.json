@@ -2,7 +2,7 @@
   "info": {
     "name": "Indian Colleges List API - AICTE Data",
     "_postman_id": "indian-colleges-aicte",
-    "description": "Collection with requests for /api/institutions, /api/institution/:aicteid and state endpoints",
+    "description": "Collection with requests for /api/institutions, state endpoints and programme details.",
     "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
   },
   "item": [
@@ -38,44 +38,46 @@
       "response": []
     },
     {
-      "name": "GET /api/institution/:aicteid (example)",
+      "name": "GET /api/institutions/states (state list)",
       "request": {
         "method": "GET",
         "header": [],
         "url": {
-          "raw": "{{base_url}}/api/institution/1-44638482322?course=1&year=2025-2026",
+          "raw": "{{base_url}}/api/institutions/states",
           "host": ["{{base_url}}"],
-          "path": ["api", "institution", "1-44638482322"],
-          "query": [
-            { "key": "course", "value": "1" },
-            { "key": "year", "value": "2025-2026" }
+          "path": ["api", "institutions", "states"]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "GET /api/institutions/states/:slug (example)",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{base_url}}/api/institutions/states/tamil-nadu",
+          "host": ["{{base_url}}"],
+          "path": ["api", "institutions", "states", "tamil-nadu"]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "GET /api/institutions/states/:state/:aicteid (example)",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{base_url}}/api/institutions/states/Tamil%20Nadu/1-44641241273",
+          "host": ["{{base_url}}"],
+          "path": [
+            "api",
+            "institutions",
+            "states",
+            "Tamil%20Nadu",
+            "1-44641241273"
           ]
-        }
-      },
-      "response": []
-    },
-    {
-      "name": "GET /api/institutions/state (state list)",
-      "request": {
-        "method": "GET",
-        "header": [],
-        "url": {
-          "raw": "{{base_url}}/api/institutions/state",
-          "host": ["{{base_url}}"],
-          "path": ["api", "institutions", "state"]
-        }
-      },
-      "response": []
-    },
-    {
-      "name": "GET /api/institutions/state/:slug (example)",
-      "request": {
-        "method": "GET",
-        "header": [],
-        "url": {
-          "raw": "{{base_url}}/api/institutions/state/tamil-nadu",
-          "host": ["{{base_url}}"],
-          "path": ["api", "institutions", "state", "tamil-nadu"]
         }
       },
       "response": []
