@@ -1,0 +1,962 @@
+[
+  {
+    "aicte_id": "1-44638422777",
+    "institute_name": "DHEMAJI POLYTECHNIC",
+    "address": "SILAPATHAR, DIST : DHEMAJI, PIN: 787058, ASSAM.",
+    "district": "DHEMAJI",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3401341381"
+  },
+  {
+    "aicte_id": "1-44638481824",
+    "institute_name": "TINSUKIA POLYTECHNIC",
+    "address": "37/73 NRL GRANT HUKANPUKHARI, HABEDA PATH MAKUM,",
+    "district": "TINSUKIA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4691753691"
+  },
+  {
+    "aicte_id": "1-44638425948",
+    "institute_name": "GOALPARA POLYTECHNIC",
+    "address": "GOALPARA EAST GOALPARA",
+    "district": "GOALPARA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3399607211"
+  },
+  {
+    "aicte_id": "1-44638431384",
+    "institute_name": "KARIMGANJ POLYTECHNIC",
+    "address": "MAIZGRAM,KARIMGANJ",
+    "district": "KARIMGANJ",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3406840921"
+  },
+  {
+    "aicte_id": "1-44638471396",
+    "institute_name": "DHEMAJI ENGINEERING COLLEGE",
+    "address": "DHEMAJI",
+    "district": "DHEMAJI",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-7427715951"
+  },
+  {
+    "aicte_id": "1-44638335204",
+    "institute_name": "CENTRE FOR MANAGEMENT STUDIES",
+    "address": "DIBRUGARH UNIVERSITY NH 37",
+    "district": "DIBRUGARH",
+    "institution_type": "State Government University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-2874919101"
+  },
+  {
+    "aicte_id": "1-44638088911",
+    "institute_name": "SIBSAGAR  POLYTECHNIC",
+    "address": "SIBSAGAR",
+    "district": "SIBSAGAR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3400206781"
+  },
+  {
+    "aicte_id": "1-44638191336",
+    "institute_name": "NALBARI POLYTECHNIC",
+    "address": "CHANDKUCHI",
+    "district": "NALBARI",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3400637861"
+  },
+  {
+    "aicte_id": "1-44638229566",
+    "institute_name": "MORIGAON POLYTECHNIC",
+    "address": "KACHAMARI PATHAR, MORIGAON",
+    "district": "MARIGAON",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4747540911"
+  },
+  {
+    "aicte_id": "1-44638230514",
+    "institute_name": "UDALGURI POLYTECHNIC",
+    "address": "BHERGAON CHARIALI, BOGARIBARI, BHERGAON, UDALGURI, BTAD",
+    "district": "UDALGURI",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4682846711"
+  },
+  {
+    "aicte_id": "1-44638234893",
+    "institute_name": "GOLAGHAT ENGINEERING COLLEGE",
+    "address": "BOGORIJENG, P.O. PULIBOR BIDYAPITH",
+    "district": "GOLAGHAT",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-5037364831"
+  },
+  {
+    "aicte_id": "1-44638153779",
+    "institute_name": "BAKSA POLYTECHNIC",
+    "address": "BELGURI PATHAR BAKSA",
+    "district": "BAKSA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3400261511"
+  },
+  {
+    "aicte_id": "1-44638198138",
+    "institute_name": "LAKHIMPUR POLYTECHNIC",
+    "address": "BIHPURIA",
+    "district": "LAKHIMPUR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3404797531"
+  },
+  {
+    "aicte_id": "1-44638199519",
+    "institute_name": "SONITPUR POLYTECHNIC",
+    "address": "DHEKIAJULI",
+    "district": "SONITPUR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3399948751"
+  },
+  {
+    "aicte_id": "1-44638752703",
+    "institute_name": "GOLAGHAT POLYTECHNIC",
+    "address": "FURKATING",
+    "district": "GOLAGHAT",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3401095231"
+  },
+  {
+    "aicte_id": "1-44638631559",
+    "institute_name": "SCHOLAR'S INSTITUTE OF TECHNOLOGY & MANAGEMENT",
+    "address": "VILL GOG, PO: GARCHUK",
+    "district": "KAMRUP",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3566561"
+  },
+  {
+    "aicte_id": "1-44638704901",
+    "institute_name": "CENTRAL INSTITUTE OF TECHNOLOGY KOKRAJHAR",
+    "address": "BALAGAON, BODOLAND TERRITORIAL COUNCIL, KOKRAJHAR, ASSAM-783370",
+    "district": "KOKRAJHAR",
+    "institution_type": "Deemed to be University(Govt)",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4629663461"
+  },
+  {
+    "aicte_id": "1-44638597411",
+    "institute_name": "DIPHU POLYTECHNIC",
+    "address": "DIPHU POLYTECHNIC,MENTILA",
+    "district": "KARBI ANGLONG",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-2857174951"
+  },
+  {
+    "aicte_id": "1-44638771736",
+    "institute_name": "HAILAKANDI POLYTECHNIC",
+    "address": "LATAKANDI APPIN GRANT",
+    "district": "HAILAKANDI",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-7402669731"
+  },
+  {
+    "aicte_id": "1-44638775849",
+    "institute_name": "CHIRANG POLYTECHNIC",
+    "address": "1 NO GARGAON,BIJNI,P.O-BIJNI,DIST-CHIRANG.ASSAM",
+    "district": "CHIRANG",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4682961531"
+  },
+  {
+    "aicte_id": "1-44638580531",
+    "institute_name": "SCHOOL OF ENGINEERING",
+    "address": "TETELIA ROAD,JALUKBARI,GUWAHATI,ASSAM,PIN CODE-781013",
+    "district": "KAMRUP METROPOLITAN",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3359133131"
+  },
+  {
+    "aicte_id": "1-44638745356",
+    "institute_name": "BARPETA POLYTECHNIC",
+    "address": "GANAKKUCHI",
+    "district": "BARPETA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3398544441"
+  },
+  {
+    "aicte_id": "1-44638841532",
+    "institute_name": "KAMRUP POLYTECHNIC",
+    "address": "BAIHATA CHARIALI, KAMRUP ASSAM",
+    "district": "KAMRUP",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3400789781"
+  },
+  {
+    "aicte_id": "1-44639334311",
+    "institute_name": "DIBRUGARH POLYTECHNIC",
+    "address": "LAHOWAL DIBRUGARH",
+    "district": "DIBRUGARH",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-513935931"
+  },
+  {
+    "aicte_id": "1-44638859693",
+    "institute_name": "BARAK VALLEY ENGINEERING COLLEGE",
+    "address": "OFFICE OF THE PRINCIPAL BARAK VALLEY ENGINEERING COLLEGE, NIRALA, DISTRICT-KARIMGANJ, STATE-ASSAM, PIN-788701, PO- MARJATKANDI",
+    "district": "KARIMGANJ",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4641898901"
+  },
+  {
+    "aicte_id": "1-44638822574",
+    "institute_name": "NORTH EASTERN REGIONAL INSTITUTE OF WATER AND LAND MANAGEMENT",
+    "address": "DOLABARI, P.O. KALIABHOMORA , TEZPUR-784027 , ASSAM",
+    "district": "SONITPUR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4324547536"
+  },
+  {
+    "aicte_id": "1-44639638831",
+    "institute_name": "BODOLAND UNIVERSITY",
+    "address": "DEBARGAON KOKRAJHAR ASSAM PIN 783370",
+    "district": "KOKRAJHAR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1563312101"
+  },
+  {
+    "aicte_id": "1-44640146155",
+    "institute_name": "TRIGUNA SEN SCHOOL OF TECHNOLOGY",
+    "address": "ASSAM UNIVERSITY (CENTRAL UNIVERSITY), SILCHAR",
+    "district": "CACHAR",
+    "institution_type": "Central University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-778749174"
+  },
+  {
+    "aicte_id": "1-44640156556",
+    "institute_name": "KU SCHOOL OF ENGINEERING TECHNOLOGY AND MANAGEMENT",
+    "address": "KORAIKHOWA GAON; NH-37; MOUZA-PARBATIA; DIST-JORHAT",
+    "district": "JORHAT",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-849055451"
+  },
+  {
+    "aicte_id": "1-44639952636",
+    "institute_name": "CENTRE FOR COMPUTER SCIENCE AND APPLICATIONS",
+    "address": "DIBRUGARH UNIVERSITY, DIBRUGARH-786004 ASSAM",
+    "district": "DIBRUGARH",
+    "institution_type": "State Government University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-501867751"
+  },
+  {
+    "aicte_id": "1-44640235973",
+    "institute_name": "ASSAM TEXTILE INSTITUTE",
+    "address": "GNB ROAD. AMBARI.",
+    "district": "KAMRUP METROPOLITAN",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-504424911"
+  },
+  {
+    "aicte_id": "1-44640827550",
+    "institute_name": "BINESWAR BRAHMA ENGINEERING |COLLEGE",
+    "address": "CHANDRAPARA",
+    "district": "KOKRAJHAR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-623096411"
+  },
+  {
+    "aicte_id": "1-44640708009",
+    "institute_name": "RESIDENTIAL GIRLS' POLYTECHNIC",
+    "address": "PULIBOR",
+    "district": "GOLAGHAT",
+    "institution_type": "Government",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-521017041"
+  },
+  {
+    "aicte_id": "1-44640457586",
+    "institute_name": "ASSAM ENGINEERING INSTITUTE",
+    "address": "M.D. ROAD, CHANDMARI, GUWAHATI, ASSAM -781003",
+    "district": "KAMRUP",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-506425183"
+  },
+  {
+    "aicte_id": "1-44640248219",
+    "institute_name": "BONGAIGAON POLYTECHNIC",
+    "address": "BARSHAN GAON BONGAIGAON ASSAM",
+    "district": "BONGAIGAON",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-478166301"
+  },
+  {
+    "aicte_id": "1-44640418138",
+    "institute_name": "INDIAN INSTITUTE OF HANDLOOM TECHNOLOGY GUWAHATI",
+    "address": "NH-37, JAWAHAR NAGAR, KHANAPARA, GUWAHATI-781022",
+    "district": "KAMRUP METROPOLITAN",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-494670781"
+  },
+  {
+    "aicte_id": "1-44640807918",
+    "institute_name": "CENTRAL INSTITUTE OF PETROCHEMICALS ENGINEERING & TECHNOLOGY",
+    "address": "DEPT. OF CHEMICALS & PETROCHEMICALS,  MINISTRY OF CHEMICALS & FERTILIZERS GOVT. OF INDIA PO-CHANGSARI",
+    "district": "KAMRUP",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-464123671"
+  },
+  {
+    "aicte_id": "1-44640723709",
+    "institute_name": "NOWGONG POLYTECHNIC",
+    "address": "POLY ROAD, PANIGAON, NAGAON",
+    "district": "NAGAON",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-495212541"
+  },
+  {
+    "aicte_id": "1-44640260210",
+    "institute_name": "HRH THE PRINCE OF WALES INSTITUTE OF ENGG. & TECH.,",
+    "address": "GAR ALI, JORHAT",
+    "district": "JORHAT",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-505033593"
+  },
+  {
+    "aicte_id": "1-44640687786",
+    "institute_name": "GCC CENTRE OF MANAGEMENT STUDIES",
+    "address": "GAUHATI COMMERCE COLLEGE, R.G. BARUAH ROAD",
+    "district": "KAMRUP METROPOLITAN",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-512591661"
+  },
+  {
+    "aicte_id": "1-44640726984",
+    "institute_name": "DR. BHUPEN HAZARIKA REGIONAL GOVERNMENT FILM AND TELEVISION INSTITUTE",
+    "address": "SILA, CHANGSARI GUWAHATI-781 101",
+    "district": "KAMRUP",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-518946111"
+  },
+  {
+    "aicte_id": "1-44640733901",
+    "institute_name": "JORHAT INSTITUTE OF SCIENCE & TECHNOLOGY",
+    "address": "SATAI, CHENIAMGURI P.O: CHENIJAN JORHAT",
+    "district": "JORHAT",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-462592651"
+  },
+  {
+    "aicte_id": "1-44641214719",
+    "institute_name": "TEZPUR UNIVERSITY",
+    "address": "NAPAAM TEZPUR - 784 028 DISTRICT  :  SONITPUR ASSAM, INDIA",
+    "district": "SONITPUR",
+    "institution_type": "Central University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-786387751"
+  },
+  {
+    "aicte_id": "1-44641512985",
+    "institute_name": "DEPARTMENT OF PETROLEUM TECHNOLOGY",
+    "address": "DI BRUGARH UNIVERSITY RAJABHETA",
+    "district": "DIBRUGARH",
+    "institution_type": "State Government University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-808690791"
+  },
+  {
+    "aicte_id": "1-44640878825",
+    "institute_name": "DON BOSCO INSTITUTE OF MANAGEMENT",
+    "address": "JOYPUR, KHARGHULI",
+    "district": "KAMRUP",
+    "institution_type": "State Private University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-413835731"
+  },
+  {
+    "aicte_id": "1-44641020767",
+    "institute_name": "JORHAT ENGINEERING COLLEGE",
+    "address": "GARMUR JOORHAT",
+    "district": "JORHAT",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-496406701"
+  },
+  {
+    "aicte_id": "1-44641315005",
+    "institute_name": "ASSAM INSTITUTE OF MANAGEMENT",
+    "address": "VIGYAN PATH, PACHIM BORAGAON, GUWAHATI. PIN-781035",
+    "district": "KAMRUP METROPOLITAN",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-499442131"
+  },
+  {
+    "aicte_id": "1-44641357105",
+    "institute_name": "TECHNOLOGY CAMPUS TEZPUR UNIVERSITY",
+    "address": "NAPAM TEZPUR-784028 DISTRICT:SONITPUR ASSAM,INDIA",
+    "district": "SONITPUR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1579527681"
+  },
+  {
+    "aicte_id": "1-44641401309",
+    "institute_name": "SILCHAR POLYTECHNIC",
+    "address": "P.O.- MEHERPUR",
+    "district": "CACHAR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-497258551"
+  },
+  {
+    "aicte_id": "1-44641364412",
+    "institute_name": "GAUHATI UNIVERSITY INSTITUTE OF SCIENCE AND TECHNOLOGY",
+    "address": "INSTITUTE OF SCIENCE AND TECHNOLOGY, GAUHATI UNIVERSITY, GUWAHATI-781014, ASSAM",
+    "district": "KAMRUP",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-506816551"
+  },
+  {
+    "aicte_id": "1-44641445115",
+    "institute_name": "DIBRUGARH UNIVERSITY INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+    "address": "DIBRUGARH UNIVERSITY CAMPUS",
+    "district": "DIBRUGARH",
+    "institution_type": "State Government University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-492932031"
+  },
+  {
+    "aicte_id": "1-44641242147",
+    "institute_name": "PADMASHREE CHANDRAPRAVA SAIKIANI GIRLS' POLYTECHNIC",
+    "address": "BAMUNIMAIDAN GUWAHATI-21 KAMRUP ASSAM",
+    "district": "KAMRUP",
+    "institution_type": "Government",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-502588491"
+  },
+  {
+    "aicte_id": "1-44641411935",
+    "institute_name": "ASSAM ENGINEERING COLLEGE",
+    "address": "P.O.:- JALUKBARI DIST:- KAMRUP(METRO) ASSAM",
+    "district": "KAMRUP METROPOLITAN",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-538728541"
+  },
+  {
+    "aicte_id": "1-44642315872",
+    "institute_name": "ASSAM DON BOSCO UNIVERSITY SCHOOL OF TECHNOLOGY",
+    "address": "AIRPORT ROAD, AZARA GUWAHATI  781017",
+    "district": "KAMRUP",
+    "institution_type": "State Private University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-40338531"
+  },
+  {
+    "aicte_id": "1-44643455251",
+    "institute_name": "NERIM (NORTH EASTERN REGIONAL INSTITUTE OF MANAGEMENT) GUWAHATI",
+    "address": "PARUKUTTY BHAWAN, NABIN NAGAR,R.G.BARUAH ROAD,GUWAHATI",
+    "district": "KAMRUP METROPOLITAN",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-22830883"
+  },
+  {
+    "aicte_id": "1-44643102815",
+    "institute_name": "GIRIJANANDA CHOWDHURY UNIVERSITY, ASSAM",
+    "address": "HATKHOWAPARA, AZARA, GUWAHATI-781017",
+    "district": "KAMRUP METROPOLITAN",
+    "institution_type": "State Private University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-17097385"
+  },
+  {
+    "aicte_id": "1-44643105994",
+    "institute_name": "THE ASSAM ROYAL GLOBAL UNIVERSITY",
+    "address": "BETKUCHI, OPP. TIRUPATI BALAJI TEMPLE, NH 37, GUWAHATI 781035",
+    "district": "KAMRUP METROPOLITAN",
+    "institution_type": "State Private University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3982193"
+  },
+  {
+    "aicte_id": "1-44642529777",
+    "institute_name": "NORTH EASTERN REGIONAL INSTITUTE OF MANAGEMENT(NERIM)",
+    "address": "PADMA NATH SARMAH BHAWAN JOYANAGAR, KHANAPARA",
+    "district": "KAMRUP METROPOLITAN",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-5018541"
+  },
+  {
+    "aicte_id": "1-44644483295",
+    "institute_name": "ANANDARAM DHEKIAL PHOOKAN COLLEGE",
+    "address": "RRB ROAD, SOUTH HAIBORGAON",
+    "district": "NAGAON",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44412911214"
+  },
+  {
+    "aicte_id": "1-44644483354",
+    "institute_name": "NALBARI COLLEGE",
+    "address": "JAPARKUCHI",
+    "district": "NALBARI",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44413275124"
+  },
+  {
+    "aicte_id": "1-44644510300",
+    "institute_name": "S. B. DEORAH COLLEGE",
+    "address": "G.S.ROAD, ULUBARI",
+    "district": "KAMRUP METROPOLITAN",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44450726374"
+  },
+  {
+    "aicte_id": "1-44644497184",
+    "institute_name": "SUREN DAS COLLEGE",
+    "address": "HAJO DHOPARGURI",
+    "district": "KAMRUP",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44448738054"
+  },
+  {
+    "aicte_id": "1-44644351745",
+    "institute_name": "CKB COMMERCE COLLEGE",
+    "address": "KB ROAD, NEAR CIRCUIT HOUSE, JORHAT",
+    "district": "JORHAT",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44307008424"
+  },
+  {
+    "aicte_id": "1-44644379309",
+    "institute_name": "PANDU COLLEGE",
+    "address": "PANDU",
+    "district": "KAMRUP METROPOLITAN",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44323097754"
+  },
+  {
+    "aicte_id": "1-44644367258",
+    "institute_name": "DHSK COLLEGE",
+    "address": "K.C.GOGOI PATH, DIBRUGARH",
+    "district": "DIBRUGARH",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44320833554"
+  },
+  {
+    "aicte_id": "1-44644475823",
+    "institute_name": "B BOROOAH COLLEGE",
+    "address": "B BOROOAH COLLEGE, ULUBARI",
+    "district": "KAMRUP METROPOLITAN",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44400673264"
+  },
+  {
+    "aicte_id": "1-44644518747",
+    "institute_name": "BASUGAON COLLEGE",
+    "address": "WARD NO.- 3, PO & PS- BASUGAON",
+    "district": "CHIRANG",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44451604004"
+  },
+  {
+    "aicte_id": "1-44644413720",
+    "institute_name": "ASIAN INSTITUTE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "HOUSE NO-12, BHASKAR NAGAR",
+    "district": "KAMRUP",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44338872255"
+  },
+  {
+    "aicte_id": "1-44644477050",
+    "institute_name": "PUB KAMRUP COLLEGE",
+    "address": "BAIHATA CHARIALI",
+    "district": "KAMRUP",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44402971104"
+  },
+  {
+    "aicte_id": "1-44644434692",
+    "institute_name": "TINSUKIA COLLEGE",
+    "address": "KACHUJAN GALAPUKHURI ROAD , TINSUKIA",
+    "district": "TINSUKIA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44345743904"
+  },
+  {
+    "aicte_id": "1-44644439351",
+    "institute_name": "MANGALDAI COLLEGE",
+    "address": "VILL UPAHUPARA",
+    "district": "DARRANG",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44346291324"
+  },
+  {
+    "aicte_id": "1-44644330623",
+    "institute_name": "NEF COLLEGE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "SAUKUCHI LOKHRA",
+    "district": "KAMRUP METROPOLITAN",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44286251064"
+  },
+  {
+    "aicte_id": "1-44644161506",
+    "institute_name": "K C DAS COMMERCE COLLEGE",
+    "address": "CHATRIBARI GUWAHATI ASSAM",
+    "district": "KAMRUP METROPOLITAN",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44240656503"
+  },
+  {
+    "aicte_id": "1-44644212493",
+    "institute_name": "GAUHATI COMMERCE COLLEGE",
+    "address": "R.G. BARUAH ROAD NEAR CHANDMARI FLYOVER",
+    "district": "KAMRUP METROPOLITAN",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44245264784"
+  },
+  {
+    "aicte_id": "1-44645016644",
+    "institute_name": "SIBSAGAR COMMERCE COLLEGE",
+    "address": "SIBSAGAR COMMERCE COLLEGE , NEAR SHIV DOUL",
+    "district": "SIBSAGAR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44606648434"
+  },
+  {
+    "aicte_id": "1-44645022870",
+    "institute_name": "JAGANNATH BAROOAH COLLEGE",
+    "address": "BARPATRA ALI, NEAR BARUAH CHARI ALI",
+    "district": "JORHAT",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44608256374"
+  },
+  {
+    "aicte_id": "1-44644980537",
+    "institute_name": "NIELIT TEZPUR",
+    "address": "NIELIT TEZPUR EC PUNIONI, SOLMARA (NEAR ISI TEZPUR)",
+    "district": "SONITPUR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44529823703"
+  },
+  {
+    "aicte_id": "1-44644980615",
+    "institute_name": "NIELIT DIBRUGARH EXTENSION CENTRE",
+    "address": "NIELIT DIBRUGARH MODERKHAT, MELENGIAL GAON, NEAR SESSA PARK, LAHOWAL, DIBRUGARH, ASSAM",
+    "district": "DIBRUGARH",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44529828324"
+  },
+  {
+    "aicte_id": "1-44644980831",
+    "institute_name": "NIELIT KOKRAJHAR EC",
+    "address": "PURANA TITAGURI, THURIBARI",
+    "district": "KOKRAJHAR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44529879243"
+  },
+  {
+    "aicte_id": "1-44644815498",
+    "institute_name": "DIBRU COLLEGE",
+    "address": "DIBRU COLLEGE,P.O. BOIRAGIMOTH, DIBRUGARH,ASSAM",
+    "district": "DIBRUGARH",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44486953684"
+  },
+  {
+    "aicte_id": "1-44644686844",
+    "institute_name": "K.R.B. GIRLS' COLLEGE",
+    "address": "M.B ROAD, FATASHIL GUWAHATI",
+    "district": "KAMRUP METROPOLITAN",
+    "institution_type": "Govt aided",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44467202764"
+  },
+  {
+    "aicte_id": "1-44644584982",
+    "institute_name": "DARRANG COLLEGE",
+    "address": "PAROWA MAHABHAIRAB ROAD",
+    "district": "SONITPUR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44459992744"
+  },
+  {
+    "aicte_id": "1-44671085278",
+    "institute_name": "BODOLAND UNIVERSITY",
+    "address": "RANGALIKHATA, PO:- DEBARGAON DIST: KOKRAJHAR",
+    "district": "KOKRAJHAR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1507445741"
+  },
+  {
+    "aicte_id": "1-44644833870",
+    "institute_name": "PRAGJYOTISHPUR UNIVERSITY",
+    "address": "HAJONGBARI, CHANDRAPUR, GUWAHATI, ASSAM, 781150",
+    "district": "KAMRUP METROPOLITAN",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44491112026"
+  },
+  {
+    "aicte_id": "1-44644980191",
+    "institute_name": "NIELIT GUWAHATI",
+    "address": "2ND FLOOR, ARIT&SC BUILDING, N.H.-37, KHANAPARA, GUWAHATI",
+    "district": "KAMRUP METROPOLITAN",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44529701914"
+  },
+  {
+    "aicte_id": "1-44644980477",
+    "institute_name": "NIELIT JORHAT EC",
+    "address": "NIELIT JORHAT EC, MES GATE RD., ROWRIAH",
+    "district": "JORHAT",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44529814073"
+  },
+  {
+    "aicte_id": "1-44644999645",
+    "institute_name": "GAUHATI COMMERCE COLLEGE",
+    "address": "RG BARUAH ROAD, GUWAHATI-21",
+    "district": "KAMRUP METROPOLITAN",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44582501254"
+  },
+  {
+    "aicte_id": "1-44753077493",
+    "institute_name": "LIFE LIGHT ACADEMY",
+    "address": "G S ROAD GANESHGURI OPP CANARA BANK NEAR BY LANE TRIBENI PATH PO DISPUR PS DISPUR",
+    "district": "KAMRUP METROPOLITAN",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44753077493"
+  },
+  {
+    "aicte_id": "1-44753529533",
+    "institute_name": "ASSAM SKILL UNIVERSITY",
+    "address": "MANGALDAI",
+    "district": "DARRANG",
+    "institution_type": "State Government University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44753529533"
+  },
+  {
+    "aicte_id": "1-44753576798",
+    "institute_name": "DEPARTMENT OF BUSINESS ADMINISTRATION",
+    "address": "DEPARTMENT OF BUSINESS ADMINISTRATION, ASSAM UNIVERSITY",
+    "district": "CACHAR",
+    "institution_type": "Central University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44753576798"
+  },
+  {
+    "aicte_id": "1-44753801147",
+    "institute_name": "BIRANGANA SATI SADHANI RAJYIK VISHWAVIDYALAYA",
+    "address": "BOGORIJENG, GEC CAMPUS",
+    "district": "GOLAGHAT",
+    "institution_type": "State Government University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44753801147"
+  },
+  {
+    "aicte_id": "1-44755081643",
+    "institute_name": "HAM AK COLLEGE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "VILL AND PO:-SHILLONGONI",
+    "district": "NAGAON",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44755081643"
+  },
+  {
+    "aicte_id": "1-44755069293",
+    "institute_name": "NETES INSTITUTE OF TECHNOLOGY AND SCIENCE",
+    "address": "NETES INSTITUTE OF TECHNOLOGY AND SCIENCE, NEMCARE GROUP OF INSTITUTIONS, SANTIPUR, MIRZA",
+    "district": "KAMRUP",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44755069293"
+  },
+  {
+    "aicte_id": "1-44793907757",
+    "institute_name": "WOMENS COLLEGE TINSUKIA",
+    "address": "RANGAGORA ROAD, DURGABARI, TINSUKIA ASSAM - 786125",
+    "district": "TINSUKIA",
+    "institution_type": "Government",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44793907757"
+  },
+  {
+    "aicte_id": "1-44792975923",
+    "institute_name": "ST. MARTHA INSTITUTE OF LIFE SCIENCE AND MANAGEMENT",
+    "address": "KOTOKIPARA, NEAR KOTOKIPARA LP SCHOOL, AHOMGAON",
+    "district": "KAMRUP METROPOLITAN",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44792975923"
+  },
+  {
+    "aicte_id": "1-44793762923",
+    "institute_name": "WOMENS COLLEGE TINSUKIA",
+    "address": "RANGAGORA ROAD, DURGABARI, TINSUKIA, ASSAM",
+    "district": "TINSUKIA",
+    "institution_type": "Government",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44793762923"
+  }
+]

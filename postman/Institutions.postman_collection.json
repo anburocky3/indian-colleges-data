@@ -2,7 +2,7 @@
   "info": {
     "name": "Indian Colleges List API - AICTE Data",
     "_postman_id": "indian-colleges-aicte",
-    "description": "Collection with requests for /api/institutions and /api/institution/:aicteid",
+    "description": "Collection with requests for /api/institutions, /api/institution/:aicteid and state endpoints",
     "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
   },
   "item": [
@@ -50,6 +50,32 @@
             { "key": "course", "value": "1" },
             { "key": "year", "value": "2025-2026" }
           ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "GET /api/institutions/state (state list)",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{base_url}}/api/institutions/state",
+          "host": ["{{base_url}}"],
+          "path": ["api", "institutions", "state"]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "GET /api/institutions/state/:slug (example)",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{base_url}}/api/institutions/state/tamil-nadu",
+          "host": ["{{base_url}}"],
+          "path": ["api", "institutions", "state", "tamil-nadu"]
         }
       },
       "response": []

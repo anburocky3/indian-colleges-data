@@ -1,0 +1,4662 @@
+[
+  {
+    "aicte_id": "1-44638530702",
+    "institute_name": "PCTE INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+    "address": "PCTE CAMPUS-2, FEROZEPUR ROAD, LUDHIANA",
+    "district": "LUDHIANA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4337435531"
+  },
+  {
+    "aicte_id": "1-44638413653",
+    "institute_name": "GURU TEG BAHADUR INSTITUTE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "COLLEGE ROAD, DAKHA, LUDHIANA, PUNJAB",
+    "district": "LUDHIANA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3514281373"
+  },
+  {
+    "aicte_id": "1-44638525830",
+    "institute_name": "S. AMARJIT SINGH SAHI GOVERNMENT POLYTECHNIC COLLEGE, TALWARA",
+    "address": "SECTOR-3, NEAR GOVERNMENT INDUSTRIAL TRAINING INSTITUTES ,TALWARA TEHSIL: MUKERIAN, DISTT.: HOSHIARPUR, PUNJAB-144216",
+    "district": "HOSHIARPUR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-2851910961"
+  },
+  {
+    "aicte_id": "1-44638258309",
+    "institute_name": "AMAN BHALLAINSTITUTE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "KOTLI,JAMMU-AMRITSAR HIGHWAY",
+    "district": "PATHANKOT",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4782197321"
+  },
+  {
+    "aicte_id": "1-44638157675",
+    "institute_name": "ANAND COLLEGE OF ENGINEERING & MANAGEMENT",
+    "address": "OPPOSITE RAIL COACH FACTORY, SULTANPUR ROAD, KAPURTHALA",
+    "district": "KAPURTHALA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3931161"
+  },
+  {
+    "aicte_id": "1-44638123072",
+    "institute_name": "PCTE GROUP OF INSTITUTES",
+    "address": "FEROZEPUR ROAD, NEAR BADDOWAL CANT. JHANDE, LUDHIANA",
+    "district": "LUDHIANA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-7349863"
+  },
+  {
+    "aicte_id": "1-44638292338",
+    "institute_name": "DEPARTMENT OF COMPUTER SCIENCE",
+    "address": "PUNJABI UNIVERSITY PATIALA",
+    "district": "PATIALA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4329722541"
+  },
+  {
+    "aicte_id": "1-44638144044",
+    "institute_name": "DEPARTMENT OF MECHANICAL ENGINEERING",
+    "address": "PUNJABI UNIVERSITY, PATIALA 147002 (PUNJAB)",
+    "district": "PATIALA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4299684911"
+  },
+  {
+    "aicte_id": "1-44638312639",
+    "institute_name": "GURU NANAK COLLEGE BUDHLADA",
+    "address": "BARETA JAKHAL ROAD",
+    "district": "MANSA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "Y",
+    "other_id": "1-7345501"
+  },
+  {
+    "aicte_id": "1-44638130031",
+    "institute_name": "A.S.GROUP OF INSTITUTIONS",
+    "address": "A.S.GROUP OF INSTITUTIONS VILL- KALAL MAJRA(KHANNA) TEH. SAMRALA DISTT. LUDHIANA PUNJAB-141401",
+    "district": "LUDHIANA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-5483831"
+  },
+  {
+    "aicte_id": "1-44638621180",
+    "institute_name": "INNOCENT HEARTS GROUP OF INSTITUTIONS",
+    "address": "INNOCENT HEARTS FIELDS, NAKODAR ROAD, LOHARAN,",
+    "district": "JALANDHAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4708241"
+  },
+  {
+    "aicte_id": "1-44638585674",
+    "institute_name": "M K EDUCATION SOCIETIE'S GROUP OF INSTITUTIONS",
+    "address": "AMRITSAR PUNJAB,",
+    "district": "AMRITSAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-7783571"
+  },
+  {
+    "aicte_id": "1-44638728875",
+    "institute_name": "GHUBAYA COLLEGE OF ENGINEERING & TECHNOLOGY",
+    "address": " VILLAGE - SUKHERA BODLA, P.O. LAMOCHAR KALAN, TEH. JALALABAD(WEST)",
+    "district": "FIROZPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-7066901"
+  },
+  {
+    "aicte_id": "1-44638615416",
+    "institute_name": "SFC INSTITUTE OF PHARMACY",
+    "address": "VPO, JALABAD EAST, DHARAMKOT, DISTT. MOGA (PB.)",
+    "district": "MOGA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3726522441"
+  },
+  {
+    "aicte_id": "1-44638616406",
+    "institute_name": "DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING",
+    "address": "DEPARTMENT OF COMPUTER ENGINEERING, PUNJABI UNIVERSITY, NH-64, PATIALA RAJPURA ROAD, PATIALA",
+    "district": "PATIALA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3694230671"
+  },
+  {
+    "aicte_id": "1-44638681773",
+    "institute_name": "GOVERNMENT POLYTECHNIC COLLEGE, RUPNAGAR",
+    "address": "GOVERNMENT POLYTECHNIC COLLEGE FOR GIRLS ,NANGAL ROAD ,ROPAR",
+    "district": "RUPNAGAR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-11327924401"
+  },
+  {
+    "aicte_id": "1-44638598764",
+    "institute_name": "DIPS INSTITUTE OF MANAGEMENT & TECHNOLOGY",
+    "address": "RAMNEEK AVENUE PATHANKOT ROAD",
+    "district": "JALANDHAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-2514281"
+  },
+  {
+    "aicte_id": "1-44638721654",
+    "institute_name": "LUDHIANA GROUP OF COLLEGES",
+    "address": "CHOWK CHOWKIMANN, VILL.MANN",
+    "district": "LUDHIANA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-6900041"
+  },
+  {
+    "aicte_id": "1-44638744438",
+    "institute_name": "L M THAPAR SCHOOL OF MANAGEMENT",
+    "address": "VILLAGE BEHRA, TEHSIL DERABASSI",
+    "district": "S.A.S NAGAR",
+    "institution_type": "Deemed to be University(Pvt)",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3634834011"
+  },
+  {
+    "aicte_id": "1-44639339471",
+    "institute_name": "THAPAR POLYTECHNIC COLLEGE",
+    "address": "THAPAR POLYTECHNIC COLLEGE ,THAPAR UNIVERSITY CAMPUS, PATIALA",
+    "district": "PATIALA",
+    "institution_type": "State Private University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-479776471"
+  },
+  {
+    "aicte_id": "1-44638843988",
+    "institute_name": "ST. SOLDIER GROUP OF INSTITUTIONS",
+    "address": "BEHIND N.I.T(R.E.C.), AMRITSAR BY-PASS, G.T. ROAD, JALANDHAR",
+    "district": "JALANDHAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-6874071"
+  },
+  {
+    "aicte_id": "1-44638846206",
+    "institute_name": "DEPARTMENT OF ELECTRONICS AND COMMUNICATION ENGINEERING",
+    "address": "PUNJABI UNIVERSITY, PATIALA",
+    "district": "PATIALA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4303099581"
+  },
+  {
+    "aicte_id": "1-44639401930",
+    "institute_name": "BHARAT GROUP OF COLLEGES",
+    "address": "VILLAGE KHERA KHURD, DELHI ROAD, SARDULGARH DIST. MANSA (PUNJAB)",
+    "district": "MANSA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-20586871"
+  },
+  {
+    "aicte_id": "1-44638813815",
+    "institute_name": "SWIFT TECHNICAL CAMPUS",
+    "address": "VILLAGE - GHAGGAR SARAI NH - 1 TEHSIL - RAJPURA   DISTT. - PATIALA",
+    "district": "PATIALA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-446233857"
+  },
+  {
+    "aicte_id": "1-44639417140",
+    "institute_name": "PUNJAB INSTITUTE OF TEXTILE TECHNOLOGY AMRITSAR",
+    "address": "OPP GNDU , GT ROAD CHHEHARTTA, PO RS MILLS",
+    "district": "AMRITSAR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-460725903"
+  },
+  {
+    "aicte_id": "1-44639429206",
+    "institute_name": "K.C. POLYTECHNIC COLLEGE",
+    "address": "KARYAM ROAD, SHAHID BHAGAT SINGH NAGAR (PUNJAB)",
+    "district": "SHAHID BHAGAT SINGH NAGAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-414770421"
+  },
+  {
+    "aicte_id": "1-44638926274",
+    "institute_name": "THAPAR INSTITUTE OF ENGINEERING AND TECHNOLOGY DEEMED TO BE UNIVERSITY",
+    "address": "THAPAR TECHNOLOGY CAMPUS BHADSON ROAD",
+    "district": "PATIALA",
+    "institution_type": "Deemed to be University(Pvt)",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3688291341"
+  },
+  {
+    "aicte_id": "1-44639578703",
+    "institute_name": "HOSHIARPUR INSTITUTE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "OPPOSITE SATGURU FILLING STATION ,NEAR BAGHPUR , DUSUYA ROAD",
+    "district": "HOSHIARPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3596344"
+  },
+  {
+    "aicte_id": "1-44639971225",
+    "institute_name": "GOVT. POLYTECHNIC COLLEGE G.T.B. GARH, DISTT. MOGA",
+    "address": "GOVT. POLYTECHNIC COOEGE G.T.B. GARH DISTT. MOGA , PUNJAB",
+    "district": "MOGA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-454838931"
+  },
+  {
+    "aicte_id": "1-44640128023",
+    "institute_name": "GOVT. POLYTECHNIC COLLEGE",
+    "address": "FATUHI KHERA VIA LAMBI",
+    "district": "MUKATSAR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-771966441"
+  },
+  {
+    "aicte_id": "1-44639976280",
+    "institute_name": "GOVERNMENT POLYTECHNIC COLLEGE BEHRAM",
+    "address": "VILLAGE & P.O. : BEHRAM",
+    "district": "SHAHID BHAGAT SINGH NAGAR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1529259281"
+  },
+  {
+    "aicte_id": "1-44639998065",
+    "institute_name": "RADICAL TECHNICAL INSTITUTE",
+    "address": "V.P.O.THANDE , KHAPERKHERI DIST.AMRITSAR",
+    "district": "AMRITSAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1487432601"
+  },
+  {
+    "aicte_id": "1-44640057711",
+    "institute_name": "MAI BHAGO GOVT POLYTECHNIC COLLEGE FOR GIRLS, AMRITSAR",
+    "address": "MAJITHA ROAD, BY PASS",
+    "district": "AMRITSAR",
+    "institution_type": "Government",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-430954341"
+  },
+  {
+    "aicte_id": "1-44640131897",
+    "institute_name": "SANT BABA ATTAR SINGH GOVT. POLYTECHNIC COLLEGE, BADBAR",
+    "address": "MAIN BARNALA ROAD",
+    "district": "BARNALA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-769059621"
+  },
+  {
+    "aicte_id": "1-44640168003",
+    "institute_name": "LALA LAJPAT RAI MEMORIAL POLYTECHNIC COLLEGE",
+    "address": "V.P.O. AJITWAL(MOGA)",
+    "district": "MOGA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-465931641"
+  },
+  {
+    "aicte_id": "1-44639506728",
+    "institute_name": "NANCY POLYTECHNIC COLLEGE",
+    "address": "SAMANA PATRAN ROAD, SAMANA DISTT. PATIALA (PUNJAB)",
+    "district": "PATIALA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-453173081"
+  },
+  {
+    "aicte_id": "1-44639809435",
+    "institute_name": "GOVERNMENT POLYTECHNIC COLLEGE",
+    "address": "BIBIWALA ROAD",
+    "district": "BATHINDA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-424547651"
+  },
+  {
+    "aicte_id": "1-44639508701",
+    "institute_name": "GOLDEN COLLEGE OF ENGINEERING & TECHNOLOGY",
+    "address": "PREM NAGAR, GURDASPUR, PUNJAB 143521",
+    "district": "GURDASPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-504150511"
+  },
+  {
+    "aicte_id": "1-44639656481",
+    "institute_name": "GOVT. INST. OF LEATHER & FOOTWEAR TECH.",
+    "address": "NAKDAR ROAD",
+    "district": "JALANDHAR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-457039751"
+  },
+  {
+    "aicte_id": "1-44639743346",
+    "institute_name": "KHALSA COLLEGE OF ENGINEERING & TECHNOLOGY, AMRITSAR",
+    "address": "RANJIT AVENUE, BLOCK-C, AMRITSAR, PUNJAB-143001",
+    "district": "AMRITSAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4274953"
+  },
+  {
+    "aicte_id": "1-44640142994",
+    "institute_name": "SANT BABA PREM SINGH MEMORIAL, GOVT. POLYTECHNIC COLLEGE, BEGOWAL",
+    "address": "GOVT. POLYTECHNIC INSTITUTE BEGOWAL",
+    "district": "KAPURTHALA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-750781611"
+  },
+  {
+    "aicte_id": "1-44639555383",
+    "institute_name": "BANKEY BIHARI POLYTECHNIC COLLEGE",
+    "address": "V.P.O-ALAMGARH, SRI GANGANAGAR ROAD. TEHSIL-ABOHAR",
+    "district": "FIROZPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-431712403"
+  },
+  {
+    "aicte_id": "1-44639746884",
+    "institute_name": "CGC  COLLEGE OF ENGINEERING",
+    "address": "V.P.O. LANDRAN, DISTT. MOHALI.",
+    "district": "MOHALI",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-476352761"
+  },
+  {
+    "aicte_id": "1-44639747540",
+    "institute_name": "S. SUKHJINDER SINGH POLYTECHNIC & PHARMACY COLLEGE",
+    "address": "VPO HAYAT NAGAR , HARDOCHHANI RAOD, GURDASPUR",
+    "district": "GURDASPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-412322421"
+  },
+  {
+    "aicte_id": "1-44639839199",
+    "institute_name": "CT INSTITUTE OF MANAGEMENT & IT",
+    "address": "GREATER KAILASH, MAQSUDAN JALANDHAR",
+    "district": "JALANDHAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-5305130"
+  },
+  {
+    "aicte_id": "1-44640162988",
+    "institute_name": "ADESH POLYTECHNIC COLLEGE, MUKTSAR",
+    "address": "VILLAGE MARH MALLU FEROZEPUR ROAD MUKTSAR",
+    "district": "MUKATSAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-441406701"
+  },
+  {
+    "aicte_id": "1-44639822637",
+    "institute_name": "BHAI GURDAS POLYTECHNIC COLLEGE",
+    "address": "MAIN PATIALA ROAD SANGRUR",
+    "district": "SANGRUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-433850841"
+  },
+  {
+    "aicte_id": "1-44639604827",
+    "institute_name": "SHAHEED BHAGAT SINGH POLYTECHNIC COLLEGE",
+    "address": "OLD KAIRON ROAD,NEAR GAUSHALA",
+    "district": "TARAN TARAN",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-437155151"
+  },
+  {
+    "aicte_id": "1-44639605382",
+    "institute_name": "SWAMI VIVEKANAND POLYTECHNIC COLLEGE",
+    "address": "CHANDIGARH-PATIALA NATIONAL HIGHWAY, SECTOR 8, RAMNAGAR, BANUR, PATIALA",
+    "district": "PATIALA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-441728821"
+  },
+  {
+    "aicte_id": "1-44639863602",
+    "institute_name": "APEEJAY INSTITUTE OF MANAGEMENT AND ENGINEERING TECHNICAL CAMPUS",
+    "address": "APEEJAY INSTITUTE OF MANAGEMENT RAMA MANDI-HOSHIARPUR ROAD JALANDHAR-144007",
+    "district": "JALANDHAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4151991"
+  },
+  {
+    "aicte_id": "1-44639933020",
+    "institute_name": "GOVT.INSTITUE OF TEXTILE CHEMISTRY AND KNITTING TECH.,LUDHIANA",
+    "address": "Z - BLOCK , RISHI NAGAR , LUDHIANA",
+    "district": "LUDHIANA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-477626921"
+  },
+  {
+    "aicte_id": "1-44639717345",
+    "institute_name": "CENTRAL INSTITUTE OF PETROCHEMICALS ENGINEERING & TECHNOLOGY",
+    "address": "CIPET P.O. RAYON & SILK MILLS, ADJACENT TO GND UNIVERSITY, AMRITSAR Ã¢â¬â 143 104",
+    "district": "AMRITSAR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-495015761"
+  },
+  {
+    "aicte_id": "1-44639866273",
+    "institute_name": "PATHANKOT POLYTECHNIC COLLEGE",
+    "address": "OPPOSITE CANADA PALACE,PATHANKOT",
+    "district": "GURDASPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-474397663"
+  },
+  {
+    "aicte_id": "1-44639440190",
+    "institute_name": "RAMGARHIA POLYTECHNIC COLLEGE",
+    "address": "REC COMPLEX",
+    "district": "KAPURTHALA",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-445842841"
+  },
+  {
+    "aicte_id": "1-44639565731",
+    "institute_name": "ST. SOLDIER INSTITUTE OF PHARMACY & POLYTECHNIC",
+    "address": "BASSI ROAD CHHABEWAL DISTT. HOSHIARPUR",
+    "district": "HOSHIARPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1612213401"
+  },
+  {
+    "aicte_id": "1-44639529479",
+    "institute_name": "GOVT POLYTECHNIC COLLEGE AMRITSAR",
+    "address": "PO-RAYON & SILK MILL, NEAR GNDU, GT ROAD CHHERHERTA",
+    "district": "AMRITSAR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-453388051"
+  },
+  {
+    "aicte_id": "1-44639614010",
+    "institute_name": "BABA FARID COLLEGE OF ENGINEERING & TECHNOLOGY",
+    "address": "VILLAGE DEON, MUKTSAR ROAD, BATHINDA",
+    "district": "BATHINDA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4571491"
+  },
+  {
+    "aicte_id": "1-44639615499",
+    "institute_name": "LONGOWAL POLYTECHNIC & PHARMACY COLLEGE",
+    "address": "GOVT.COLLEGE ROAD SHAKTI NAGAR",
+    "district": "S.A.S NAGAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-445046911"
+  },
+  {
+    "aicte_id": "1-44639984326",
+    "institute_name": "CKD INSTITUTE OF MANAGEMENT & TECHNOLOGY",
+    "address": "JANDIALA ROAD TARN TARAN PUNJAB",
+    "district": "TARAN TARAN",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-2191764221"
+  },
+  {
+    "aicte_id": "1-44639444593",
+    "institute_name": "GURU NANAK INSTITUTE OF ENGINEERING & MANAGEMENT",
+    "address": "NAUSHEHRA, DALEWAL, DISTT. HOSHIARPUR",
+    "district": "HOSHIARPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-33382434"
+  },
+  {
+    "aicte_id": "1-44639570571",
+    "institute_name": "BABA BANDA SINGH BAHADUR POLYTECHNIC COLLEGE",
+    "address": "BABA BANDA SINGH BAHADUR POLYTECHNIC COLLEGE",
+    "district": "FATEHGARH SAHIB",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "Y",
+    "other_id": "1-422450631"
+  },
+  {
+    "aicte_id": "1-44639899118",
+    "institute_name": "AKAL GROUP OF TECHNICAL AND MANAGEMENT INSTITUTIONS",
+    "address": "MASTUANA SAHIB",
+    "district": "SANGRUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1609591061"
+  },
+  {
+    "aicte_id": "1-44639900121",
+    "institute_name": "SRI SAI COLLEGE OF ENGG. & TECH",
+    "address": "V.P.O. BADHANI , DISTRICT GURDASPUR- 145001 PATHANKOT PUNJAB",
+    "district": "GURDASPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-9716101"
+  },
+  {
+    "aicte_id": "1-44639445660",
+    "institute_name": "GOVT.POLYTECHNIC COLLEGE",
+    "address": "KHEMKARN ROAD",
+    "district": "TARAN TARAN",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-451032311"
+  },
+  {
+    "aicte_id": "1-44639493848",
+    "institute_name": "BABA ISHER SINGH POLYTECHNIC COLLEGE",
+    "address": "DHARAMKOT ROAD",
+    "district": "MOGA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-444992261"
+  },
+  {
+    "aicte_id": "1-44639766709",
+    "institute_name": "MALWA POLYTECHNIC COLLEGE",
+    "address": "MACHAKI KALAN,SADIQ ROAD,FARIDKOT",
+    "district": "FARIDKOT",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-429143151"
+  },
+  {
+    "aicte_id": "1-44639683510",
+    "institute_name": "ST. SOLDIER INSTITUTE OF PHARMACY & POLYTECHNIC",
+    "address": "VPO LIDHRAN BEHIND NIT/JALANDHAR-AMRITSAR BYE PASS",
+    "district": "JALANDHAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-426092941"
+  },
+  {
+    "aicte_id": "1-44640701318",
+    "institute_name": "CENTRAL TOOL ROOM",
+    "address": "A-5 FOCAL POINT",
+    "district": "LUDHIANA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-454382011"
+  },
+  {
+    "aicte_id": "1-44640789472",
+    "institute_name": "DR IT COLLEGE OF POLYTECHNIC",
+    "address": "VILLAGE JALALPUR, PO JANSLA, NEAR BANUR, TEHSIL RAJPURA, DISTT. PATIALA (PUNJAB)",
+    "district": "PATIALA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-468010621"
+  },
+  {
+    "aicte_id": "1-44640365285",
+    "institute_name": "S.S.D.WOMEN'S INSTITUTE OF TECHNOLOGY",
+    "address": "AMRIK SINGH ROAD",
+    "district": "BATHINDA",
+    "institution_type": "Private-Self Financing",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-1724675"
+  },
+  {
+    "aicte_id": "1-44640496911",
+    "institute_name": "TAWI ENGINEERING COLLEGE",
+    "address": "SHAHPUR KANDI, TEH. DHAR KALAN.",
+    "district": "GURDASPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-769597771"
+  },
+  {
+    "aicte_id": "1-44640623115",
+    "institute_name": "ARYANS BUSINESS SCHOOL (ABS)",
+    "address": "VILL. NEPRA CHANDIGARH-PATIALA HIGHWAY NEAR CHANDIGARH, TEH. RAJPURA DIST. PATIALA PUNJAB 140401",
+    "district": "PATIALA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-17142914"
+  },
+  {
+    "aicte_id": "1-44640458750",
+    "institute_name": "GOVT.INSTITUTE  OF GARMENT TECHNOLOGY",
+    "address": "MAJITHA ROAD BYE PASS ,",
+    "district": "AMRITSAR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-463835941"
+  },
+  {
+    "aicte_id": "1-44640461611",
+    "institute_name": "REGIONAL POLYTECHNIC COLLEGE",
+    "address": "BATHINDA MALOUT ROAD",
+    "district": "BATHINDA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-396942661"
+  },
+  {
+    "aicte_id": "1-44640831917",
+    "institute_name": "SATYAM INSTITUTE OF ENGINEERING & TECHNOLOGY",
+    "address": "KOTLA DOOM, RAM TIRATH AMRITSAR",
+    "district": "AMRITSAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-433885781"
+  },
+  {
+    "aicte_id": "1-44640832480",
+    "institute_name": "CHANDIGARH SCHOOL OF BUSINESS",
+    "address": "VILLAGE JHANJERI",
+    "district": "MOHALI",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-830555401"
+  },
+  {
+    "aicte_id": "1-44640463692",
+    "institute_name": "KHALSA COLLEGE(ASR) OF TECHNOLOGY AND BUSINESS STUDIES",
+    "address": "PHASE 3 A, SECTOR 53,",
+    "district": "S.A.S NAGAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-786605261"
+  },
+  {
+    "aicte_id": "1-44640546117",
+    "institute_name": "R&D CENTRE FOR BICYCLE & SEWING MACHINE",
+    "address": "B38-39 PHASE 5 FOCAL POINT",
+    "district": "LUDHIANA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-451427073"
+  },
+  {
+    "aicte_id": "1-44640379213",
+    "institute_name": "LUDHIANA GROUP OF COLLEGES-POLYTECHNIC",
+    "address": "CHOWKIMANN, VILLAGE MANN",
+    "district": "LUDHIANA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-467862471"
+  },
+  {
+    "aicte_id": "1-44640589895",
+    "institute_name": "V.M.S. POLYTECHNIC COLLEGE",
+    "address": "AMRITSAR ROAD,",
+    "district": "GURDASPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-467357021"
+  },
+  {
+    "aicte_id": "1-44640591266",
+    "institute_name": "GOVT. POLYTECHNIC COLLEGE MOHALI(KHUNI MAJRA)",
+    "address": "GOVT. POLYTECHNIC COLLEGE MOHALI(KHUNI MAJRA) KHARAR LANDRAN ROAD, KHARAR",
+    "district": "MOHALI",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-434208331"
+  },
+  {
+    "aicte_id": "1-44640755892",
+    "institute_name": "AKLIA POLYTECHNIC COLLEGE",
+    "address": "VILLAGE AKLIA KALAN, MANDI GONIANA,",
+    "district": "BATHINDA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-449945371"
+  },
+  {
+    "aicte_id": "1-44640380837",
+    "institute_name": "MAHARAJA AGGARSAIN INSTITUTE OF TECHNOLOGY",
+    "address": "VPO ALAMGARH,",
+    "district": "FIROZPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-416765691"
+  },
+  {
+    "aicte_id": "1-44640511058",
+    "institute_name": "GOVT. POLYTECHNIC COLLEGE DINANAGAR",
+    "address": "DODWAN",
+    "district": "GURDASPUR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-451838581"
+  },
+  {
+    "aicte_id": "1-44640550698",
+    "institute_name": "SATYAM POLYTECHNIC & PHARMACY COLLEGE",
+    "address": "VILL:KOTLA DOOM,RAM TIRATH,AMRITSAR",
+    "district": "AMRITSAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-450586851"
+  },
+  {
+    "aicte_id": "1-44640552124",
+    "institute_name": "S.B.C.M.S.  INSTITUTE OF TECNOLOGY",
+    "address": "VILLAGE ATTALGARH (MUKERIAN)",
+    "district": "HOSHIARPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-490016731"
+  },
+  {
+    "aicte_id": "1-44640216706",
+    "institute_name": "SATGURU RAM SINGH GOVERNMENT POLYTECHNIC COLLEGE LUDHIANA",
+    "address": "MAHARISHI VALMIK NAGAR, HAIBOWAL KHURD",
+    "district": "LUDHIANA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-447884311"
+  },
+  {
+    "aicte_id": "1-44640561415",
+    "institute_name": "DR I T SCHOOL OF BUSINESS",
+    "address": "CHANDIGARH PATIALA HIGHWAY,VILLAGE JALALPUR, NEAR BANUR, TEHSIL RAJPURA",
+    "district": "PATIALA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-10306541"
+  },
+  {
+    "aicte_id": "1-44640689275",
+    "institute_name": "PT. J.R. GOVT. POLYTECHNIC COLLEGE HOSHIARPUR",
+    "address": "JALANDHAR ROAD",
+    "district": "HOSHIARPUR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-519634701"
+  },
+  {
+    "aicte_id": "1-44640185680",
+    "institute_name": "NEW PUNJAB POLYTECHNIC COLLEGE",
+    "address": "TALWANDI SABO-SARDULGARH ROAD",
+    "district": "BATHINDA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-473850571"
+  },
+  {
+    "aicte_id": "1-44640434820",
+    "institute_name": "VIDYA RATTAN POLYTECHNIC",
+    "address": "LEHRA-SUNAM ROAD",
+    "district": "SANGRUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-429433791"
+  },
+  {
+    "aicte_id": "1-44640437897",
+    "institute_name": "GOVERNMENT POLYTECHNIC COLLEGE, PATIALA",
+    "address": "S.S.T. NAGAR, RAJPURA ROAD,",
+    "district": "PATIALA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-440475501"
+  },
+  {
+    "aicte_id": "1-44640816770",
+    "institute_name": "GOVERNMENT POLYTECHNIC COLLEGE JALANDHAR",
+    "address": "LADOWALI ROAD",
+    "district": "JALANDHAR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-422467281"
+  },
+  {
+    "aicte_id": "1-44640187417",
+    "institute_name": "SAINT KABIR POLYTECHNIC COLLEGE",
+    "address": "FEROZEPUR ROAD",
+    "district": "FIROZPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-425522671"
+  },
+  {
+    "aicte_id": "1-44640270807",
+    "institute_name": "GOVT POLYTECHNIC COLLEGE FEROZEPUR",
+    "address": "DULCHI KE ROAD",
+    "district": "FIROZPUR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-455978691"
+  },
+  {
+    "aicte_id": "1-44640355915",
+    "institute_name": "DOABA INSTITUTE OF ENGG. & TECH.",
+    "address": "VILLAGE-GHATAUR, PO-ALLAPUR, TEHSIL-KHARAR, DISTT - S.A.S. NAGAR (MOHALI) - PUNJAB",
+    "district": "S.A.S NAGAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4163451"
+  },
+  {
+    "aicte_id": "1-44640696841",
+    "institute_name": "BABA HAZARA SINGH POLYTECHNIC",
+    "address": "NEAR AUJLA BYPASS VILL-THANEWAL, P.O BABEHALI,        TECH & DISTRICT GURDASPUR.",
+    "district": "GURDASPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-461140651"
+  },
+  {
+    "aicte_id": "1-44641082126",
+    "institute_name": "SARASWATI POLYTECHNIC COLLEGE",
+    "address": "BALLUANA, MALOUT ROAD BATHINDA",
+    "district": "BATHINDA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-444229321"
+  },
+  {
+    "aicte_id": "1-44641250167",
+    "institute_name": "CHANDIGARH ENGINEERING COLLEGE JHANJERI",
+    "address": "VILLAGE JHANJERI",
+    "district": "MOHALI",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-828858381"
+  },
+  {
+    "aicte_id": "1-44640870842",
+    "institute_name": "PANNU POLYTECHNIC COLLEGE",
+    "address": "VPO. MARRI PANWAN (SHRI HARGOBINDPUR)",
+    "district": "GURDASPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-479812301"
+  },
+  {
+    "aicte_id": "1-44641167884",
+    "institute_name": "KCT COLLEGE OF ENGINEERING & TECHNOLOGY",
+    "address": "SANT HARCHAND SINGH LONGOWAL MARG,VILL FATEHGARH,TEHSIL SUNAM, DISTRICT:- SANGRUR,PUNJAB",
+    "district": "SANGRUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-488879141"
+  },
+  {
+    "aicte_id": "1-44641213514",
+    "institute_name": "TAWI POLYTECHNIC",
+    "address": "SHAHPUR KANDI, TEH. DHAR KALAN",
+    "district": "GURDASPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-776749511"
+  },
+  {
+    "aicte_id": "1-44641418194",
+    "institute_name": "LYALLPUR KHALSA COLLEGE TECHNICAL CAMPUS",
+    "address": "CANTT ROAD JALANDHAR",
+    "district": "JALANDHAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1486931211"
+  },
+  {
+    "aicte_id": "1-44640872438",
+    "institute_name": "DIPS POLYTECHNIC COLLEGE",
+    "address": "RARRA MORR, JALALPUR, SUB TEHSIL TANDA, TEHSIL DASUYA",
+    "district": "HOSHIARPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-450459701"
+  },
+  {
+    "aicte_id": "1-44641004814",
+    "institute_name": "BHAI MAHA SINGH COLLEGE OF ENGINEERING",
+    "address": " VILLAGE  UDEKARAN  KOTKAPURA ROAD  MUKTSAR",
+    "district": "MUKATSAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-11934400"
+  },
+  {
+    "aicte_id": "1-44641341941",
+    "institute_name": "LALA LAJPAT RAI MEMORIAL INSTITUTE OF MANAGEMENT & TECHNOLOGY",
+    "address": "VPO DHUDIKE,MOGA",
+    "district": "MOGA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-490031631"
+  },
+  {
+    "aicte_id": "1-44641343494",
+    "institute_name": "GOVT. POLYTECHNIC COLLEGE",
+    "address": "KAHNUWAN ROAD",
+    "district": "GURDASPUR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-448362541"
+  },
+  {
+    "aicte_id": "1-44641139037",
+    "institute_name": "LUDHIANA POLYTECHNIC COLLEGE",
+    "address": "V.P.O.KUBE,NEAR NEELON BRIDGE, LUDHIANA-CHANDIGARH HIGHWAY,TEHSIL SAMRALA",
+    "district": "LUDHIANA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-480105851"
+  },
+  {
+    "aicte_id": "1-44640926124",
+    "institute_name": "DEPARTMENT OF COMPUTER SCIENCE AND TECHNOLOGY CENTRAL UNIVERSITY OF PUNJAB BATHINDA",
+    "address": "CENTRAL UNIVERSITY OF PUNJAB, VPO GHUDDA, BATHINDA",
+    "district": "BATHINDA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1590439441"
+  },
+  {
+    "aicte_id": "1-44641520625",
+    "institute_name": "GIANI ZAIL SINGH CAMPUS COLLEGE OF ENGINEERING AND TECHNOLOGY MRSPTU BATHINDA",
+    "address": "DABWALI ROAD BATHINDA",
+    "district": "BATHINDA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-6960251"
+  },
+  {
+    "aicte_id": "1-44641063353",
+    "institute_name": "GURU NANAK DEV POLYTECHNIC COLLEGE",
+    "address": "GURU NANK DEV POLYTECHNIC COLLEGE, GNE CAMPUS, GILL PARK, GILL ROAD, LUDHIANA",
+    "district": "LUDHIANA",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "Y",
+    "other_id": "1-403260341"
+  },
+  {
+    "aicte_id": "1-44641434698",
+    "institute_name": "BHAI GURDAS INSTITUTE OF MANAGEMENT & TECHNOLOGY, SANGRUR(MBA)",
+    "address": "MAIN PATIALA-SANGRUR ROAD, SANGRUR-148001(PUNJAB",
+    "district": "SANGRUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-475921541"
+  },
+  {
+    "aicte_id": "1-44640850300",
+    "institute_name": "M L MEMORIAL POLYTECHNIC COLLEGE",
+    "address": "V P O KILLI CHAHAL MOGA",
+    "district": "MOGA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-444979101"
+  },
+  {
+    "aicte_id": "1-44640850836",
+    "institute_name": "CKD INSTITUTE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "G.T. ROAD, NEAR REGO BRIDGE, AMRITSAR",
+    "district": "AMRITSAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-502083741"
+  },
+  {
+    "aicte_id": "1-44640978948",
+    "institute_name": "SAI POLYTECHNIC COLLEGE",
+    "address": "BADHANI-PATHANKOT",
+    "district": "GURDASPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-456992901"
+  },
+  {
+    "aicte_id": "1-44641192486",
+    "institute_name": "ARYANS COLLEGE OF ENGINEERING (ACE)",
+    "address": "VILL. THUHA (BANUR) CHANDIGARH-PATIALA HIGHWAY, NEAR CHANDIGARH, TEHSIL RAJPURA, DIST. PATIALA (PB)",
+    "district": "PATIALA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-422660141"
+  },
+  {
+    "aicte_id": "1-44641322934",
+    "institute_name": "SWAMI SARVANAND INSTITUTE OF ENGINEERING & TECHNOLOGY",
+    "address": "VILLAGE TALWANDI, G.T. ROAD, NEAR DAYANAND MATH DINANAGAR DISTT. GURDASPUR",
+    "district": "GURDASPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-16023751"
+  },
+  {
+    "aicte_id": "1-44641443514",
+    "institute_name": "DOABA POLYTECHNIC COLLEGE",
+    "address": "VILL. CHHOKRAN P.O. RAHON",
+    "district": "SHAHID BHAGAT SINGH NAGAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-412313481"
+  },
+  {
+    "aicte_id": "1-44640898492",
+    "institute_name": "GOVT POLYTECHNIC COLLEGE",
+    "address": "PRINCIPAL, GOVT. POLYTECHNIC COLLEGE, DEVI WALA ROAD , KOTKAPURA,  FARIDKOT PUNJAB",
+    "district": "FARIDKOT",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1537599761"
+  },
+  {
+    "aicte_id": "1-44640943981",
+    "institute_name": "MEHR CHAND POLYTECHNIC COLLEGE",
+    "address": "DAYANAND NAGAR G.T. ROAD",
+    "district": "JALANDHAR",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "Y",
+    "other_id": "1-425565411"
+  },
+  {
+    "aicte_id": "1-44641154913",
+    "institute_name": "CT INSTITUTE OF TECHNOLOGY & RESEARCH",
+    "address": "GREATER KAILASH, G.T ROAD , MAQSUDAN, JALANDHAR 144008 PUNJAB INDIA",
+    "district": "JALANDHAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1510604571"
+  },
+  {
+    "aicte_id": "1-44641239664",
+    "institute_name": "ABHISHEK POLYTECHNIC COLLEGE",
+    "address": "P.O.- KHUIAN SARVAR, VILLAGE - DAULAT PURA, SRI GANGANAGAR ROAD",
+    "district": "FIROZPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-425600701"
+  },
+  {
+    "aicte_id": "1-44641490876",
+    "institute_name": "SHRI GURU HARGOBIND SAHIB GOVT. POLYTECHNIC COLLEGE",
+    "address": "VPO RANWAN CHANDIGARH LUDHIANA HIGHWAY,",
+    "district": "FATEHGARH SAHIB",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-777456101"
+  },
+  {
+    "aicte_id": "1-44641201866",
+    "institute_name": "SANT LONGOWAL INSTITUTE OF ENGINEERING AND TECHNOLOGY SLIET DEEMED TO BE UNIVERSITY",
+    "address": "LONGOWAL",
+    "district": "SANGRUR",
+    "institution_type": "Deemed to be University(Govt)",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-515991181"
+  },
+  {
+    "aicte_id": "1-44640860118",
+    "institute_name": "SRI SUKHMANI POLYTECHNIC",
+    "address": "DERA BASSI, DISTT. MOHALI, PUNJAB,PIN140507, INDIA",
+    "district": "MOHALI",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-441768051"
+  },
+  {
+    "aicte_id": "1-44640900930",
+    "institute_name": "DAV INSTITUTE OF ENGINEERING & TECHNOLOGY",
+    "address": "KABIR NAGAR",
+    "district": "JALANDHAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-8277341"
+  },
+  {
+    "aicte_id": "1-44640990624",
+    "institute_name": "UNIVERSAL POLYTECHNIC COLLEGE",
+    "address": "VILLAGE-BALLOPUR, LALRU-HANDESRA ROAD, LALRU MANDI",
+    "district": "MOHALI",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-409559591"
+  },
+  {
+    "aicte_id": "1-44641497999",
+    "institute_name": "SHAHEED NAND SINGH GOVT.POLYTECHNIC COLLEGE",
+    "address": "NEAR VETERNARY HOSPITAL",
+    "district": "MANSA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-764916831"
+  },
+  {
+    "aicte_id": "1-44641333791",
+    "institute_name": "MODERN GROUP OF COLLEGES",
+    "address": "VILLAGE PANDORI BHAGAT,MANSAR HAJIPUR ROAD,MUKERIAN DISTRICT HOSIHARPUR",
+    "district": "HOSHIARPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-2491968661"
+  },
+  {
+    "aicte_id": "1-44641888636",
+    "institute_name": "RAM DEVI JINDAL EDUCATIONAL CHARITABLE SOCIETY GROUP OF INSTIUTIONS",
+    "address": "RAM DEVI JINDAL EDUCATIONAL CHARITABLE SOCIETY GROUP OF INSTITUTIONS, VILLAGE BASOLI ,P.O RANIMAJRA- 140501,TEHSIL DERABASSI DISTT. MOHALI (PUNJAB)",
+    "district": "MOHALI",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-14596864"
+  },
+  {
+    "aicte_id": "1-44642065319",
+    "institute_name": "BABA BANDA SINGH BAHADUR ENGINEERING COLLEGE",
+    "address": "FATEHGARH SAHIB-140407, PUNJAB",
+    "district": "FATEHGARH SAHIB",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "Y",
+    "other_id": "1-14182101"
+  },
+  {
+    "aicte_id": "1-44641548481",
+    "institute_name": "DESH BHAGAT POLYTECHNIC COLLEGE",
+    "address": "DESH BHAGAT POLYTECHNIC COLLEGE ,BARDWAL-DHURI",
+    "district": "SANGRUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-475013801"
+  },
+  {
+    "aicte_id": "1-44642389313",
+    "institute_name": "INDO GLOBAL COLLEGE OF ENGINEERING",
+    "address": "INDO GLOBAL EDUCATION FOUNDATION, VILLAGE - ABHIPUR, TEHSIL -  KHARAR, DISTT. - SAS NAGAR ( MOHALI ), PUNJAB",
+    "district": "MOHALI",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-9882363"
+  },
+  {
+    "aicte_id": "1-44641739908",
+    "institute_name": "SWAMI VIVEKANAND INSTITUTE OF ENGG. & TECH.",
+    "address": "SECTOR 8, RAMNAGAR, BANUR, TEHSIL RAJPURA, DISTT. PATIALA",
+    "district": "PATIALA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-8811696"
+  },
+  {
+    "aicte_id": "1-44642068537",
+    "institute_name": "GLOBAL COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "address": "KAHNPUR KHUI ANANDPUR SAHIB-GARHSHANKAR ROAD DISTT ROPAR  PUNJAB 140117",
+    "district": "RUPNAGAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-5417391"
+  },
+  {
+    "aicte_id": "1-44641743051",
+    "institute_name": "RAMGARHIA INSTITUTE OF ENGINEERING & TECHNOLOGY",
+    "address": "REC COMPLEX, P.O SATNAMPURA, PHAGWARA DISTT: KAPURTHALA PIN CODE: 144402",
+    "district": "KAPURTHALA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-9751251"
+  },
+  {
+    "aicte_id": "1-44642228642",
+    "institute_name": "LUDHIANA COLLEGE OF ENGINEERING & TECHNOLOGY, KATANI KALAN, LUDHIANA.",
+    "address": "LUDHIANA COLLEGE OF ENGINEERING & TECHNOLOGY,  CHANDIGARH-LUDHIANA HIGHWAY, V.P.O. KATANI KALAN,  TEHSIL & DISTRICT-LUDHIANA. PIN-141113.",
+    "district": "LUDHIANA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4266941"
+  },
+  {
+    "aicte_id": "1-44642127130",
+    "institute_name": "GUJRANWALA GURU NANAK INSTITUTE OF MANAGEMENT & TECHNOLOGY",
+    "address": "POST BOX NO.-272, CIVIL LINES, LUDHIANA",
+    "district": "LUDHIANA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-34746097"
+  },
+  {
+    "aicte_id": "1-44642230840",
+    "institute_name": "LALA LAJPAT RAI COLLEGE OF PHARMACY, MOGA",
+    "address": "MOGA-FEROZEPUR G.T ROAD, NEAR P.S SADAR, MOGA.",
+    "district": "MOGA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-7141211"
+  },
+  {
+    "aicte_id": "1-44641772180",
+    "institute_name": "DOABA WOMEN INSTIUTE OF ENGINEERING & TECHNOLOGY",
+    "address": "VILL - GHATAUR, PO - ALLAPUR,  TEHSIL - KHARAR DISTT - MOHALI, PUNJAB",
+    "district": "S.A.S NAGAR",
+    "institution_type": "Private-Self Financing",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-4775471"
+  },
+  {
+    "aicte_id": "1-44641777111",
+    "institute_name": "PATEL INSTITUTE OF MANAGEMENT & TECHNOLOGY",
+    "address": "COLLEGE ROAD",
+    "district": "PATIALA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-15776171"
+  },
+  {
+    "aicte_id": "1-44642087952",
+    "institute_name": "SHAHEED BHAGAT SINGH STATE UNIVERSITY, FEROZEPUR",
+    "address": "MOGA ROAD, NH-95, FEROZEPUR-PUNJAB-152004",
+    "district": "FIROZPUR",
+    "institution_type": "State Government University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-6607571"
+  },
+  {
+    "aicte_id": "1-44641778388",
+    "institute_name": " DEPARTMENT OF MASTER OF COMPUTER APPLICATIONS INSTITUTE OF ENGINEERING AND TECHNOLOGY - BHADDAL",
+    "address": "VILLAGE - BHADDAL POST OFFICE - MIANPUR DISTT. - ROPAR (140 108) PUNJAB",
+    "district": "RUPNAGAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-8614633"
+  },
+  {
+    "aicte_id": "1-44642090639",
+    "institute_name": "INSTITUTE OF ENGINEERING & TECHNOLOGY-BHADDAL (ROPAR)",
+    "address": "VILLAGE BHADDAL POST OFFICE MIANPUR DISTT. ROPAR 140108 PUNJAB",
+    "district": "RUPNAGAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-12175401"
+  },
+  {
+    "aicte_id": "1-44641671871",
+    "institute_name": "CHANDIGARH BUSINESS SCHOOL OF ADMINISTRATION",
+    "address": "V.P.O.LANDRAN TEHSIL KHARAR DISTT. MOHALI",
+    "district": "MOHALI",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-34462041"
+  },
+  {
+    "aicte_id": "1-44641921602",
+    "institute_name": "KC COLLEGE OF HOTEL MANAGEMENT",
+    "address": "KARYAM ROAD, NAWANSHAHR",
+    "district": "SHAHID BHAGAT SINGH NAGAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-5720649"
+  },
+  {
+    "aicte_id": "1-44642244295",
+    "institute_name": "S.SUKHJINDER SINGH ENGINEERING & TECHNOLOGY COLLEGE",
+    "address": "V.P.O. HAYAT NAGAR, HARDOCHHANI ROAD, GURDASPUR",
+    "district": "GURDASPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-23698811"
+  },
+  {
+    "aicte_id": "1-44641729447",
+    "institute_name": "MALWA COLLEGE",
+    "address": "OPP. NFL COLONY, GONIANA ROAD",
+    "district": "BATHINDA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-493600953"
+  },
+  {
+    "aicte_id": "1-44641929477",
+    "institute_name": "DESH BHAGAT FOUNDATION GROUP OF INSTITUTIONS, FEROZPUR ROAD MOGA",
+    "address": "DESH BHAGAT FOUNDATION GROUP OF INSTITUTIONS FEROZPUR ROAD MOGA",
+    "district": "MOGA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-23528205"
+  },
+  {
+    "aicte_id": "1-44642057494",
+    "institute_name": "BIS COLLEGE OF ENGINEERING & TECHNOLOGY",
+    "address": "V.P.O. GAGRA, KOT ISE KHAN TEHSIL & DISTT. MOGA.",
+    "district": "MOGA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-5795818"
+  },
+  {
+    "aicte_id": "1-44641794168",
+    "institute_name": "CT INSTITUTE OF ENGINEERING, MANAGEMENT & TECHNOLOGY",
+    "address": "VILLAGE SHAHPUR, P.O. UDOPUR, VIA JAMSHER KHAS, TEHSIL JALANDHAR, DISTT. JALANDHAR-144020",
+    "district": "JALANDHAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3887144"
+  },
+  {
+    "aicte_id": "1-44642314928",
+    "institute_name": "INSTITUTE OF MANAGEMENT STUDIES-BHADDAL",
+    "address": "VILLAGE BHADDAL, POST OFFICE MIANPUR, DISTT. ROPAR 140108,  PUNJAB",
+    "district": "RUPNAGAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-12085611"
+  },
+  {
+    "aicte_id": "1-44642107048",
+    "institute_name": "ASRA COLLEGE OF ENGINEERING & TECHNOLOGY",
+    "address": "PATIALA SANGRUR HIGHWAY,  NH 64 VILLAGE RAJPURA (NEAR CHANNO) TEHSIL BHAWANIGARH DIST. SANGRUR (PUNJAB)",
+    "district": "SANGRUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-5108633"
+  },
+  {
+    "aicte_id": "1-44642107596",
+    "institute_name": "AMAN BHALLA INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+    "address": "JAMMU AMRITSAR HIGHWAY,  CANAL SIDE KOTLI, PO: JHAKOLARI TEHSIL: PATHANKOT-145025",
+    "district": "GURDASPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-21052791"
+  },
+  {
+    "aicte_id": "1-44642170504",
+    "institute_name": "PUNJAB INSTITUTE OF MANAGEMENT & TECHNOLOGY",
+    "address": " VILLAGE ALOUR, KHANNA, DISTRICT LUDHIANA, PUNJAB",
+    "district": "LUDHIANA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-14629401"
+  },
+  {
+    "aicte_id": "1-44641547990",
+    "institute_name": "CENTRAL INSTITUTE OF HAND TOOLS JALANDHAR",
+    "address": "G.T.ROAD, BYE  PASS, OPPOSITE BHAGAT SINGH COLONY, JALANDHAR",
+    "district": "JALANDHAR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-458410801"
+  },
+  {
+    "aicte_id": "1-44643092383",
+    "institute_name": "AMRITSAR GROUP OF COLLEGES",
+    "address": "12KM STONE, AMRITSAR JALANDHAR GT ROAD, ROAD, AMRITSAR",
+    "district": "AMRITSAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-5295261"
+  },
+  {
+    "aicte_id": "1-44643537177",
+    "institute_name": "MATA GUJRI COLLEGE, FATEHGARH SAHIB",
+    "address": "MATA GUJRI COLLEGE, FATEHGARH SAHIB-140406",
+    "district": "FATEHGARH SAHIB",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "Y",
+    "other_id": "1-17404994"
+  },
+  {
+    "aicte_id": "1-44643096085",
+    "institute_name": "LALA LAJPAT RAI INSTITUTE OF ENGGNEERING & TECHNOLOGY",
+    "address": "FEROZEPUR ROAD, NEAR PS SADAR, MOGA",
+    "district": "MOGA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-6670991"
+  },
+  {
+    "aicte_id": "1-44643320194",
+    "institute_name": "CHANDIGARH ENGINEERING COLLEGE-CGC, LANDRAN, MOHALI",
+    "address": "V.P.O.LANDRAN TEHSIL- KHARAR DISTT. MOHALI",
+    "district": "MOHALI",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-33367191"
+  },
+  {
+    "aicte_id": "1-44643715753",
+    "institute_name": "KC COLLEGE OF ENGINEERING & INFORMATION TECHNOLOGY, NAWANSHAHR",
+    "address": "KARIAM ROAD, NAWANSHAHR VPO - KARIAM TEL. - NAWANSHAHR PUNJAB - 144514",
+    "district": "SHAHID BHAGAT SINGH NAGAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-10643461"
+  },
+  {
+    "aicte_id": "1-44643452816",
+    "institute_name": "SRI SUKHMANI INSTITUTE OF ENGINEERING & TECHNOLOGY",
+    "address": "DERA BASSI,PIN-140507, DISTT. MOHALI,PUNJAB",
+    "district": "S.A.S NAGAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-9763251"
+  },
+  {
+    "aicte_id": "1-44643760211",
+    "institute_name": "CT INSTITUTE OF TECHNOLOGY",
+    "address": "VILL. SHAHPUR, P.O. UDOPUR, VIA JAMSHER KHAS, DISTT. JALANDHAR PIN-144020",
+    "district": "JALANDHAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-17264464"
+  },
+  {
+    "aicte_id": "1-44643586538",
+    "institute_name": "AKLIA EDUCATIONAL AND RESEARCH SOCIETY GROUP OF INSTITUTIONS",
+    "address": "VILLAGE AKLIA KALAN, P. O. GONIANA MANDI, BATHINDA",
+    "district": "BATHINDA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-9554293"
+  },
+  {
+    "aicte_id": "1-44643545150",
+    "institute_name": "GURU NANAK DEV ENGINEERING COLLEGE",
+    "address": "GILL PARK, GILL ROAD, LUDHIANA",
+    "district": "LUDHIANA",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "Y",
+    "other_id": "1-3286931"
+  },
+  {
+    "aicte_id": "1-44643248319",
+    "institute_name": "GIAN JYOTI INSTITUTE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "PHASE 2,MOHALI",
+    "district": "S.A.S NAGAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-16038681"
+  },
+  {
+    "aicte_id": "1-44643248840",
+    "institute_name": "DOABA KHALSA TRUST GROUP OF INSTITUTIONS,1.FACULTY OF ENGINEERING,2.FACULTY OF MANAGEMENT",
+    "address": "VILL. CHHOKRAN P.O. RAHON DISTT. NAWANSHAHAR PUNJAB",
+    "district": "SHAHID BHAGAT SINGH NAGAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4813222"
+  },
+  {
+    "aicte_id": "1-44643249450",
+    "institute_name": "VMS INSTITUTE OF MANAGEMENT BATALA",
+    "address": "VMS INSTITUTE OF MANAGEMENT BATALA,NEAR AMRITSAR ROAD BATALA DISTT-GURDASPUR",
+    "district": "GURDASPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-8210006"
+  },
+  {
+    "aicte_id": "1-44643787175",
+    "institute_name": "SARASWATI GROUP OF COLLEGES",
+    "address": "NH 05 CHANDIGARH LUDHIANA HIGHWAY",
+    "district": "S.A.S NAGAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-43708372033"
+  },
+  {
+    "aicte_id": "1-44643552395",
+    "institute_name": "CORDIA INSTITUTE OF BUSINESS MANAGEMENT",
+    "address": "VPO SANGHOL, TEHSIL KHAMANO, DISTT FATEHGARH SAHIB",
+    "district": "FATEHGARH SAHIB",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-14700703"
+  },
+  {
+    "aicte_id": "1-44643554135",
+    "institute_name": "SWAMI SARVANAND INSTITUTE OF MANAGEMENT & TECHNOLOGY",
+    "address": "VILL-TALWANDI, NEAR DAYANAND MATH, G. T. ROAD",
+    "district": "GURDASPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-6585621"
+  },
+  {
+    "aicte_id": "1-44643469617",
+    "institute_name": "MATA GUJRI COLLEGE FATEHGARH SAHIB",
+    "address": "MATA GUJRI COLLEGE FATEHGARH SAHIB,PUNJAB 140406",
+    "district": "FATEHGARH SAHIB",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "Y",
+    "other_id": "1-6139301"
+  },
+  {
+    "aicte_id": "1-44643734683",
+    "institute_name": "STANFORD BUSINESS SCHOOL",
+    "address": "URBAN ESTATE, PHASE 1, ( ADJ. GURUDWARA ), JALANDHAR",
+    "district": "JALANDHAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-43416876873"
+  },
+  {
+    "aicte_id": "1-44643471765",
+    "institute_name": "CENTRE FOR DEVELOPMENT OF ADVANCED COMPUTING",
+    "address": "CENTRE FOR DEVELOPMENT OF ADVANCED COMPUTING A-34 PHASE VIII  INDUSTRAIL AREA MOHALI",
+    "district": "S.A.S NAGAR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-16154671"
+  },
+  {
+    "aicte_id": "1-44643300156",
+    "institute_name": "PUNJAB COLLEGE OF TECHNICAL EDUCATION",
+    "address": "FEROZEPUR ROAD V.P.O. BADDOWAL LUDHIANA",
+    "district": "LUDHIANA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-8101953"
+  },
+  {
+    "aicte_id": "1-44643512851",
+    "institute_name": "SWAMI SARVANAND INSTITUTE OF MANAGEMENT & TECHNOLOGY-(MCA)",
+    "address": "VILL-TALWANDI, NEAR DAYANAND MATH, G.T. ROAD DINANAGAR DISTT-GURDASPUR",
+    "district": "GURDASPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-5289751"
+  },
+  {
+    "aicte_id": "1-44643606148",
+    "institute_name": "A & M INSTITUTE OF COMPUTER & TECHNOLOGY",
+    "address": "VILLAGE MAMOON,OPPOSITE - CANADA PALACE,  BYE-PASS, PATHANKOT, PUNJAB.",
+    "district": "GURDASPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-10575231"
+  },
+  {
+    "aicte_id": "1-44643264525",
+    "institute_name": "GULZAR GROUP OF INSTITUTIONS",
+    "address": "G.T.ROAD, VILLAGE LIBRA, TEHSIL KHANNA, DIST. LUDHIANA (PUNJAB)",
+    "district": "LUDHIANA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-5148246"
+  },
+  {
+    "aicte_id": "1-44643573735",
+    "institute_name": "KHALSA INSTITUTE OF MANAGEMENT & TECHNOLOGY FOR WOMEN",
+    "address": "RANI JHANSI ROAD, CIVIL LINES, LUDHIANA",
+    "district": "LUDHIANA",
+    "institution_type": "Private-Self Financing",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-14637064"
+  },
+  {
+    "aicte_id": "1-44643658528",
+    "institute_name": "GLOBAL GROUP OF INSTITUTES",
+    "address": "11TH KM STONE, SOHIAN KHURD AMRITSAR-BATALA ROAD AMRITSAR",
+    "district": "AMRITSAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4449363"
+  },
+  {
+    "aicte_id": "1-44642500518",
+    "institute_name": "BEANT COLLEGE OF ENGINEERING & TECHNOLOGY,GURDASPUR",
+    "address": "POST BOX NO. 13, VILLAGE BARIAR",
+    "district": "GURDASPUR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-6098731"
+  },
+  {
+    "aicte_id": "1-44642621753",
+    "institute_name": "GHG  POLYTECHNIC COLLEGE",
+    "address": "OPPOSITE RELIANCE PETROL PUMP, LUDHIANA ROAD, GONDWAL, RAIKOT",
+    "district": "LUDHIANA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-25097474"
+  },
+  {
+    "aicte_id": "1-44642402636",
+    "institute_name": "GUJRANWALA GURU NANAK INSTITUTE OF MANGEMENT & TECHNOLOGY",
+    "address": "POST BOX NO. 272, CIVIL LINES, LUDHIANA",
+    "district": "LUDHIANA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-28207667"
+  },
+  {
+    "aicte_id": "1-44642403101",
+    "institute_name": "SATYAM INSTITUTE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "VILLAGE ALLOWAL TEHSIL NAKODAR DISTRICT JALANDHAR PUNJAB - 144040",
+    "district": "JALANDHAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4392196"
+  },
+  {
+    "aicte_id": "1-44642760376",
+    "institute_name": "BABA KUMA SINGH JI ENGG COLLEGE,AMRITSAR",
+    "address": "HOSHIAR NAGAR ATTARI ROAD NEAR WAGHA BORDER AMRITSAR-143107",
+    "district": "AMRITSAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-25626101"
+  },
+  {
+    "aicte_id": "1-44642516156",
+    "institute_name": "KMS COLLEGE OF IT AND MANAGEMENT",
+    "address": "CH. BANTA SINGH COLONY",
+    "district": "HOSHIARPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-43371969568"
+  },
+  {
+    "aicte_id": "1-44642595929",
+    "institute_name": "PYRAMID COLLEGE OF BUSINESS AND TECHNOLOGY",
+    "address": "G.T. ROAD, VILLAGE MEHTAN TEHSIL PHAGWARA, DISTRICT KAPURTHALA 144401 PUNJAB",
+    "district": "KAPURTHALA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-17962623"
+  },
+  {
+    "aicte_id": "1-44642896066",
+    "institute_name": "ST. SOLDIER MANAGEMENT AND TECHNICAL INSTITUTE",
+    "address": "MASTER GURBANTA SINGH MARG , KAPURTHALA ROAD, JALANDHAR",
+    "district": "JALANDHAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-12841261"
+  },
+  {
+    "aicte_id": "1-44643020625",
+    "institute_name": "UNIVERSAL GROUP OF INSTITUTIONS (UNIVERSAL SCHOOL OF ENGG., UNIVERSAL BUSINESS SCHOOL)",
+    "address": "UNIVERSAL GROUP OF INSTITUTIONS, VILL: BALLOPUR, LALRU-HANDESRA ROAD, LALRU MANDI",
+    "district": "MOHALI",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-10637961"
+  },
+  {
+    "aicte_id": "1-44642418691",
+    "institute_name": "ARYABHATTA GROUP OF INSTITUTES,BARNALA",
+    "address": "NH-71, BARNALA-BAJAKHANA ROAD, CHEEMA-JODHPUR",
+    "district": "BARNALA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-12143731"
+  },
+  {
+    "aicte_id": "1-44642517550",
+    "institute_name": "CHANDIGARH COLLEGE OF ENGINEERING",
+    "address": "LANDRAN SIRHIND HIGHWAY JHANJERI SAS NAGAR, MOHALI, PUNJAB",
+    "district": "S.A.S NAGAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-43373885423"
+  },
+  {
+    "aicte_id": "1-44642977241",
+    "institute_name": "A & M INSTITUTE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "OPPOSITE CANADA PALACE, VILLAGE - MAMOON, TEHSIL - PATHANKOT  DISTT.- GURDASPUR PUNJAB",
+    "district": "GURDASPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-11477181"
+  },
+  {
+    "aicte_id": "1-44642519857",
+    "institute_name": "SRI GURU TEG BAHADUR KHALSA COLLEGE SRI ANANDPUR SAHIB",
+    "address": "SRI ANANDPUR SAHIB",
+    "district": "RUPNAGAR",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "Y",
+    "other_id": "1-43379397027"
+  },
+  {
+    "aicte_id": "1-44642772574",
+    "institute_name": "GIAN JYOTI INSITUTE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "PHASE 2,, MOHALI  DISTT.SAS NAGAR",
+    "district": "S.A.S NAGAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-2028971"
+  },
+  {
+    "aicte_id": "1-44642980182",
+    "institute_name": "BHAI GURDAS INSTITUTE OF MANAGEMENT & TECHNOLOGY(MCA)",
+    "address": "BHAI GURDAS INSTITUTE OF MANAGEMENT & TECHNOLOGY, (MCA)  MAIN PATIALA-SANGRUR ROAD, SANGRUR-148001 PUNJAB.(",
+    "district": "SANGRUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-5877131"
+  },
+  {
+    "aicte_id": "1-44642427242",
+    "institute_name": "MALOUT INSTITUTE OF MANAGEMENT AND INFORMATION TECHNOLOGY, MALOUT",
+    "address": "MALOUT INSTITUTE OF MANAGEMENT AND INFORMATION TECHNOLOGY, GREEN FIELD ENCLAVE, NEAR NEW GRAIN MARKET, MALOUT, 152107, DISTT. MUKTSAR, PUNJAB",
+    "district": "MUKATSAR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-7946861"
+  },
+  {
+    "aicte_id": "1-44642982811",
+    "institute_name": "CHANDIGARH COLLEGE OF HOSPITALITY",
+    "address": "V.P.O.LANDRAN TEHSIL MOHALI DISTT. MOHALI",
+    "district": "MOHALI",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-34969671"
+  },
+  {
+    "aicte_id": "1-44642568352",
+    "institute_name": "BHAI GURDAS INSTITUTE OF ENGINEERING & TECHNOLOGY",
+    "address": "MAIN PATIALA ROAD",
+    "district": "SANGRUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4787416"
+  },
+  {
+    "aicte_id": "1-44642988894",
+    "institute_name": "ASRA INSTITUTE OF ADVANCED STUDIES",
+    "address": "PATIALA SANGRUR HIGHWAY,  NH 64 VILLAGE RAJPURA (NEAR CHANNO) TEHSIL BHAWANIGARH DIST. SANGRUR (PUNJAB)",
+    "district": "SANGRUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4562889"
+  },
+  {
+    "aicte_id": "1-44642745635",
+    "institute_name": "QUEST INFOSYS FOUNDATION GROUP OF INSTITUTIONS",
+    "address": "JHANJERI, (NEAR LANDRAN) CHANDIGARH-FATEHGARH SAHIB HIGHWAY, MOHALI-140307",
+    "district": "MOHALI",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-15972471"
+  },
+  {
+    "aicte_id": "1-44642789318",
+    "institute_name": "SHIV SHANKAR INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+    "address": "CHUSLEWAL MORH   PATTI, TARAN TARAN (PUNJAB)",
+    "district": "TARAN TARAN",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-19576431"
+  },
+  {
+    "aicte_id": "1-44642992346",
+    "institute_name": "GURU NANAK INSTITUTE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "GUJARKHAN CAMPUS, MODEL TOWN",
+    "district": "LUDHIANA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-21044861"
+  },
+  {
+    "aicte_id": "1-44642993976",
+    "institute_name": "GURU NANAK INSTITUTE OF MANAGEMENT & TECHNOLOGY",
+    "address": "GUJARKHAN CAMPUS, MODEL TOWN",
+    "district": "LUDHIANA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-7151925"
+  },
+  {
+    "aicte_id": "1-44644538991",
+    "institute_name": "SRI GURU TEG BAHADUR KHALSA COLLEGE FOR GIRLS",
+    "address": "VILL AAKAR PO SEHRA",
+    "district": "PATIALA",
+    "institution_type": "Private-Self Financing",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44454993144"
+  },
+  {
+    "aicte_id": "1-44644349952",
+    "institute_name": "RR BAWA DAV COLLEGE FOR GIRLS",
+    "address": "SMADH ROAD, BATALA",
+    "district": "GURDASPUR",
+    "institution_type": "Govt aided",
+    "women": "Y",
+    "minority": "Y",
+    "other_id": "1-44305569054"
+  },
+  {
+    "aicte_id": "1-44644350211",
+    "institute_name": "UNIVERSAL INSTITUTE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "UNIVERSAL GROUP OF INSTITUTIONS BALLOPUR,LALRU,DERABASSI,MOHALI",
+    "district": "S.A.S NAGAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44305926234"
+  },
+  {
+    "aicte_id": "1-44644359983",
+    "institute_name": "NEHRU MEMORIAL GOVT COLLEGE MANSA",
+    "address": "NMGC MANSA",
+    "district": "MANSA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44315646138"
+  },
+  {
+    "aicte_id": "1-44644377358",
+    "institute_name": "SRI GURU ANGAD DEV COLLEGE",
+    "address": "KHADUR SAHIB, TARN TARAN",
+    "district": "TARAN TARAN",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "",
+    "other_id": "1-44322167774"
+  },
+  {
+    "aicte_id": "1-44644377615",
+    "institute_name": "SANT BABA DALIP SINGH MEMORIAL KHALSA COLLEGE",
+    "address": "VPO DOMELI TEHSIL PHAGWARA  DISTRICT  KAPURTHALA",
+    "district": "KAPURTHALA",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44322478044"
+  },
+  {
+    "aicte_id": "1-44644402337",
+    "institute_name": "BLM GIRLS COLLEGE",
+    "address": "RAHON ROAD NAWANSHAHR",
+    "district": "NAWANSHAHR",
+    "institution_type": "Govt aided",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44336808985"
+  },
+  {
+    "aicte_id": "1-44644402465",
+    "institute_name": "PUBLIC COLLEGE SAMANA",
+    "address": "WARAICHAN ROAD,",
+    "district": "PATIALA",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44336922196"
+  },
+  {
+    "aicte_id": "1-44644416320",
+    "institute_name": "MODEN COLLEGE BIR KALAN",
+    "address": "SUNAM MANSA ROAD",
+    "district": "SANGRUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "Y",
+    "other_id": "1-44339692794"
+  },
+  {
+    "aicte_id": "1-44644440366",
+    "institute_name": "AMAR SHAHEED BABA AJIT SINGH JUJHAR SINGH MEMORIAL COLLEGE BELA",
+    "address": "AMAR SHAHEED BABA AJIT SINGH JUJHAR SINGH MEMORIAL COLLEGE",
+    "district": "RUPNAGAR",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44347537854"
+  },
+  {
+    "aicte_id": "1-44644483233",
+    "institute_name": "SIKH NATIONAL COLLEGE",
+    "address": "CHARAN KANWAL",
+    "district": "SHAHID BHAGAT SINGH NAGAR",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44412751634"
+  },
+  {
+    "aicte_id": "1-44644350466",
+    "institute_name": "TRINITY INSTITUTE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "CHURCH NAGAR GURU GOBIND SINGH AVENUE CHOGITTY JALANDAHR",
+    "district": "JALANDHAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44305939115"
+  },
+  {
+    "aicte_id": "1-44644416698",
+    "institute_name": "DR IT INSTITUTE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "VILL+PO JALAPUR TEH RAJPURA",
+    "district": "PATIALA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44340024554"
+  },
+  {
+    "aicte_id": "1-44644527931",
+    "institute_name": "HANS RAJ MAHILA MAHA VIDYALAYA",
+    "address": "MAHATMA HANS RAJ MARG",
+    "district": "JALANDHAR",
+    "institution_type": "Govt aided",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44452744606"
+  },
+  {
+    "aicte_id": "1-44644459207",
+    "institute_name": "CORDIA COLLEGE",
+    "address": "VPO. SANGHOL, TEHSIL. KHAMANO, DISTT. FATEHGARH SAHIB",
+    "district": "FATEHGARH SAHIB",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44369581514"
+  },
+  {
+    "aicte_id": "1-44644484133",
+    "institute_name": "SGTB INSTITUTE OF MANAGEMENT AND IT",
+    "address": "OLD BUS STAND NEAR RAILWAY FATAK SANAURA",
+    "district": "JALANDHAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44419246023"
+  },
+  {
+    "aicte_id": "1-44644351802",
+    "institute_name": "RAMGARHIA INSTITUTE OF MANAGEMENT AND ADVANCE STUDIES",
+    "address": "SATNAMPURA",
+    "district": "KAPURTHALA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44307266185"
+  },
+  {
+    "aicte_id": "1-44644405977",
+    "institute_name": "SHRI LAL BAHADUR SHASTRI ARYA MAHILA COLLEGE",
+    "address": "RAM BAGH ROAD,BARNALA",
+    "district": "BARNALA",
+    "institution_type": "Govt aided",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44337760514"
+  },
+  {
+    "aicte_id": "1-44644406216",
+    "institute_name": "HIGHER EDUCATION INSTITUTE SOCIETY SHAHEED UDHAM SINGH GOVT COLLEGE SUNAM",
+    "address": "NEAR BABA BHAI MOOL CHAND SAHIB.",
+    "district": "SANGRUR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44337812004"
+  },
+  {
+    "aicte_id": "1-44644484424",
+    "institute_name": "GURU ARJAN DEV KHALSA COLLEGE",
+    "address": "VILLAGE CHOHLA SAHIB TEHSIL AND DISTRICT TARNTARAN",
+    "district": "TARAN TARAN",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "Y",
+    "other_id": "1-44420693396"
+  },
+  {
+    "aicte_id": "1-44644543045",
+    "institute_name": "KRM DAV COLLEGE",
+    "address": "DAYANAND MARG SHANKAR ROAD NAKODAR",
+    "district": "JALANDHAR",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44455854014"
+  },
+  {
+    "aicte_id": "1-44644379514",
+    "institute_name": "S.L. BAWA DAV COLLEGE",
+    "address": "ANARKALI ROAD KHAJURI GATE",
+    "district": "GURDASPUR",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "Y",
+    "other_id": "1-44323122794"
+  },
+  {
+    "aicte_id": "1-44644532088",
+    "institute_name": "INDO GLOBAL COLLEGE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "VILLAGE ABHIPUR NEW CHANDIGARH DISTT S.A.S NAGAR MOHALI",
+    "district": "MOHALI",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44453746304"
+  },
+  {
+    "aicte_id": "1-44644411442",
+    "institute_name": "GURU NANAK KHALSA COLLEGE DAROLI KALAN",
+    "address": "DAROLI KALAN(JALANDHAR)",
+    "district": "JALANDHAR",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44337962884"
+  },
+  {
+    "aicte_id": "1-44644442791",
+    "institute_name": " DOABA KHLASA TRUST GROUP OF INSTITUTIONS MANAGEMENT",
+    "address": "VILL CHHOKRAN    PO  RAHON",
+    "district": "SHAHID BHAGAT SINGH NAGAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44353563374"
+  },
+  {
+    "aicte_id": "1-44644532936",
+    "institute_name": "SHAHEED DARSHAN SINGH PHERUMAN MEMORIAL COLLEGE FOR WOMEN RAYYA",
+    "address": "GT ROAD RAYYA",
+    "district": "AMRITSAR",
+    "institution_type": "Govt aided",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44454037033"
+  },
+  {
+    "aicte_id": "1-44644343375",
+    "institute_name": "DAV COLLEGE AMRITSAR",
+    "address": "KATRA SHER SINGH, I/S HATHI GATE",
+    "district": "AMRITSAR",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44300081864"
+  },
+  {
+    "aicte_id": "1-44644488555",
+    "institute_name": "SSSS COLLEGE OF COMMERCE AND ALLIED STUDIES",
+    "address": "OPPOSITE CELEBRATION MALL, BATALA ROAD",
+    "district": "AMRITSAR",
+    "institution_type": "Private-Self Financing",
+    "women": "",
+    "minority": "",
+    "other_id": "1-44435404594"
+  },
+  {
+    "aicte_id": "1-44644554684",
+    "institute_name": "COLONEL DEGREE COLLEGE",
+    "address": "CHURAL KALAN, LEHRAGAGA",
+    "district": "SANGRUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44456657598"
+  },
+  {
+    "aicte_id": "1-44644518033",
+    "institute_name": "SSSS COLLEGE OF COMMERCE FOR WOMEN",
+    "address": "SSSS CHOWK, MAJITHA ROAD, THE MALL",
+    "district": "AMRITSAR",
+    "institution_type": "Private-Self Financing",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44451439035"
+  },
+  {
+    "aicte_id": "1-44644555014",
+    "institute_name": "GURU GOBIND SINGH COLLEGE OF ARTS SCIENCE AND COMMERCE",
+    "address": "KHOKHAR KALAN, LEHRA SUNAM ROAD,",
+    "district": "SANGRUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44456868894"
+  },
+  {
+    "aicte_id": "1-44644395146",
+    "institute_name": "JASMER SINGH JAIJEE COLLEGE",
+    "address": "JASMER SINGH JAIJEE COLLEGE,VILLAGE GURNEY KALAN.PO GOBINDPURA JAWAHARWALA DISTRICT SANGRUR TEH LEHRAGAGA,",
+    "district": "SANGRUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44333085684"
+  },
+  {
+    "aicte_id": "1-44644368662",
+    "institute_name": "BHARAT INSTITUTES OF MANAGEMENT STUDIES",
+    "address": "KHAIRA KHURD, DING ROAD",
+    "district": "MANSA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44320858484"
+  },
+  {
+    "aicte_id": "1-44644413435",
+    "institute_name": "BABA ZORAWAR SINGH FATEH SINGH KHALSA GIRLS COLLEGE MORINDA",
+    "address": "B.Z.S.F.S.KHALSA GIRLS COLLEGE,MORINDA",
+    "district": "RUPNAGAR",
+    "institution_type": "Govt aided",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44338719324"
+  },
+  {
+    "aicte_id": "1-44644450934",
+    "institute_name": "ST. SOLDIER INSTITUTE OF BUSINESS MANAGEMENT AND AGRICULTURE",
+    "address": "JALANDHAR-AMRITSAR HIGHWAY, NEAR NIT",
+    "district": "JALANDHAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44358958734"
+  },
+  {
+    "aicte_id": "1-44644476669",
+    "institute_name": "DRV DAV CENTENARY COLLEGE",
+    "address": "NH-44, GT ROAD",
+    "district": "JALANDHAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44401718884"
+  },
+  {
+    "aicte_id": "1-45177313533",
+    "institute_name": "GURU NANAK PREM KARAMSAR COLLEGE",
+    "address": "BHOLATH ROAD NADALA",
+    "district": "KAPURTHALA",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-45177313533"
+  },
+  {
+    "aicte_id": "1-44644507628",
+    "institute_name": "VIDYA RATTAN COLLEGE FOR WOMEN",
+    "address": "KHOKHAR LEHRAGAGA",
+    "district": "SANGRUR",
+    "institution_type": "Private-Self Financing",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44450256983"
+  },
+  {
+    "aicte_id": "1-44644335346",
+    "institute_name": "BABA BUDHA COLLEGE BIR SAHIB",
+    "address": "BABA BUDHA COLLEGE BIR SAHIB PO CHABBAL DISTT TARN TARAN PUNJAB",
+    "district": "TARAN TARAN",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44292466885"
+  },
+  {
+    "aicte_id": "1-44644345643",
+    "institute_name": "GOVERNMENT MOHINDRA COLLEGE PATIALA",
+    "address": "GOVT. MOHINDRA COLEGE, NEAR NIS, PATIALA",
+    "district": "PATIALA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44302590766"
+  },
+  {
+    "aicte_id": "1-44644373318",
+    "institute_name": "DAV COLLEGE JALANDHAR",
+    "address": "MAHATMA HANS RAJ MARG,  JALANDHAR",
+    "district": "JALANDHAR",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "Y",
+    "other_id": "1-44320897254"
+  },
+  {
+    "aicte_id": "1-44644494473",
+    "institute_name": "SHREE HANUMAT INSTITUTE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "GT ROAD GORAYA",
+    "district": "JALANDHAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44446574717"
+  },
+  {
+    "aicte_id": "1-44644558531",
+    "institute_name": "GCS INSTITUTE OF VOCATIONAL STUDIES",
+    "address": "VILLAGE: BHADDAL P.O. MIANPUR",
+    "district": "RUPNAGAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44457573594"
+  },
+  {
+    "aicte_id": "1-44644373639",
+    "institute_name": "DESH BHAGAT COLLEGE BARDWAL DHURI",
+    "address": "VPO BARDWAL",
+    "district": "SANGRUR",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44321084424"
+  },
+  {
+    "aicte_id": "1-44644479318",
+    "institute_name": "KC SCHOOL OF MANAGEMENT AND COMPUTER APPLICATIONS",
+    "address": "KARYAM ROAD NAWANSHAHR",
+    "district": "SHAHID BHAGAT SINGH NAGAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44404159234"
+  },
+  {
+    "aicte_id": "1-44644494937",
+    "institute_name": "SWIFT TECHNICAL CAMPUS",
+    "address": "VILLAGE GHAGGAR SARAI, NH 1 RAJPURA AMBALA HIGHWAY",
+    "district": "PATIALA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44447844034"
+  },
+  {
+    "aicte_id": "1-44644508673",
+    "institute_name": "TARA VIVEK COLLEGE",
+    "address": "VILLAGE: GAJJAN MAJRA PO: BHURTHALA MANDER TEHSIL: MALERKOTLA DISTRICT: MALERKOTLA",
+    "district": "SANGRUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44450426915"
+  },
+  {
+    "aicte_id": "1-44644521952",
+    "institute_name": "HEIGHER EDUCATION INSTITUTE SOCIETY",
+    "address": "GOVERNMENT COLLEGE ROPAR  NEAR CHURCH ROAD ROPAR.",
+    "district": "RUPNAGAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44451975387"
+  },
+  {
+    "aicte_id": "1-44644558900",
+    "institute_name": "BABA MONI JI MAHARAJ DEGREE COLLEGE",
+    "address": "VPO LEHRA MOHABBAT",
+    "district": "BATHINDA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44457765274"
+  },
+  {
+    "aicte_id": "1-44644374113",
+    "institute_name": "DOABA COLLEGE JALANDHAR",
+    "address": "TANDA ROAD OPPOSITE DEVI TALAB MANDIR JALANDHAR",
+    "district": "JALANDHAR",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44321309344"
+  },
+  {
+    "aicte_id": "1-44644387518",
+    "institute_name": "VIDYA JYOTI EDUCATIONAL SOCIETY",
+    "address": "GHOUMAJARA POST OFFICE DAPPAR TEHSIL DERABASSI",
+    "district": "S.A.S NAGAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44326580594"
+  },
+  {
+    "aicte_id": "1-44644479862",
+    "institute_name": "S.D. COLLEGE FOR WOMEN",
+    "address": "3 JAWAHAR NAGAR",
+    "district": "MOGA",
+    "institution_type": "Govt aided",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44407037364"
+  },
+  {
+    "aicte_id": "1-44644495132",
+    "institute_name": "MK INSTITUTE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "VILLAGE SOHIAN KHURD",
+    "district": "AMRITSAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44448127744"
+  },
+  {
+    "aicte_id": "1-44644346889",
+    "institute_name": "ST. SOLDIER COLLEGE",
+    "address": "BASTI DANISHMANDAN",
+    "district": "JALANDHAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44304864304"
+  },
+  {
+    "aicte_id": "1-44644347090",
+    "institute_name": "BHAI SANGAT SINGH KHALSA COLLEGE BANGA",
+    "address": "BHAI SANGAT SINGH KHALSA COLLEGE, BANGA NEAR KHATKAR KALAN",
+    "district": "SHAHID BHAGAT SINGH NAGAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44304927924"
+  },
+  {
+    "aicte_id": "1-44644374322",
+    "institute_name": "SHAHZADA NAND COLLEGE",
+    "address": "GREEN AVENUE, MAQBOOL ROAD",
+    "district": "AMRITSAR",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44321379844"
+  },
+  {
+    "aicte_id": "1-44644359313",
+    "institute_name": "GURU NANAK COLLEGE BATALA",
+    "address": "BATALA",
+    "district": "GURDASPUR",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44314431873"
+  },
+  {
+    "aicte_id": "1-44644415874",
+    "institute_name": "GANGA DEGREE COLLEGE",
+    "address": "VILLAGE DHABI GUJRAN, NH-52, PATRAN NARWANA NATIONAL HIGHWAY, THESIL PATRAN",
+    "district": "PATIALA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44339582894"
+  },
+  {
+    "aicte_id": "1-44644015587",
+    "institute_name": "SRI SAI IQBAL COLLEGE OF MANAGEMENT AND INFORMATION TECHNOLOGY",
+    "address": "VPO BADHANI",
+    "district": "PATHANKOT",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44218470837"
+  },
+  {
+    "aicte_id": "1-44644042974",
+    "institute_name": "PATEL MEMORIAL NATIONAL COLLEGE",
+    "address": "COLLEGE ROAD, RAJPURA",
+    "district": "PATIALA",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44228916437"
+  },
+  {
+    "aicte_id": "1-44644214190",
+    "institute_name": "SWAMI VIVEKANAND FACULTY OF INFORMATION TECHNOLOGY AND  BUSINESS MANAGEMENT",
+    "address": "VILLAGE RAMNAGAR NEAR BANUR TEHSIL RAJPURA",
+    "district": "PATIALA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44245400583"
+  },
+  {
+    "aicte_id": "1-44644333192",
+    "institute_name": "ST SOLDIER COLLEGE CO EDUCATION",
+    "address": "HADIABAD PHAGWARA",
+    "district": "KAPURTHALA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44290181064"
+  },
+  {
+    "aicte_id": "1-44644333259",
+    "institute_name": "GULZAR SCHOOL OF MANAGEMENT",
+    "address": "GT ROAD KHANNA LUDHIANA",
+    "district": "LUDHIANA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44290219944"
+  },
+  {
+    "aicte_id": "1-44643864752",
+    "institute_name": "GENERAL SHIVDEV SINGH DIWAN GURBACHAN SINGH KHALSA COLLEGE PATIALA",
+    "address": "BADUNGAR ROAD PATIALA",
+    "district": "PATIALA",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "Y",
+    "other_id": "1-44106452633"
+  },
+  {
+    "aicte_id": "1-44644043529",
+    "institute_name": "SWAMI VIVEKANAND FACULTY OF TECHNOLOGY AND MANAGEMENT",
+    "address": "VILLAGE RAMNAGAR,NEAR BANUR,TEHSIL RAJPURA,DISTT PATIALA,PUNJAB-140601",
+    "district": "PATIALA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44229075203"
+  },
+  {
+    "aicte_id": "1-44644148295",
+    "institute_name": "KHALSA COLLEGE OF PHYSICAL EDUCATION",
+    "address": "GT ROAD AMRITSAR",
+    "district": "AMRITSAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44239418483"
+  },
+  {
+    "aicte_id": "1-44644202094",
+    "institute_name": "HARI PARKASH INSTITUTE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "SHRI HARGOBINDPUR ROAD, OPP. LIFE CARE HOSPITAL NEAR PALTA PUMP TANDA URMAR",
+    "district": "HOSHIARPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44244916233"
+  },
+  {
+    "aicte_id": "1-44644333970",
+    "institute_name": "PUNJAB INSTITUTE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "VILLAGE ALOUR TEHSIL KHANNA",
+    "district": "LUDHIANA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44290739333"
+  },
+  {
+    "aicte_id": "1-44643856031",
+    "institute_name": "JAMNA DEVI INSTITUTE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "VILLAGE SANGHUDHOAN, BATHINDA ROAD, MUKTSAR",
+    "district": "MUKATSAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44081049903"
+  },
+  {
+    "aicte_id": "1-44644016958",
+    "institute_name": "DASHMESH KHALSA COLLEGE",
+    "address": "NEAR GURUDWARA NABHA SAHIB, DYALPURA ROAD, ZIRAKPUR, SAS NAGAR",
+    "district": "S.A.S NAGAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44218570917"
+  },
+  {
+    "aicte_id": "1-44644185948",
+    "institute_name": "MATA SAHIB KAUR GIRLS COLLEGE",
+    "address": "VPO-GEHAL,TEH-TAPA",
+    "district": "BARNALA",
+    "institution_type": "Private-Self Financing",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44244104493"
+  },
+  {
+    "aicte_id": "1-44644186245",
+    "institute_name": "GURU GOBIND SINGH COLLEGE OF MANAGEMENT AND IT",
+    "address": "VPO MAHILPUR (PATTI CHARANPUR)",
+    "district": "HOSHIARPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44244123534"
+  },
+  {
+    "aicte_id": "1-44643817054",
+    "institute_name": "MULTANI MAL MODI COLLEGE PATIALA",
+    "address": "MULTANI MAL MODI COLLEGE, NEAR SUNAMI GATE, PATIALA",
+    "district": "PATIALA",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-43945381067"
+  },
+  {
+    "aicte_id": "1-44643838995",
+    "institute_name": "BHAI MAHA SINGH COLLEGE OF INFORMATION TECHNOLOGY AND LIFE SCIENCES",
+    "address": "KOTKAPURA ROAD SRI MUKTSAR SAHIB",
+    "district": "MUKATSAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44068009867"
+  },
+  {
+    "aicte_id": "1-44643888094",
+    "institute_name": "SACHDEVA GIRLS COLLEGE",
+    "address": "CHANDIGARH-LUDHIANA HIGHWAY, VPO-GHARUAN, TEHSIL- KHARAR, DISTT-S.A.S. NAGAR (MOHALI)",
+    "district": "MOHALI",
+    "institution_type": "Private-Self Financing",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44111886508"
+  },
+  {
+    "aicte_id": "1-44644029215",
+    "institute_name": "KHALSA COLLEGE AMRITSAR",
+    "address": "KHALSA COLLEGE, G.T. ROAD, AMRITSAR",
+    "district": "AMRITSAR",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44218610753"
+  },
+  {
+    "aicte_id": "1-44644044266",
+    "institute_name": "BIBI SHARAN KAUR KHALSA COLLEGE",
+    "address": "SRI CHAMKAUR SAHIB",
+    "district": "RUPNAGAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "Y",
+    "other_id": "1-44229286873"
+  },
+  {
+    "aicte_id": "1-44644047361",
+    "institute_name": "CHANDIGARH COLLEGE OF TECHNOLOGY",
+    "address": "LANDRAN MOHALI",
+    "district": "S.A.S NAGAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44229686623"
+  },
+  {
+    "aicte_id": "1-44644082267",
+    "institute_name": "LONGOWAL ACADEMIC COLLEGE",
+    "address": "DANDRALA,DERABASSI, MOHALI",
+    "district": "S.A.S NAGAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44231442193"
+  },
+  {
+    "aicte_id": "1-44644133842",
+    "institute_name": "BIS INSTITUTE OF SCIENCES AND TECHNOLOGY",
+    "address": "VPO GAGRA, MOGA-AMRITSRA HIGHWAY DISTT MOGA",
+    "district": "MOGA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44236280993"
+  },
+  {
+    "aicte_id": "1-44643843689",
+    "institute_name": "UNIVERSAL COLLEGE",
+    "address": "CHANDA COLONY PATRAN",
+    "district": "PATIALA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44068821113"
+  },
+  {
+    "aicte_id": "1-44643917233",
+    "institute_name": "RADICAL BUSINESS SCHOOL",
+    "address": "THANDE-KHAPARKHERI 4 KM FROM G.N.D.U , AMRITSAR",
+    "district": "AMRITSAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44117026345"
+  },
+  {
+    "aicte_id": "1-44644134073",
+    "institute_name": "GURU GOBIND SINGH COLLEGE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "NEAR MALWA SCHOOL, G.T. ROAD,",
+    "district": "MUKATSAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44236370426"
+  },
+  {
+    "aicte_id": "1-44644134516",
+    "institute_name": "ARYANS INSTITUTE OF MANAGEMENT AND TECHNOLOGYPPP",
+    "address": "VILLAGE-NEPRA/THUHA, PO- CHAMARU, TEHSIL- RAJPURA, DIST. PATIALA, PUNJAB",
+    "district": "PATIALA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44236460473"
+  },
+  {
+    "aicte_id": "1-44644171418",
+    "institute_name": "GURU GOBIND SINGH KHALSA COLLEGE",
+    "address": "VPO SARHALI KALAN TEHSIL AND DISTRICT TARN TARAN",
+    "district": "TARAN TARAN",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44242201853"
+  },
+  {
+    "aicte_id": "1-44644155131",
+    "institute_name": "SWAMI SWATANTRANAND MEMORIAL COLLEGE",
+    "address": "G.T.ROAD , DINANAGAR",
+    "district": "GURDASPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44240055103"
+  },
+  {
+    "aicte_id": "1-44644205104",
+    "institute_name": "M.L MEMORIAL TECHNICAL COLLEGE",
+    "address": "VILL. KILLI CHAHAL,MOGA",
+    "district": "MOGA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44244999523"
+  },
+  {
+    "aicte_id": "1-44644320401",
+    "institute_name": "S.D.COLLEGE BARNALA",
+    "address": "KC ROAD, NEAR RAILWAY CROSSING",
+    "district": "BARNALA",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44269773984"
+  },
+  {
+    "aicte_id": "1-44644320507",
+    "institute_name": "FEROZEPUR COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "address": "19 KM FEROZEPUR-MOGA ROAD, FEROZSHAH",
+    "district": "FIROZPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44269818026"
+  },
+  {
+    "aicte_id": "1-44643805481",
+    "institute_name": "PUNJAB COLLEGE OF TECHNICAL EDUCATION JHANDE",
+    "address": "PCTE CAMPUS-2, NEAR FEROZEPUR ROAD",
+    "district": "LUDHIANA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-43841841243"
+  },
+  {
+    "aicte_id": "1-44643823638",
+    "institute_name": "PUNJAB COLLEGE OF COMMERCE AND AGRICULTURE",
+    "address": "VILLAGE - SARKAPRA, POST OFFICE - CHUNNI KALAN, TEHSIL - BASSI PATHANA",
+    "district": "FATEHGARH SAHIB",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-43999220173"
+  },
+  {
+    "aicte_id": "1-44643918688",
+    "institute_name": "VISHAVKARMA COLLEGE FOR GIRLS",
+    "address": "PATRAN ROAD DIRBA",
+    "district": "SANGRUR",
+    "institution_type": "Private-Self Financing",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44128456039"
+  },
+  {
+    "aicte_id": "1-44644048904",
+    "institute_name": "KHALSA COLLEGE FOR WOMEN",
+    "address": "G T ROAD,AMRITSAR",
+    "district": "AMRITSAR",
+    "institution_type": "Govt aided",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44230368873"
+  },
+  {
+    "aicte_id": "1-44644069222",
+    "institute_name": "C T INSTITUTION OF HIGHER STUDIES",
+    "address": "VILLAGE SHAHPUR, PO UDOPUR",
+    "district": "JALANDHAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44230393643"
+  },
+  {
+    "aicte_id": "1-44644172352",
+    "institute_name": "GOVT RANBIR COLLEGE",
+    "address": "GOVT RANBIR COLLEGE PATIALA ROAD SANGRUR",
+    "district": "SANGRUR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44242396743"
+  },
+  {
+    "aicte_id": "1-44643845909",
+    "institute_name": "SBS GOVT COLLEGE",
+    "address": "BATHINDA ROAD,KOTKAPURA",
+    "district": "FARIDKOT",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44074039513"
+  },
+  {
+    "aicte_id": "1-44644207983",
+    "institute_name": "TRAI SHATABDI GURU GOBIND SINGH KHALSA COLLEGE",
+    "address": "RAMSAR ROAD",
+    "district": "AMRITSAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "Y",
+    "other_id": "1-44245031893"
+  },
+  {
+    "aicte_id": "1-44644208150",
+    "institute_name": "SHANTI TARA GIRLS COLLEGE AHMEDGARH",
+    "address": "LUDHIANA-MALERKOTLA ROAD, AHMEDGARH",
+    "district": "SANGRUR",
+    "institution_type": "Private-Self Financing",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44245039385"
+  },
+  {
+    "aicte_id": "1-44643824526",
+    "institute_name": "SYNETIC BUSINESS SCHOOL",
+    "address": "SYNETIC BUSINESS SCHOOL, VILL SAHIBANA PO RAMGARH, CHANDIGARH ROAD (BACKSIDE SIDHU HIGHWAYZ KITCHEN), LUDHIANA, PUNJAB 141123",
+    "district": "LUDHIANA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44010866265"
+  },
+  {
+    "aicte_id": "1-44644089711",
+    "institute_name": "MIRI PIRI KHALSA COLLEGE BHADAUR",
+    "address": "BHADAUR",
+    "district": "BARNALA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44232370903"
+  },
+  {
+    "aicte_id": "1-44644159045",
+    "institute_name": "YOUNG SCHOLARS COLLEGE",
+    "address": "YOUNG SCHOLAR COLLEGE, BARNALA-BATHINDA HIGHWAY, HANDIAYA",
+    "district": "BARNALA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44240551413"
+  },
+  {
+    "aicte_id": "1-44644177382",
+    "institute_name": "TAWI COLLEGE",
+    "address": "SHAHPUR KANDI, TEHSIL DHARKALAN",
+    "district": "PATHANKOT",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44242548703"
+  },
+  {
+    "aicte_id": "1-44643809376",
+    "institute_name": "NIELIT DEEMED TO BE UNIVERSITY",
+    "address": "BIRLA FARMS, BADA PHULL",
+    "district": "RUPNAGAR",
+    "institution_type": "Deemed to be University(Govt)",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-43863071505"
+  },
+  {
+    "aicte_id": "1-44643846784",
+    "institute_name": "NATIONAL COLLEGE OF INFORMATION TECHNOLOGY",
+    "address": "BACK SIDE PU REGIONAL CENTER , GURUDAWARA DATTAN SAHIB ROAD, SRI MUKTSAR SAHIB.(PUNJAB)",
+    "district": "MUKATSAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44074737850"
+  },
+  {
+    "aicte_id": "1-44643860796",
+    "institute_name": "HINDU KANYA COLLEGE KAPURTHALA",
+    "address": "AMRITSAR ROAD, KAPURTHALA",
+    "district": "KAPURTHALA",
+    "institution_type": "Govt aided",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44089579437"
+  },
+  {
+    "aicte_id": "1-44644090027",
+    "institute_name": "ST SOLDIER COLLEGE CO EDUCATION",
+    "address": "BEHIND NIT (REC) JALANDHAR -AMRITSAR BYEPASS",
+    "district": "JALANDHAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44232412795"
+  },
+  {
+    "aicte_id": "1-44644140877",
+    "institute_name": "GOVT. BRIJINDRA COLLEGE FARIDKOT",
+    "address": "GOVT BRIJINDRA COLLEGE CHAHAL ROAD OPP NEHRU STADIUM FARIDKOT",
+    "district": "FARIDKOT",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44237759023"
+  },
+  {
+    "aicte_id": "1-44644161569",
+    "institute_name": "JAIN COLLEGE OF PHARMACY",
+    "address": "VPO-USMANKHERA, SUB TEHSIL-KHUIAN SARWAR, TEHSIL-ABOHAR",
+    "district": "FIROZPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "Y",
+    "other_id": "1-44240684793"
+  },
+  {
+    "aicte_id": "1-44644177678",
+    "institute_name": "SSD COLLEGE OF PROFESSIONAL STUDIES BHOKHRA",
+    "address": "GONIANA ROAD, ADJOINING S.S.D. KRISHNA VATIKA SCHOOL, BHOKHRA, BATHINDA",
+    "district": "BATHINDA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44242564923"
+  },
+  {
+    "aicte_id": "1-44644071111",
+    "institute_name": "SFC INSTITUTE OF MANAGEMENT AND TECHNOLOGY FATEHGARH KOROTANA",
+    "address": "MOGA-DHARAMKOT ROAD, FATEHGARH KOROTANA",
+    "district": "MOGA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44230585123"
+  },
+  {
+    "aicte_id": "1-44644073210",
+    "institute_name": "KANYA MAHA VIDYALAYA",
+    "address": "VIDYALAYA MARG, TANDA ROAD",
+    "district": "JALANDHAR",
+    "institution_type": "Govt aided",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44230613063"
+  },
+  {
+    "aicte_id": "1-44643810785",
+    "institute_name": "SRI SUKHMANI INSTITUTE OF HOSPITALITY AND MANAGEMENT",
+    "address": "SRI SUKHMANI INSTITUTE OF HOSPITALITY AND MANAGEMENT ,DERA BASSI CHANDIGARH - AMBALA NATIONAL HIGHWAY",
+    "district": "MOHALI",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-43885478463"
+  },
+  {
+    "aicte_id": "1-44643848073",
+    "institute_name": "AKAL DEGREE COLLEGE FOR WOMEN",
+    "address": "NEAR DISTRICT COURTS COMPLEX NABHA GATE",
+    "district": "SANGRUR",
+    "institution_type": "Govt aided",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44076146865"
+  },
+  {
+    "aicte_id": "1-44644073635",
+    "institute_name": "S R P A ADARSH BHARTIYA COLLEGE",
+    "address": "SIMBAL CHOWK",
+    "district": "PATHANKOT",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44230676743"
+  },
+  {
+    "aicte_id": "1-44644142013",
+    "institute_name": "MAJHA COLLEGE FOR WOMEN TARN TARAN",
+    "address": "NEAR TARN TARAN ALADINPUR  BYEPASS CHOWK, TARN TARAN",
+    "district": "TARAN TARAN",
+    "institution_type": "Private-Self Financing",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44239079633"
+  },
+  {
+    "aicte_id": "1-44644178930",
+    "institute_name": "GHSKGC",
+    "address": "KARHALI SAHIB",
+    "district": "PATIALA",
+    "institution_type": "Private-Self Financing",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44242773253"
+  },
+  {
+    "aicte_id": "1-44644211854",
+    "institute_name": "BBK DAV COLLEGE FOR WOMEN",
+    "address": "LAWRENCE ROAD, AMRITSAR",
+    "district": "AMRITSAR",
+    "institution_type": "Govt aided",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44245131594"
+  },
+  {
+    "aicte_id": "1-44644301044",
+    "institute_name": "SHAHEED BHAGAT SINGH KHALSA COLLEGE FOR WOMEN",
+    "address": "VILLAGE- PADIALA, P.O. SAHAURAN",
+    "district": "S.A.S NAGAR",
+    "institution_type": "Private-Self Financing",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44260330885"
+  },
+  {
+    "aicte_id": "1-44644332549",
+    "institute_name": "MATA SUNDRI GIRLS COLLEGE",
+    "address": "DIKH ROAD, DHADE",
+    "district": "BATHINDA",
+    "institution_type": "Private-Self Financing",
+    "women": "Y",
+    "minority": "Y",
+    "other_id": "1-44289629253"
+  },
+  {
+    "aicte_id": "1-44644332613",
+    "institute_name": "SHAHEED BABA JIWAN SINGH KHALSA COLLEGE",
+    "address": "HOSHIAR NAGAR SATLANI SAHIB",
+    "district": "AMRITSAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44289685893"
+  },
+  {
+    "aicte_id": "1-44643862140",
+    "institute_name": "MATA GUJRI KHALSA COLLEGE",
+    "address": "KISHANGARH ROAD KARTARPUR",
+    "district": "JALANDHAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44095926494"
+  },
+  {
+    "aicte_id": "1-44644099714",
+    "institute_name": "RRMK ARYA MAHILA MAHAVIDYALAYA PATHANKOT",
+    "address": "SHAHPUR CHOWNK PATHANKOT",
+    "district": "PATHANKOT",
+    "institution_type": "Govt aided",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44232837683"
+  },
+  {
+    "aicte_id": "1-44644142236",
+    "institute_name": "FATEH COLLEGE RAMPURA",
+    "address": "MAUR ROAD, RAMPURA PHUL",
+    "district": "BATHINDA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44239170990"
+  },
+  {
+    "aicte_id": "1-44644163006",
+    "institute_name": "MATA SAHIB KAUR GIRLS COLLEGE TALWANDI SABO",
+    "address": "NEAR GURUDWARA JANDSAR SAHIB",
+    "district": "BATHINDA",
+    "institution_type": "Private-Self Financing",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44240986443"
+  },
+  {
+    "aicte_id": "1-44644196253",
+    "institute_name": "AKAL DEGREE COLLEGE MASTUANA",
+    "address": "NH 7 MASTUANA SAHIB",
+    "district": "SANGRUR",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44244858093"
+  },
+  {
+    "aicte_id": "1-44644325947",
+    "institute_name": "DOABA BUSINESS SCHOOL",
+    "address": " NH21 CHANDIGARH-ROPAR HIGHWAY,GHATAUR DISTT: MOHALI, TEHSIL:, KHARAR, PUNJAB 140301",
+    "district": "S.A.S NAGAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44277245094"
+  },
+  {
+    "aicte_id": "1-44643833621",
+    "institute_name": "ARYABHATTA COLLEGE",
+    "address": "CHEEMA-JODHPUR, BARNALA-BAJAKHANA ROAD, BARNALA",
+    "district": "BARNALA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44038474133"
+  },
+  {
+    "aicte_id": "1-44643853284",
+    "institute_name": "DIPS COLLEGE CO EDUCATIONAL",
+    "address": "VPO DHILWAN",
+    "district": "KAPURTHALA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44079096148"
+  },
+  {
+    "aicte_id": "1-44644075020",
+    "institute_name": "LALA LAJPAT RAI MEMORIAL INSTITUTE OF MANAGEMENT AND COMPUTER SCIENCES",
+    "address": "VPO AJITWAL",
+    "district": "MOGA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44230846683"
+  },
+  {
+    "aicte_id": "1-44644100070",
+    "institute_name": "ST SOLDIER INSTITUTE OF BUSINESS MANAGEMENT AND TECHNOLOGY",
+    "address": "VILLAGE JIAN PO BASSI KALAN HOSHIARPUR",
+    "district": "HOSHIARPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44232896195"
+  },
+  {
+    "aicte_id": "1-44644143110",
+    "institute_name": "LYALLPUR KHALSA COLLEGE JALANDHAR",
+    "address": "GT ROAD JALANDHAR",
+    "district": "JALANDHAR",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44239308833"
+  },
+  {
+    "aicte_id": "1-44644181730",
+    "institute_name": "SWAMI VIVEKANAND COLLEGE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "VILLAGE RAMNAGAR NEAR BANUR",
+    "district": "PATIALA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44242971263"
+  },
+  {
+    "aicte_id": "1-44644181933",
+    "institute_name": "GURSEWA INSTITUTE OF SCIENCE AND TECHNOLOGY",
+    "address": "CHANDIGARH ROAD, PANAM, GARHSHANKAR",
+    "district": "HOSHIARPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44243105223"
+  },
+  {
+    "aicte_id": "1-44643834429",
+    "institute_name": "GURDASIDEVI INSTITUTE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "NEAR SHIV SHAKTI BHAWAN BOHA-BHIKHI ROAD",
+    "district": "MANSA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44049397983"
+  },
+  {
+    "aicte_id": "1-44643863893",
+    "institute_name": "SANT BABA ATTAR SINGH KHALSA COLLEGE",
+    "address": "VPO SANDAUR",
+    "district": "SANGRUR",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44099546265"
+  },
+  {
+    "aicte_id": "1-44644042333",
+    "institute_name": "SHRI SANATAN DHARAM GIRLS' COLLEGE",
+    "address": "MAHARAJA AGGARSAIN RAOD(AMRIK SINGH ROAD), BATHINDA",
+    "district": "BATHINDA",
+    "institution_type": "Govt aided",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44228847693"
+  },
+  {
+    "aicte_id": "1-44644147465",
+    "institute_name": "GURU GOBIND SINGH KHALSA COLLEGE BHAGTA BHAI KA",
+    "address": " NATHANA ROAD BHAGTA BHAI KA",
+    "district": "BATHINDA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44239318583"
+  },
+  {
+    "aicte_id": "1-44644310678",
+    "institute_name": "KCT COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "address": "LEHRA CHEEMA ROAD",
+    "district": "SANGRUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44262989273"
+  },
+  {
+    "aicte_id": "1-44645026280",
+    "institute_name": "GOSWAMI GANESH DUTTA SANATAN DHARMA COLLEGE",
+    "address": "VILLAGE KHERI GURNA, BANUR AMBALA ROAD, TEH. RAJPURA",
+    "district": "PATIALA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44609199503"
+  },
+  {
+    "aicte_id": "1-44645026442",
+    "institute_name": "PT. MOHAN LAL S.D COLLEGE FOR WOMEN",
+    "address": "KAHNUWAN ROAD, GURDASPUR",
+    "district": "GURDASPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44609247483"
+  },
+  {
+    "aicte_id": "1-44645026702",
+    "institute_name": "PT. MOHAN LAL SD COLLEGE FOR GIRLS",
+    "address": "DERA BABA NANAK ROAD, FATEHGARH CHURIAN",
+    "district": "GURDASPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44609311714"
+  },
+  {
+    "aicte_id": "1-44645057904",
+    "institute_name": "SHIVALIK COLLEGE",
+    "address": "TRIMMU ROAD NEW SANT NAGAR, GURDASPUR",
+    "district": "GURDASPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44620696013"
+  },
+  {
+    "aicte_id": "1-44645059134",
+    "institute_name": "SHAHEED UDHAM SINGH COLLEGE OF MANAGEMENT ARTS AND COMPUTER SCIENCE",
+    "address": "VPO MEHLAN, TEHSIL SUNAM, DISTT. SANGRUR",
+    "district": "SANGRUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44620797764"
+  },
+  {
+    "aicte_id": "1-44645094435",
+    "institute_name": "GOVIND NATIONAL COLLEGE NARANGWAL",
+    "address": "VPO NARANGWAL, LUDHIANA",
+    "district": "LUDHIANA",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44627221378"
+  },
+  {
+    "aicte_id": "1-44645035867",
+    "institute_name": "KHALSA COLLEGE FOR WOMEN",
+    "address": "VPO-SIDHWAN KHURD, TEHSIL- JAGRAON, LUDHIANA",
+    "district": "LUDHIANA",
+    "institution_type": "Govt aided",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44612277594"
+  },
+  {
+    "aicte_id": "1-44645036284",
+    "institute_name": "G.G.D.S.D. COLLEGE HARIANA",
+    "address": "VPO HARIANA, OPPOSITE POLICE STATION",
+    "district": "HOSHIARPUR",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44612330385"
+  },
+  {
+    "aicte_id": "1-44645077197",
+    "institute_name": "JASDEV SINGH SANDHU DEGREE COLLEGE KAULI",
+    "address": "JASDEV SINGH SANDHU GROUP OF INSTITUTES KAULI,RAJPURA-PATIALA ROAD 140701",
+    "district": "PATIALA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44623708399"
+  },
+  {
+    "aicte_id": "1-44645066076",
+    "institute_name": "SRI GURU GOBIND SINGH KHALSA COLLEGE MAHILPUR",
+    "address": "MAHILPUR",
+    "district": "HOSHIARPUR",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44622141504"
+  },
+  {
+    "aicte_id": "1-44645022593",
+    "institute_name": "THE ROYAL GROUP OF COLLEGES",
+    "address": "BORAWAL",
+    "district": "MANSA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "Y",
+    "other_id": "1-44608237924"
+  },
+  {
+    "aicte_id": "1-44645056325",
+    "institute_name": "DAV COLLEGE HOSHIARPUR",
+    "address": "DAV COLLEGE, CHANDIGARH ROAD, HOSHIARPUR, PIN-146001",
+    "district": "HOSHIARPUR",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44620211465"
+  },
+  {
+    "aicte_id": "1-44780790443",
+    "institute_name": "ARYA COLLEGE LUDHIANA",
+    "address": "RISHI DAYANAND MARG CIVIL LINES",
+    "district": "LUDHIANA",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44780790443"
+  },
+  {
+    "aicte_id": "1-44644967145",
+    "institute_name": "GIANI KARTAR SINGH MEMORIAL GOVERNMENT COLLEGE TANDA URMAR",
+    "address": "GIANI KARTAR SINGH MEMORIAL GOVERNMENT COLLEGE DARAPUR BYEPASS TANDA URMAR",
+    "district": "HOSHIARPUR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44526094644"
+  },
+  {
+    "aicte_id": "1-44644935018",
+    "institute_name": "GOVERNMENT RAJINDRA COLLEGE",
+    "address": "GOVERNMENT RAJINDRA COLLEGE, GURU KASHI MARG",
+    "district": "BATHINDA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44522255733"
+  },
+  {
+    "aicte_id": "1-44644981030",
+    "institute_name": "ISF COLLEGE OF PHARMACY",
+    "address": "GT ROAD GHAL KALAN",
+    "district": "MOGA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44529919224"
+  },
+  {
+    "aicte_id": "1-44644604342",
+    "institute_name": "S D KANYA MAHAVIDYALA",
+    "address": "S.D. COLLEGE STREET NEAR CIVIL HOSPITAL MANSA",
+    "district": "MANSA",
+    "institution_type": "Govt aided",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44461204666"
+  },
+  {
+    "aicte_id": "1-44644910437",
+    "institute_name": "PTM ARYA COLLEGE",
+    "address": "BHANDAL ROAD NURMAHAL",
+    "district": "JALANDHAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44514172314"
+  },
+  {
+    "aicte_id": "1-44644922036",
+    "institute_name": "SIKH NATIONAL COLLEGE QADIAN",
+    "address": "THIKRIWAL ROAD QADIAN",
+    "district": "GURDASPUR",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44518530784"
+  },
+  {
+    "aicte_id": "1-44644941400",
+    "institute_name": "SCD GOVT COLLEGE",
+    "address": "COLLEGE ROAD CIVIL LINES",
+    "district": "LUDHIANA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44522332549"
+  },
+  {
+    "aicte_id": "1-44645004211",
+    "institute_name": "BHAI ASA SINGH GIRLS  COLLEGE",
+    "address": "BHAI GHANAYA NAGAR ,NAHIAN WALA",
+    "district": "BATHINDA",
+    "institution_type": "Private-Self Financing",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44603262804"
+  },
+  {
+    "aicte_id": "1-44644605047",
+    "institute_name": "GURU NANAK NATIONAL COLLEGE NAKODAR",
+    "address": "GNNC NEAR JALANDHAR BYE PASS NAKODAR",
+    "district": "JALANDHAR",
+    "institution_type": "Govt aided",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44461285714"
+  },
+  {
+    "aicte_id": "1-44644876779",
+    "institute_name": "SATYAM INSTITUTE OF MANAGEMENT",
+    "address": "RAM TIRTH KOTLA DOOM",
+    "district": "AMRITSAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44498872534"
+  },
+  {
+    "aicte_id": "1-44644910949",
+    "institute_name": "SDP COLLEGE FOR WOMEN LUDHIANA",
+    "address": "G.T. ROAD, BEHIND CHAND CINEMA, LUDHIANA",
+    "district": "LUDHIANA",
+    "institution_type": "Govt aided",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44514523364"
+  },
+  {
+    "aicte_id": "1-44644941827",
+    "institute_name": "SGAD GOVERNMENT COLLEGE TARNTARAN",
+    "address": "NOORDI ADDA TARNTARAN",
+    "district": "TARAN TARAN",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44522438314"
+  },
+  {
+    "aicte_id": "1-44644970877",
+    "institute_name": "LAJPAT RAI DAV COLLEGE JAGRAON",
+    "address": "LAJPAT RAI ROAD JAGRAON",
+    "district": "LUDHIANA",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44527047134"
+  },
+  {
+    "aicte_id": "1-44644636845",
+    "institute_name": "BABA MANGAL SINGH INSTITUTE OF COMPUTER SCIENCE",
+    "address": "VPO BUGHIPURA",
+    "district": "MOGA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44463396694"
+  },
+  {
+    "aicte_id": "1-44644775322",
+    "institute_name": "KRISHNA COLLEGE OF HIGHER EDUCATION RALLI",
+    "address": "BUDHLADA TO BARETA ROAD VILLAGE RALLI TEHSIL BUDHLADA DISTT MANSA",
+    "district": "MANSA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44481929254"
+  },
+  {
+    "aicte_id": "1-44644775412",
+    "institute_name": "GURU RAM DAS COLLEGE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "VILLAGE RAIPUR, MAJRAN JATTAN",
+    "district": "SHAHID BHAGAT SINGH NAGAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44482092964"
+  },
+  {
+    "aicte_id": "1-44644839893",
+    "institute_name": "PREM CHAND MARKANDA S.D. COLLEGE FOR WOMEN",
+    "address": "NEHRU GARDEN ROAD JALANDHAR",
+    "district": "JALANDHAR",
+    "institution_type": "Govt aided",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44491878936"
+  },
+  {
+    "aicte_id": "1-44644942163",
+    "institute_name": "GOVERNMENT COLLEGE FOR GIRLS",
+    "address": "NEAR- BHARAT NAGAR CHOWK, FEROZPUR ROAD, LUDHIANA",
+    "district": "LUDHIANA",
+    "institution_type": "Government",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44522505897"
+  },
+  {
+    "aicte_id": "1-44644879750",
+    "institute_name": "BABA SHRI CHAND COLLEGE OF MANAGEMENT",
+    "address": "RAIKOT LUDHIANA ROAD NURPURA PO. HALWARA 141107",
+    "district": "LUDHIANA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44499202744"
+  },
+  {
+    "aicte_id": "1-44644925336",
+    "institute_name": "R K ARYA COLLEGE",
+    "address": "RAHON RAOD",
+    "district": "NAWANSHAHR",
+    "institution_type": "Govt aided",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44519008654"
+  },
+  {
+    "aicte_id": "1-44644942504",
+    "institute_name": "GOVERMENT SHIVALIK COLLEGE NAYA NANGAL",
+    "address": "VPO MOJOWAL (NAYA NANGAL)",
+    "district": "RUPNAGAR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44522550856"
+  },
+  {
+    "aicte_id": "1-44644942729",
+    "institute_name": "N.J.S.A. GOVT. COLLEGE KAPURTHALA",
+    "address": "N.J.S.A. GOVT. COLLEGE KAPURTHALA",
+    "district": "KAPURTHALA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44522568524"
+  },
+  {
+    "aicte_id": "1-44644973619",
+    "institute_name": "SSD COLLEGE",
+    "address": "NEAR TARAKSHEEL CHOWNK, SANGHERA BY PASS, BARNALA",
+    "district": "BARNALA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44527228003"
+  },
+  {
+    "aicte_id": "1-44644988782",
+    "institute_name": "MLU DAV COLLEGE PHAGWARA",
+    "address": "VPO METHAN G.T ROAD PHAGWARA",
+    "district": "KAPURTHALA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44534123765"
+  },
+  {
+    "aicte_id": "1-44644988940",
+    "institute_name": "GOVT BIKRAM COLLEGE OF COMMERCE PATIALA",
+    "address": "LEHAL COLONY",
+    "district": "PATIALA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44534229724"
+  },
+  {
+    "aicte_id": "1-44645002031",
+    "institute_name": "GURU NANAK COLLEGE FOR WOMEN",
+    "address": "CHARAN KANWAL, BANGA, SBS NAGAR",
+    "district": "NAWANSHAHR",
+    "institution_type": "Govt aided",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44599569834"
+  },
+  {
+    "aicte_id": "1-44644685428",
+    "institute_name": "SRI AUROBINDO COLLEGE OF COMMERCE AND MANAGEMENT",
+    "address": "VILLAGE JHANDE, PO THREEKE, FEROZEPUR ROAD",
+    "district": "LUDHIANA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44466711797"
+  },
+  {
+    "aicte_id": "1-44644825558",
+    "institute_name": "SKRM COLLEGE BHAGOO MAJRA KHARAR",
+    "address": "BHAGOO MAJRA (KHARAR)",
+    "district": "S.A.S NAGAR",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44487921584"
+  },
+  {
+    "aicte_id": "1-44644840748",
+    "institute_name": "PUNJAB DEGREE COLLEGE",
+    "address": "VILL MEHMUANA, SADIQ FARIDKOT ROAD",
+    "district": "FARIDKOT",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44492216874"
+  },
+  {
+    "aicte_id": "1-44644993380",
+    "institute_name": "KAMLA NEHRU COLLEGE FOR WOMEN",
+    "address": "PLAHI ROAD",
+    "district": "KAPURTHALA",
+    "institution_type": "Govt aided",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44537543714"
+  },
+  {
+    "aicte_id": "1-44644751333",
+    "institute_name": "ADESH INSTITUTE OF HIGHER STUDIES",
+    "address": "SADIQ ROAD, FARIDKOT, PUNJAB",
+    "district": "FARIDKOT",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44473664434"
+  },
+  {
+    "aicte_id": "1-44644825974",
+    "institute_name": "SHRI GURU RAM DAS INSTITUTE OF MANAGEMENT AND TECHNOLOGY EDUCATION",
+    "address": "V&PO HALWARA, TEHSIL RAIKOT",
+    "district": "LUDHIANA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44488325545"
+  },
+  {
+    "aicte_id": "1-44644914989",
+    "institute_name": "GOVT RIPUDAMAN COLLEGE NABHA",
+    "address": "GOVT RIPUDAMAN COLLEGE NABHA",
+    "district": "PATIALA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44515913763"
+  },
+  {
+    "aicte_id": "1-44644686332",
+    "institute_name": "JAGAT GURU NANAK DEV PUNJAB STATE OPEN UNIVERSITY",
+    "address": "TRANSIT CAMPUS, C/28, THE LOWER MALL, PATIALA",
+    "district": "PATIALA",
+    "institution_type": "State Government University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44466986924"
+  },
+  {
+    "aicte_id": "1-44644686391",
+    "institute_name": "THE ENLIGHTENED DEGREE COLLEGE JHUNIR",
+    "address": "NEAR BHAKHRA CANAL MANSA SARDULGARH ROAD JHUNIR",
+    "district": "MANSA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44466996934"
+  },
+  {
+    "aicte_id": "1-44644686723",
+    "institute_name": "KHALSA COLLEGE CHAWINDA DEVI AMRITSAR",
+    "address": "VPO CHAWINDA DEVI, DISTRICT AMRITSAR",
+    "district": "AMRITSAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44467118734"
+  },
+  {
+    "aicte_id": "1-44644826335",
+    "institute_name": "LYALLPUR KHALSA COLLEGE",
+    "address": "URBAN ESTATE",
+    "district": "KAPURTHALA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44488621944"
+  },
+  {
+    "aicte_id": "1-44644861121",
+    "institute_name": "GURU NANAK NATIONAL COLLEGE FOR WOMEN NAKODAR",
+    "address": "OPPOSITE BUS STAND NAKODAR",
+    "district": "JALANDHAR",
+    "institution_type": "Govt aided",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44496746194"
+  },
+  {
+    "aicte_id": "1-44644896082",
+    "institute_name": "TAPACHARYA HEM KUNWAR RLD JAIN GRLS COLLEGE",
+    "address": "RAMAN",
+    "district": "BATHINDA",
+    "institution_type": "Private-Self Financing",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44512619153"
+  },
+  {
+    "aicte_id": "1-44644926856",
+    "institute_name": " ASRA INSTITUTE OF ADVANCED STUDIES",
+    "address": "PATIALA SANGRUR HIGHWAY, NH 64 VILLAGE RAJPURA (NEAR CHANNO) TEHSIL BHAWANIGARH DIST. SANGRUR (PUNJAB) ",
+    "district": "SANGRUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44519951484"
+  },
+  {
+    "aicte_id": "1-44644963678",
+    "institute_name": "SAROOP RANI GOVERNMENT COLLEGE FOR WOMEN AMRITSAR",
+    "address": "MCLEOD ROAD RANI KA BAGH AMRITSAR",
+    "district": "AMRITSAR",
+    "institution_type": "Government",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44522770507"
+  },
+  {
+    "aicte_id": "1-44644615945",
+    "institute_name": "NATIONAL COLLEGE BHIKHI",
+    "address": "DHALEWAN ROAD, BHIKHI",
+    "district": "MANSA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44461666794"
+  },
+  {
+    "aicte_id": "1-44644687085",
+    "institute_name": "MAI BHAGO DEGREE COLLEGE",
+    "address": "MANSA-BARNALA ROAD, RALLA",
+    "district": "MANSA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44467357204"
+  },
+  {
+    "aicte_id": "1-44644752027",
+    "institute_name": "ALPINE INSTITUTE OF INFORMATION AND TECHNOLOGY",
+    "address": "V.P.O GURU TEG BAHADURGARH",
+    "district": "MOGA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44474907060"
+  },
+  {
+    "aicte_id": "1-44644896465",
+    "institute_name": "MATA GANGA GIRLS COLLEGE TARN TARAN",
+    "address": "JANDIALA ROAD TARN TARAN",
+    "district": "TARAN TARAN",
+    "institution_type": "Govt aided",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44512819604"
+  },
+  {
+    "aicte_id": "1-44644917865",
+    "institute_name": "HIGHER EDUCATIONAL INSTITUTE SOCIETY GOVT. GIRLS COLLEGE FOR GIRLS PATIALA",
+    "address": "STADIUM ROAD NEW LAL BAGH, PATIALA",
+    "district": "PATIALA",
+    "institution_type": "Government",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44516536724"
+  },
+  {
+    "aicte_id": "1-44644975581",
+    "institute_name": "S.D.COLLEGE FOR WOMEN SULTANPUR LODHI.",
+    "address": "S.D.COLLEGE FOR WOMEN SULTANPUR LODHI KAPURTHALA",
+    "district": "KAPURTHALA",
+    "institution_type": "Govt aided",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44529091084"
+  },
+  {
+    "aicte_id": "1-44644705320",
+    "institute_name": "SAFFRON COLLEGE FOR GIRLS",
+    "address": "KOTLA BAJWARA",
+    "district": "FATEHGARH SAHIB",
+    "institution_type": "Private-Self Financing",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44467461654"
+  },
+  {
+    "aicte_id": "1-44644929906",
+    "institute_name": "GOVERNMENT COLLEGE GURDASPUR",
+    "address": "TRIMMO ROAD, GURDASPUR",
+    "district": "GURDASPUR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44520628004"
+  },
+  {
+    "aicte_id": "1-44644705900",
+    "institute_name": "SHRI GURU TEG BAHADUR COLLEGE FOR WOMEN BALLOH",
+    "address": "VPO BALLOH TEH RAMPURA PHUL BATHINDA",
+    "district": "BATHINDA",
+    "institution_type": "Private-Self Financing",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44468424264"
+  },
+  {
+    "aicte_id": "1-44644901746",
+    "institute_name": "QUEST GROUP OF INSTITUTIONS",
+    "address": "CHANDIGARH_FATEHGARH AHIB ROAD",
+    "district": "MOHALI",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44513062924"
+  },
+  {
+    "aicte_id": "1-44644930167",
+    "institute_name": "SMT.RAMA CHOPRA S D KANYA  MAHAVIDYALAYA PATHANKOT",
+    "address": "MISSION ROAD PATHANKOT",
+    "district": "PATHANKOT",
+    "institution_type": "Private-Self Financing",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44520742197"
+  },
+  {
+    "aicte_id": "1-44644964954",
+    "institute_name": "GURU NANAK COLLEGE",
+    "address": "SUKHCHAINANA SAHIB",
+    "district": "KAPURTHALA",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44523568194"
+  },
+  {
+    "aicte_id": "1-44644965113",
+    "institute_name": "GOVERNMENT COLLEGE HOSHIARPUR",
+    "address": "GOVERNMENT COLLEGE HOSHIARPUR",
+    "district": "HOSHIARPUR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44523774634"
+  },
+  {
+    "aicte_id": "1-44644866868",
+    "institute_name": "MGSM JANTA COLLEGE KARTARPUR",
+    "address": "KARTARPUR",
+    "district": "JALANDHAR",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44497392435"
+  },
+  {
+    "aicte_id": "1-44644901857",
+    "institute_name": "GURU NANAK KHALSA COLLEGE",
+    "address": "SULTANPUR LODHI",
+    "district": "KAPURTHALA",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44513089614"
+  },
+  {
+    "aicte_id": "1-44644597803",
+    "institute_name": "GURU GOBIND SINGH COLLEGE SANGHERA",
+    "address": "GURU GOBIND SINGH COLLEGE SANGHERA, OPPOSITE TAKSHILA SCHOOL, RAIKOT ROAD BARNALA",
+    "district": "BARNALA",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44460610237"
+  },
+  {
+    "aicte_id": "1-44644966143",
+    "institute_name": "GOVT. COLLEGE MALERKOTLA",
+    "address": "GOVT. COLLEGE MALERKOTLA",
+    "district": "SANGRUR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "Y",
+    "other_id": "1-44525544804"
+  },
+  {
+    "aicte_id": "1-44644598474",
+    "institute_name": "TRINITY COLLEGE",
+    "address": "CHURCH NAGAR GURU GOBIND SINGH AVENUE , CHOGITTY JALANDHAR",
+    "district": "JALANDHAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "Y",
+    "other_id": "1-44460920424"
+  },
+  {
+    "aicte_id": "1-44644933877",
+    "institute_name": "ASHOKA COLLEGE OF HEALTH SCIENCES AND TECHNOLOGY",
+    "address": "PATIALA SANGRUR ROAD CHUHARPUR KALAN",
+    "district": "PATIALA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44521522924"
+  },
+  {
+    "aicte_id": "1-44644966200",
+    "institute_name": "GOVT. COLLEGE AMARGARH",
+    "address": "NABHA TO MALERKOTLA ROAD, AMARGARH",
+    "district": "SANGRUR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44525560084"
+  },
+  {
+    "aicte_id": "1-44644668029",
+    "institute_name": "SMDRSD COLLEGE PATHANKOT",
+    "address": "JAMMU JALANDHAR BYPASS DHAKI CHOWK PATHANKOT",
+    "district": "PATHANKOT",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44465172675"
+  },
+  {
+    "aicte_id": "1-44644934305",
+    "institute_name": "GOVT. KIRTI COLLEGE",
+    "address": "PATIALA ROAD",
+    "district": "PATIALA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44521907934"
+  },
+  {
+    "aicte_id": "1-44644810900",
+    "institute_name": "BABA KUMA SINGH JI DEGREE COLLEGE",
+    "address": "V.P.O  HOSHIAR NAGAR ATTARI ROAD AMRITSAR",
+    "district": "AMRITSAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44486624935"
+  },
+  {
+    "aicte_id": "1-44644872696",
+    "institute_name": "APEEJAY COLLEGE OF FINE ARTS",
+    "address": "BHAGWAN MAHAVIR MARG",
+    "district": "JALANDHAR",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44498035234"
+  },
+  {
+    "aicte_id": "1-44671733667",
+    "institute_name": "GOPICHAND ARYA MAHILA COLLEGE",
+    "address": "HANUMANGARH ROAD,ABOHAR",
+    "district": "FIROZPUR",
+    "institution_type": "Govt aided",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44526944047"
+  },
+  {
+    "aicte_id": "1-44671734029",
+    "institute_name": "DAV COLLEGE ABOHAR",
+    "address": "HANUMANGARH ROAD, ABOHAR",
+    "district": "FIROZPUR",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44529067814"
+  },
+  {
+    "aicte_id": "1-44671772066",
+    "institute_name": "DASMESH GIRLS COLLEGE CHAK ALLA BAKSH G T ROAD MUKERIAN",
+    "address": "DASMESH GIRLS COLLEGE, CHAK ALLA BAKSH,G.T ROAD ,MUKERIAN,144211.",
+    "district": "HOSHIARPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44656689224"
+  },
+  {
+    "aicte_id": "1-44671774332",
+    "institute_name": "RSD COLLEGE FEROZEPUR CITY",
+    "address": "OUTSIDE MAKHU GATE MALLAN WALA ROAD",
+    "district": "FIROZPUR",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44656891387"
+  },
+  {
+    "aicte_id": "1-44671774705",
+    "institute_name": "GOVT COLLEGE LUDHIANA EAST",
+    "address": "MOTI NAGAR, SECTOR 39-A, NEAR JAMALPUR, LUDHIANA, PUNJAB- 141010.",
+    "district": "LUDHIANA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44657199713"
+  },
+  {
+    "aicte_id": "1-44671740128",
+    "institute_name": "GHG KHALSA COLLEGE",
+    "address": "GURUSAR SADHAR",
+    "district": "LUDHIANA",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44627225424"
+  },
+  {
+    "aicte_id": "1-44671780710",
+    "institute_name": "GURU TEG BAHADUR KHALSA COLLEGE FOR WOMENHOSHHHDASUYAHHOH",
+    "address": "HOSHIARPUR ROAD, DASUYA",
+    "district": "HOSHIARPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44659343904"
+  },
+  {
+    "aicte_id": "1-44671745062",
+    "institute_name": "SWAMI PREMANAND MAHAVIDYALAYA",
+    "address": "SWAMI PREMANAND MAHAVIDYALAYA, RAILWAY ROAD, MUKERIAN",
+    "district": "HOSHIARPUR",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44644547757"
+  },
+  {
+    "aicte_id": "1-44671790437",
+    "institute_name": "RATTAN PROFESSIONAL EDUCATION COLLEGE",
+    "address": "SOHANA, SECTOR-78, MOHALI",
+    "district": "S.A.S NAGAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44661488269"
+  },
+  {
+    "aicte_id": "1-44671751872",
+    "institute_name": "J.C. D.A.V. COLLEGE",
+    "address": "BALAGAN ROAD, DASUYA",
+    "district": "HOSHIARPUR",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44646809307"
+  },
+  {
+    "aicte_id": "1-44671791581",
+    "institute_name": "KHALSA COLLEGE GARHDIWALA",
+    "address": "KHALSA COLLEGE GARHDIWALA",
+    "district": "HOSHIARPUR",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "Y",
+    "other_id": "1-44661558884"
+  },
+  {
+    "aicte_id": "1-44671753444",
+    "institute_name": "MAHARAJA RANJIT SINGH COLLEGE MALOUT",
+    "address": "MALOUT",
+    "district": "MUKATSAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44646949358"
+  },
+  {
+    "aicte_id": "1-44671759256",
+    "institute_name": "A S COLLEGE",
+    "address": "SAMRALA ROAD, KHANNA",
+    "district": "LUDHIANA",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44650923643"
+  },
+  {
+    "aicte_id": "1-44671759644",
+    "institute_name": "DEV SAMAJ COLLEGE FOR WOMEN",
+    "address": "INSIDE BANSI GATE",
+    "district": "FIROZPUR",
+    "institution_type": "Govt aided",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44651263964"
+  },
+  {
+    "aicte_id": "1-44671764282",
+    "institute_name": "GURU NANAK NATIONAL COLLEGE",
+    "address": "NEAR GRAIN MARKET",
+    "district": "LUDHIANA",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44652688858"
+  },
+  {
+    "aicte_id": "1-44671729829",
+    "institute_name": "GOVERNMENT COLLEGE ROPAR",
+    "address": "CHURCH ROAD",
+    "district": "RUPNAGAR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44456236524"
+  },
+  {
+    "aicte_id": "1-44671768591",
+    "institute_name": "BABBAR AKALI MEMORIAL KHALSA COLLEGE",
+    "address": "SHRI ANANDPUR SAHIB ROAD, GARHSHANKAR, PUNJAB 144527",
+    "district": "HOSHIARPUR",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "Y",
+    "other_id": "1-44653999344"
+  },
+  {
+    "aicte_id": "1-44789587584",
+    "institute_name": "GURU GOBIND SINGH KHALSA COLLEGE FOR WOMEN",
+    "address": "VILLAGE- JHAR SAHIB, PO-BEHLOLPUR, TEHSIL-SAMRALA",
+    "district": "LUDHIANA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44789587584"
+  },
+  {
+    "aicte_id": "1-44671770111",
+    "institute_name": "ANGLO SANSKRIT COLLEGE FOR WOMEN",
+    "address": "A S COLLEGE FOR WOMEN, AMLOH ROAD, KHANNA",
+    "district": "LUDHIANA",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44656665263"
+  },
+  {
+    "aicte_id": "1-44760140163",
+    "institute_name": "GOBINDGARH PUBLIC COLLEGE ALOUR KHANNA",
+    "address": "GOBINDGARH PUBLIC COLLEGE ALOUR, KHANNA",
+    "district": "LUDHIANA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44760140163"
+  },
+  {
+    "aicte_id": "1-44753161363",
+    "institute_name": "DAV COLLEGE FOR WOMEN FEROZEPUR CANTT PUNJAB",
+    "address": "DAV COLLEGE FOR WOMEN, FEROZEPUR CANTT",
+    "district": "FIROZPUR",
+    "institution_type": "Govt aided",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44753161363"
+  },
+  {
+    "aicte_id": "1-44754347633",
+    "institute_name": "GURU GOBIND SINGH DEGREE COLLEGE",
+    "address": "MAUR RAMAN MANDI CHOWK,TALWANDI SABO",
+    "district": "BATHINDA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44754347633"
+  },
+  {
+    "aicte_id": "1-44754463463",
+    "institute_name": "DASMESH GIRLS COLLEGE",
+    "address": "VPO BADAL, TEHSIL MALOUT",
+    "district": "MUKATSAR",
+    "institution_type": "Private-Self Financing",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44754463463"
+  },
+  {
+    "aicte_id": "1-44753120503",
+    "institute_name": "GURU NANAK COLLEGE",
+    "address": "TIBBI SAHIB ROAD, SRI MUKTSAR SAHIB",
+    "district": "MUKATSAR",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44753120503"
+  },
+  {
+    "aicte_id": "1-44753636173",
+    "institute_name": "GURU TEG BAHADUR COLLEGE",
+    "address": "GURU TEG BAHADUR COLLEGE, KAKRA ROAD, BHAWANIGARH",
+    "district": "SANGRUR",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44753636173"
+  },
+  {
+    "aicte_id": "1-44754868573",
+    "institute_name": "SHAHEED BHAI MANI SINGH KHALSA COLLEGE LONGOWAL",
+    "address": "KAIMBOWAL ROAD LONGOWAL, SANGRUR.",
+    "district": "SANGRUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "Y",
+    "other_id": "1-44754868573"
+  },
+  {
+    "aicte_id": "1-44753663343",
+    "institute_name": "HINDU COLLEGE",
+    "address": "DHAB KHATIKAN",
+    "district": "AMRITSAR",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44753663343"
+  },
+  {
+    "aicte_id": "1-44784627631",
+    "institute_name": "BHAG SINGH KHALSA COLLEGE FOR WOMEN",
+    "address": "SITO ROAD, VILL- KALA TIBBA, ABOHAR",
+    "district": "FIROZPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44784627631"
+  },
+  {
+    "aicte_id": "1-44773023174",
+    "institute_name": "GOVT. COLLEGE DERABASSI",
+    "address": "COLLEGE ROAD, NEAR POLICE STATION DERA BASSI",
+    "district": "S.A.S NAGAR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44773023174"
+  },
+  {
+    "aicte_id": "1-44770171924",
+    "institute_name": "SANT HARI SINGH MEMORIAL COLLEGE FOR WOMEN",
+    "address": "CHELLA-MAKHSUSPUR (HOSHIARPUR)",
+    "district": "HOSHIARPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44770171924"
+  },
+  {
+    "aicte_id": "1-44795823666",
+    "institute_name": "D M COLLEGE MOGA",
+    "address": "9-NEW TOWN MOGA",
+    "district": "MOGA",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44795823666"
+  },
+  {
+    "aicte_id": "1-44786460293",
+    "institute_name": "NATIONAL DEGREE COLLEGE",
+    "address": "VILL CHOWARIAN WALI",
+    "district": "FIROZPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44786460293"
+  },
+  {
+    "aicte_id": "1-44800218563",
+    "institute_name": "BABA AJAY SINGH KGHALSA COLLEGE",
+    "address": "GURDAS NANGAL",
+    "district": "GURDASPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "Y",
+    "other_id": "1-44800218563"
+  },
+  {
+    "aicte_id": "1-44781466843",
+    "institute_name": "RAMGARHIA GIRLS COLLEGE",
+    "address": "MILLER GANJ, LUDHIANA",
+    "district": "LUDHIANA",
+    "institution_type": "Govt aided",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44781466843"
+  },
+  {
+    "aicte_id": "1-44762162855",
+    "institute_name": "UNIVERSE PROFESSIONAL COLLEGE OF EDUCATION",
+    "address": "VILLAGE ADAMPUR TEHSIL AND DISTRIC FATEGARH SAHIB",
+    "district": "FATEHGARH SAHIB",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44762162855"
+  },
+  {
+    "aicte_id": "1-44770025024",
+    "institute_name": "GOVERNMENT COLLEGE MACHHIWARA",
+    "address": "NEAR B.S.N.L EXCHANGE,KOHARA ROAD , MACHHIWARA",
+    "district": "LUDHIANA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44770025024"
+  },
+  {
+    "aicte_id": "1-44787160241",
+    "institute_name": "SILVER OAKS INSTITUTE OF PROFESSIONAL STUDIES",
+    "address": "NH-7, RAMPURA ROAD, LEHRA BEGA",
+    "district": "BATHINDA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44787160241"
+  },
+  {
+    "aicte_id": "1-44776597963",
+    "institute_name": "GURU NANAK KHALSA COLLEGE FOR WOMEN MODEL TOWN LUDHIANA",
+    "address": "GURU NANAK KHALSA COLLEGE FOR WOMEN MODEL TOWN LUDHIANA",
+    "district": "LUDHIANA",
+    "institution_type": "Govt aided",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44776597963"
+  },
+  {
+    "aicte_id": "1-44781798654",
+    "institute_name": "S.D. COLLEGE HOSHIARPUR",
+    "address": "DEEP NAGAR, PHAGWARA ROAD, HOSHIARPUR",
+    "district": "HOSHIARPUR",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44781798654"
+  },
+  {
+    "aicte_id": "1-44801180464",
+    "institute_name": "GURU NANAK COLLEGE",
+    "address": "OPPOSITE NATURE PARK, MAIN BAZAR, MOGA",
+    "district": "MOGA",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44801180464"
+  },
+  {
+    "aicte_id": "1-44783940094",
+    "institute_name": "KAMLA LOHTIA SANATAN DHARAM COLLEGE",
+    "address": "KAMLA LOHTIA SANATAN DHARAM COLLEGE, SUBHASH NAGAR, DARESI ROAD, LUDHIANA",
+    "district": "LUDHIANA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44783940094"
+  },
+  {
+    "aicte_id": "1-44772384916",
+    "institute_name": "SANT DARBARA SINGH COLLEGE FOR WOMEN LOPON MOGA",
+    "address": "V.P.O. LOPON MALLIANA ROAD TEHSIL NIHAL SINGH WALA",
+    "district": "MOGA",
+    "institution_type": "Govt aided",
+    "women": "Y",
+    "minority": "Y",
+    "other_id": "1-44772384916"
+  },
+  {
+    "aicte_id": "1-44772642893",
+    "institute_name": "MASTER TARA SINGH MEMORIAL COLLEGE FOR WOMEN",
+    "address": "OLD SABZI MANDI MATA RANI CHONWK",
+    "district": "LUDHIANA",
+    "institution_type": "Govt aided",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44772642893"
+  },
+  {
+    "aicte_id": "1-44782206943",
+    "institute_name": "DEVKI DEVI JAIN MEMORIAL COLLEGE FOR WOMWN",
+    "address": "KIDWAI NAGAR, SUFFIAN BAGH, NEAR MINI ROSE GARDEN",
+    "district": "LUDHIANA",
+    "institution_type": "Govt aided",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44782206943"
+  },
+  {
+    "aicte_id": "1-44782077253",
+    "institute_name": "SHREE ATAM VALLABH JAIN COLLEGE",
+    "address": "LUDHIANA- JALANDHAR G.T. ROAD, NEAR MALHOTRA RESORTS, VILL. HUSSAINPURA, LUDHIANA",
+    "district": "LUDHIANA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44782077253"
+  },
+  {
+    "aicte_id": "1-44765117155",
+    "institute_name": "WAHEGURU COLLEGE",
+    "address": "BEHIND PRIYA ENCLAVE BURJ MUHAR ROAD ABOHAR",
+    "district": "FIROZPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44765117155"
+  },
+  {
+    "aicte_id": "1-44799612056",
+    "institute_name": "GURU NANAK GIRLS COLLEGE",
+    "address": "NEAR POST OFFICE MODEL TOWN",
+    "district": "LUDHIANA",
+    "institution_type": "Govt aided",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44799612056"
+  }
+]

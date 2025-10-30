@@ -25,20 +25,23 @@ export default function Home() {
       <main className="mx-auto w-full max-w-4xl bg-white dark:bg-black px-8 py-10 rounded shadow-sm">
         <header className="mb-6">
           <h1 className="text-3xl font-bold">API Documentation</h1>
-          <p className="mt-2 text-sm text-zinc-600">
+          <p className="mt-2 text-sm text-zinc-500">
             This api contains{" "}
-            <span className="text-orange-600">1278 colleges data</span>, like
-            names, district, address, etc., including private, government,
-            autonomous, and affiliated institutions across India. The data is
-            sourced from the All India Council for Technical Education (AICTE)
-            website.
+            <span className="text-orange-600">39268 colleges data</span>, like
+            names, states, district, address, etc., including private,
+            government, autonomous, and affiliated institutions across India.
+            The data is sourced from the All India Council for Technical
+            Education (AICTE) website.
           </p>
         </header>
 
         {/* /api/institutions section */}
         <section className="mt-6">
           <div className="flex justify-between items-center">
-            <h2 className="text-2xl font-semibold">GET /api/institutions</h2>
+            <h2 className="text-2xl font-semibold flex items-center">
+              <span>GET /api/institutions </span>
+              <span className="ml-3 text-orange-200 text-sm">(11.9MB)</span>
+            </h2>
             <a
               href="/api/institutions"
               target="_blank"
@@ -60,20 +63,17 @@ export default function Home() {
               View Endpoint
             </a>
           </div>
-          <p className="mt-2 text-sm text-zinc-700">
-            Server-side proxy that fetches data from the AICTE data endpoint and
-            returns it to clients with CORS headers. Useful when the upstream
-            service blocks cross-origin requests from browsers.
+          <p className="mt-2 text-sm text-zinc-500">
+            This is the main endpoint to access the Indian Colleges dataset. It
+            is huge in size and may take some time to respond. If you want state
+            wise data which is smaller, try the per-state endpoints described
+            below.
           </p>
 
           <section className="mt-8">
             <h2 className="text-2xl font-semibold">Examples</h2>
             <p className="text-sm text-zinc-700 mt-2">Browser (client-side):</p>
             <pre className="bg-zinc-100 dark:bg-zinc-900 p-3 rounded mt-2 text-sm overflow-auto">{`fetch("/api/institutions")
-  .then((r) => r.json())
-  .then((data) => console.log(data));
-
-fetch("/api/institutions?year=2024-2025&state=Tamil%20Nadu")
   .then((r) => r.json())
   .then((data) => console.log(data));`}</pre>
 
@@ -83,13 +83,20 @@ fetch("/api/institutions?year=2024-2025&state=Tamil%20Nadu")
             </pre>
           </section>
 
-          <hr className="my-10 border border-gray-900" />
-
-          <h3 className="mt-4 font-medium">Parameters</h3>
-          <p className="text-sm text-zinc-700 mt-2">
-            The proxy accepts the following query parameters.
+          <p className="mt-3 text-sm text-green-600">
+            <strong>Example: </strong>
+            <a href="/api/institutions" target="_blank">
+              <code>/api/institutions</code>
+            </a>
           </p>
 
+          <hr className="my-10 border border-gray-900" />
+
+          {/* <h3 className="mt-4 font-medium">Parameters</h3>
+          <p className="text-sm text-zinc-700 mt-2">
+            The proxy accepts the following query parameters.
+          </p> */}
+          {/* 
           <ul className="list-disc pl-6 mt-2 text-sm text-zinc-300 space-y-1">
             <li>
               <code>year</code>{" "}
@@ -187,45 +194,19 @@ fetch("/api/institutions?year=2024-2025&state=Tamil%20Nadu")
               <span className="text-zinc-600"> - Course ID, e.g. </span>
               <code className="text-orange-200">101</code>
             </li>
-          </ul>
-
-          <p className="mt-3 text-sm text-green-600">
-            <strong>Example: </strong>
-            <a
-              href="/api/institution/1-44641241273?course=1&year=2025-2026"
-              target="_blank"
-            >
-              <code>
-                /api/institutions?year=2025-2026&state=Tamil%20Nadu&program=1
-              </code>
-            </a>
-          </p>
+          </ul> */}
         </section>
 
-        <section className="">
-          <p className="text-sm text-zinc-700 mt-2">
-            If you request <code className="highlight">/api/institutions</code>{" "}
-            without the <code className="highlight">online</code> flag the proxy
-            serves <code className="highlight">data/institutions.json</code> and
-            sets <code className="highlight">source: &quot;offline&quot;</code>.
-            If you request{" "}
-            <code className="highlight">/api/institutions?online=1</code> the
-            proxy fetches upstream and sets{" "}
-            <code className="highlight">source: &quot;online&quot;</code>.
-          </p>
-        </section>
-
-        {/* NEW: /api/institution/[aicteid] section */}
         <section className="mt-10">
           <div className="flex justify-between items-center">
-            <h2 className="text-2xl font-semibold">
-              GET /api/institution/[aicteid]
+            <h2 className="text-2xl font-semibold flex items-center">
+              <span>GET /api/institutions/state </span>
             </h2>
             <a
-              href="/api/institution/1-44638482322?course=1&year=2025-2026"
+              href="/api/institutions/state"
               target="_blank"
               className="bg-orange-500 text-white px-3 py-1 rounded text-sm hover:bg-orange-700 cursor-pointer"
-              title={"Open institution endpoint in new tab"}
+              title={"Open API in new tab"}
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -243,61 +224,95 @@ fetch("/api/institutions?year=2024-2025&state=Tamil%20Nadu")
             </a>
           </div>
 
-          <p className="mt-2 text-sm text-zinc-700">
-            Returns detailed course / institution-specific data for a single
-            AICTE ID. Use the AICTE identifier as the path param and pass
-            optional query parameters (course, year, program, etc.) to control
-            the upstream request.
+          <p className="mt-2 text-sm text-zinc-500">
+            returns a list of available states and their slugs. Example
+            response: {`{ states: [{ name, slug }] }`}. The API provides
+            state-level snapshots and metadata to make working with the dataset
+            easier.
           </p>
 
-          <div className="mt-6">
-            <h3 className="text-lg font-medium">Usage & examples</h3>
-
-            <p className="text-sm text-zinc-700 mt-3">Browser (client-side):</p>
-            <pre className="bg-zinc-100 dark:bg-zinc-900 p-3 rounded mt-2 text-sm overflow-auto">{`fetch("/api/institution/1-44641241273?course=1&year=2025-2026")
+          <section className="mt-8">
+            <h2 className="text-2xl font-semibold">Examples</h2>
+            <p className="text-sm text-zinc-700 mt-2">Browser (client-side):</p>
+            <pre className="bg-zinc-100 dark:bg-zinc-900 p-3 rounded mt-2 text-sm overflow-auto">{`fetch("/api/institutions/state")
   .then((r) => r.json())
   .then((data) => console.log(data));`}</pre>
 
             <p className="text-sm text-zinc-700 mt-3">Curl (cmd.exe):</p>
             <pre className="bg-zinc-100 dark:bg-zinc-900 p-3 rounded mt-2 text-sm overflow-auto">
               curl
-              &quot;https://indian-colleges-list.vercel.app/api/institution/1-44641241273?course=1&year=2025-2026&quot;
+              https://indian-colleges-list.vercel.app/api/institutions/state
             </pre>
-          </div>
 
-          <hr className="my-8" />
+            <p className="mt-3 text-sm text-green-600">
+              <strong>Example: </strong>
+              <a href="/api/institutions/state" target="_blank">
+                <code>/api/institutions/state</code>
+              </a>
+            </p>
+          </section>
 
-          <h3 className="mt-4 font-medium">Path & query parameters</h3>
-          <ul className="list-disc pl-6 mt-2 text-sm text-zinc-300 space-y-1">
-            <li>
-              <code>aicteid</code> (path) - AICTE identifier, e.g.{" "}
-              <code className="text-orange-200">1-44641241273</code>
-            </li>
-            <li>
-              <code>course</code> - Course ID. Example: <code>1</code>
-            </li>
-            <li>
-              <code>year</code> - Academic year. Example: <code>2025-2026</code>
-            </li>
-            <li>
-              <code>
-                program, level, institutiontype, Women, Minority, state
-              </code>{" "}
-              - forwarded to upstream as query params; certain params are
-              wrapped with surrounding slashes on the upstream URL where
-              required
-            </li>
-          </ul>
+          <hr className="my-10 border border-gray-900" />
 
-          <p className="mt-3 text-sm text-green-600">
-            <strong>Example:</strong>{" "}
-            <a
-              href="/api/institution/1-44641241273?course=1&year=2025-2026"
-              target="_blank"
-            >
-              /api/institution/1-44641241273?course=1&year=2025-2026
-            </a>
-          </p>
+          <section className="mt-10">
+            <div className="flex justify-between items-center">
+              <h2 className="text-2xl font-semibold flex items-center">
+                <span>GET /api/institutions/state/{"{state}"}</span>
+              </h2>
+              <a
+                href="/api/institutions/state/Tamil Nadu"
+                target="_blank"
+                className="bg-orange-500 text-white px-3 py-1 rounded text-sm hover:bg-orange-700 cursor-pointer"
+                title={"Open API in new tab"}
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="16"
+                  height="16"
+                  viewBox="0 0 24 24"
+                  className="inline-flex mr-1"
+                >
+                  <path
+                    fill="currentColor"
+                    d="M5.616 20q-.691 0-1.153-.462T4 18.384V5.616q0-.691.463-1.153T5.616 4h5.115q.213 0 .357.143t.143.357t-.143.357T10.73 5H5.616q-.231 0-.424.192T5 5.616v12.769q0 .23.192.423t.423.192h12.77q.23 0 .423-.192t.192-.423v-5.116q0-.213.143-.357t.357-.143t.357.143t.143.357v5.116q0 .69-.462 1.152T18.384 20zM19 5.708l-8.908 8.908q-.14.14-.344.15t-.363-.15t-.16-.354t.16-.354L18.292 5H14.5q-.213 0-.357-.143T14 4.5t.143-.357T14.5 4h4.692q.349 0 .578.23t.23.578V9.5q0 .214-.143.357T19.5 10t-.357-.143T19 9.5z"
+                  />
+                </svg>
+                View Endpoint
+              </a>
+            </div>
+
+            <p className="mt-2 text-sm text-zinc-500">
+              returns a list of available institutes inside that state. The API
+              provides state-level snapshots and metadata to make working with
+              the dataset easier.
+            </p>
+
+            <section className="mt-8">
+              <h2 className="text-2xl font-semibold">Examples</h2>
+              <p className="text-sm text-zinc-700 mt-2">
+                Browser (client-side):
+              </p>
+              <pre className="bg-zinc-100 dark:bg-zinc-900 p-3 rounded mt-2 text-sm overflow-auto">{`fetch("/api/institutions/state/{state}")
+  .then((r) => r.json())
+  .then((data) => console.log(data));`}</pre>
+
+              <p className="text-sm text-zinc-700 mt-3">Curl (cmd.exe):</p>
+              <pre className="bg-zinc-100 dark:bg-zinc-900 p-3 rounded mt-2 text-sm overflow-auto">
+                curl
+                https://indian-colleges-list.vercel.app/api/institutions/state/
+                {"{state}"}
+              </pre>
+
+              <p className="mt-3 text-sm text-green-600">
+                <strong>Example: </strong>
+                <a href="/api/institutions/state/Tamil%20Nadu" target="_blank">
+                  <code>/api/institutions/state/Tamil%20Nadu</code>
+                </a>
+              </p>
+            </section>
+          </section>
+
+          <hr className="my-10 border border-gray-900" />
         </section>
 
         <section className="mt-10">

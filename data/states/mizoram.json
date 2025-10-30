@@ -1,0 +1,62 @@
+[
+  {
+    "aicte_id": "1-44638782923",
+    "institute_name": "SCHOOL OF ENGINEERING AND TECHNOLOGY",
+    "address": "MIZORAM UNIVERSITY, AIZAWL",
+    "district": "AIZAWL",
+    "institution_type": "Central University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4493753901"
+  },
+  {
+    "aicte_id": "1-44639955374",
+    "institute_name": "MIZORAM POLYTECHNIC",
+    "address": "LUNGLEI",
+    "district": "LUNGLEI",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1091407351"
+  },
+  {
+    "aicte_id": "1-44640208661",
+    "institute_name": "NATIONAL INSTITUTE OF ELECTRONICS AND INFORMATION TECHNOLOGY (NIELIT), AIZAWL CENTRE",
+    "address": "INDUSTRIAL ESTATE, ZUANGTUI,",
+    "district": "AIZAWL",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-648003051"
+  },
+  {
+    "aicte_id": "1-44641009290",
+    "institute_name": "WOMEN'S POLYTECHNIC, AIZAWL",
+    "address": "DURTLANG,  AIZAWL, MIZORAM",
+    "district": "AIZAWL",
+    "institution_type": "Government",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-1509181971"
+  },
+  {
+    "aicte_id": "1-44644522021",
+    "institute_name": "GOVERNMENT SERCHHIP COLLEGE",
+    "address": "NEW SERCHHIP, SERCHHIP MIZORAM 796181",
+    "district": "SERCHHIP",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44451989964"
+  },
+  {
+    "aicte_id": "1-44644163873",
+    "institute_name": "GOVERNMENT ZIRTIRI RESIDENTIAL SCIENCE COLLEGE",
+    "address": "LEITAN DURTLANG",
+    "district": "AIZAWL",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44241170049"
+  }
+]

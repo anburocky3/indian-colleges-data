@@ -1,0 +1,842 @@
+[
+  {
+    "aicte_id": "1-44638360587",
+    "institute_name": "MSME TECHNOLOGY CENTRE  BADDI",
+    "address": "MSME TECHNOLOGY CENTRE",
+    "district": "SOLAN",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-7161795420"
+  },
+  {
+    "aicte_id": "1-44638135699",
+    "institute_name": "LR ENGINEERING AND TECHNOLOGY",
+    "address": "VILLAGE JABLI-KYAR, P.O. OACHGHAT,",
+    "district": "SOLAN",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3626675501"
+  },
+  {
+    "aicte_id": "1-44638266277",
+    "institute_name": "CENTRAL INSTITUTE OF PETROCHEMICALS ENGINEERING & TECHNOLOGY (CIPET) BADDI",
+    "address": "CIPET PLOT NO.198/201 NEAR BIOGENETIC PVT. LTD. JHARMAJRI BADDI DIST SOLAN H.P",
+    "district": "SOLAN",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4714060864"
+  },
+  {
+    "aicte_id": "1-44638316952",
+    "institute_name": "RAJIV GANDHI GOVT. ENGG. COLLEGE KANGRA AT NAGROTA KANGRA",
+    "address": "RAJIV GANDHI GOVT. ENGG. COLLEGE KANGRA VILLAGE - MASSAL, TEHSIL NAGROTA BAGWAN",
+    "district": "KANGRA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-2847968671"
+  },
+  {
+    "aicte_id": "1-44638657617",
+    "institute_name": "MAHATMA GANDHI GOVERNMENT ENGINEERING COLLEGE KOTLA JEORI",
+    "address": "KOTLA (JEORI) ,TEHSILRAMPUR BUSHAHR, HIMACHAL PRADESH",
+    "district": "SHIMLA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-9478884691"
+  },
+  {
+    "aicte_id": "1-44638637033",
+    "institute_name": "GOVT. POLYTECHNIC FOR WOMEN REHAN",
+    "address": "VPO - KADANA, TEHSIL- FATEHPUR, DISTT - KANGRA (H.P.)",
+    "district": "KANGRA",
+    "institution_type": "Government",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-7361638531"
+  },
+  {
+    "aicte_id": "1-44638683999",
+    "institute_name": "GOVT. POLYTECHNIC JANDAUR",
+    "address": "TEHSIL JASWAN",
+    "district": "KANGRA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-11337210341"
+  },
+  {
+    "aicte_id": "1-44636970118",
+    "institute_name": "HIMACHAL PRADESH TECHNICAL UNIVERSITY",
+    "address": "VILLAGE & POST OFFICE-DARUHI",
+    "district": "HAMIRPUR",
+    "institution_type": "State Government University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-7343623531"
+  },
+  {
+    "aicte_id": "1-44638717080",
+    "institute_name": "VAISHNO COLLEGE OF ENGINEERING",
+    "address": "VILLAGE - THAPKOUR, POST OFFICE - BHADROYA, TEHSIL NURPUR, DISTT. KANGRA, H.P",
+    "district": "KANGRA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3403081"
+  },
+  {
+    "aicte_id": "1-44638722251",
+    "institute_name": "HIMACHAL INSTITUTE OF ENGINERING AND TECHNOLOGY",
+    "address": "HIET, SHAHPUR(AT VIDYANAGAR), DISTT. KANGRA(HP)",
+    "district": "KANGRA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-417987195"
+  },
+  {
+    "aicte_id": "1-44638884483",
+    "institute_name": "GOVERNMENT HYDRO ENGINEERING COLLEGE BANDLA",
+    "address": "VPO-BANDLA TEHSIL-BILASPUR",
+    "district": "BILASPUR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-7586664791"
+  },
+  {
+    "aicte_id": "1-44638815464",
+    "institute_name": "SCHOOL OF COMPUTER SCIENCE ENGINEERING & TECHNOLOGY, GOVERNMENT COLLEGE DHARAMSHALA",
+    "address": "CIVIL LINE DHARAMSHALA",
+    "district": "KANGRA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4797425341"
+  },
+  {
+    "aicte_id": "1-44639993379",
+    "institute_name": "GOVERENMENT POLYTECHNIC KANGRA",
+    "address": "GOVT. POLYTECHNIC KANGRA, DISTT. KANGRA, (H.P.)",
+    "district": "KANGRA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-457323531"
+  },
+  {
+    "aicte_id": "1-44640024848",
+    "institute_name": "GOVT. POLYTECHNIC ROHRU",
+    "address": "POST OFFICE ROHRU,  DISTT. SHIMLA H.P.",
+    "district": "SHIMLA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-426003341"
+  },
+  {
+    "aicte_id": "1-44639794401",
+    "institute_name": "ATAL BIHARI VAJPAYEE GOVERNMENT  INSTITUTE OF ENGINEERING & TECHNOLOGY (DIPLOMA PROGRAMME)",
+    "address": "PRAGATINAGAR",
+    "district": "SHIMLA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-493204651"
+  },
+  {
+    "aicte_id": "1-44640159239",
+    "institute_name": "K.C.POLYTECHNIC",
+    "address": "PANDOGA UPARLA, TEH. & DISTT-  UNA(H.P)",
+    "district": "UNA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-425528271"
+  },
+  {
+    "aicte_id": "1-44639438237",
+    "institute_name": "DREAMZ POLYTECHNIC",
+    "address": "VILLAGE KHILRA,P.O. MERAMASIT TEHSIL SUNDERNAGAR DISTT.MANDI (HP)-175036",
+    "district": "MANDI",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-427569971"
+  },
+  {
+    "aicte_id": "1-44639719804",
+    "institute_name": "PARAM VEER CHAKRA NAIB SUBEDAR SANJAY KUMAR GOVT POLYTECHNIC BILASPUR AT KALOL",
+    "address": "VPO KALOL TEHSIL JHANDUTA DISTT. BILASPUR HP AT GOVT. POLYTECHNIC HAMIRPUR PO MOHIN HAMIRPUR HP-177001",
+    "district": "BILASPUR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1563367701"
+  },
+  {
+    "aicte_id": "1-44639567635",
+    "institute_name": "GOVT. PG COLLEGE DHARAMSHALA",
+    "address": "CIVIL LINES GOVT. COLLEGE DHARAMSHALA",
+    "district": "KANGRA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-487268181"
+  },
+  {
+    "aicte_id": "1-44640452080",
+    "institute_name": "GOVT. POLYTECHNIC, LAHAUL & SPITI AT J.N.G.E.C, SNR (H.P.)",
+    "address": "UDAYPUR, DISTT. LAHAUL & SPITI (H.P.)",
+    "district": "LAHAUL AND SPITI",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1496968641"
+  },
+  {
+    "aicte_id": "1-44640830431",
+    "institute_name": "GOVERENMENT MILLENNIUM POLYTECHNIC",
+    "address": "GOVERENMENT MILLENNIUM POLYTECHNIC, SAROL, CHAMBA",
+    "district": "CHAMBA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-456019751"
+  },
+  {
+    "aicte_id": "1-44640367476",
+    "institute_name": "DR. B.R. AMBEDKAR GOVT. POLYTECHNIC",
+    "address": "AMBOTA, DISTT. UNA (HP) PIN 177205",
+    "district": "UNA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-464284381"
+  },
+  {
+    "aicte_id": "1-44640831480",
+    "institute_name": "GAUTAM INSTITUTE OF MANAGEMENT & TECHNOLOGY",
+    "address": "WARD NO-10, DISTT. HAMIRPUR (HP)",
+    "district": "HAMIRPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-458602431"
+  },
+  {
+    "aicte_id": "1-44640422275",
+    "institute_name": "GOVT. POLYTECHNIC SUNDERNAGAR",
+    "address": "DISTT. MANDI",
+    "district": "MANDI",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-475130491"
+  },
+  {
+    "aicte_id": "1-44640467424",
+    "institute_name": "GREEN HILLS POLYTECHNIC",
+    "address": "VILLAGE GANDHI GRAM POST OFFICE  BAHOLI KUMARHATTI-- NAHAN ROAD TEH & DISTT SOLAN HIMACHAL PRADESH",
+    "district": "SOLAN",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-413091151"
+  },
+  {
+    "aicte_id": "1-44640838731",
+    "institute_name": "GOVT. POLYTECHNIC HAMIRPUR",
+    "address": "POST OFFICE MOHIN, TEH & DISTT. HAMIRPUR (HP)-177030",
+    "district": "HAMIRPUR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-466017371"
+  },
+  {
+    "aicte_id": "1-44640307737",
+    "institute_name": "MAHARAJA AGRASEN INSTITUTE OF TECHNOLOGY",
+    "address": "ATAL SHIKSHA KUNJ ATAL NAGAR VILLAGE KALUJHANDA, NEAR BROTIWALA, BADDI DISTT. SOLAN, PIN CODE 174103 (H.P)",
+    "district": "SOLAN",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1524013701"
+  },
+  {
+    "aicte_id": "1-44640192449",
+    "institute_name": "SIRDA POLYTECHNIC",
+    "address": "VILL. TAROT, P.O. - KANAID",
+    "district": "MANDI",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-466670311"
+  },
+  {
+    "aicte_id": "1-44640193028",
+    "institute_name": "GOVERNMENT POLYTECHNIC TALWAR",
+    "address": "VILL. TALWAR P.O TALWAR TEH. JAISINGHPUR DISTT. KANGRA",
+    "district": "KANGRA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-464126911"
+  },
+  {
+    "aicte_id": "1-44640234321",
+    "institute_name": "UNIVERSITY INSTITUTE OF TECHNOLOGY, HIMACHAL PRADESH UNIVERSITY, SUMMERHILL SHIMLA",
+    "address": "SILVERWOOD ESTATE, NEAR POLICE CHAWKI, H.P.UNIVERSITY, SUMMERHILL SHIMLA",
+    "district": "SHIMLA",
+    "institution_type": "State Government University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-475215631"
+  },
+  {
+    "aicte_id": "1-44641125508",
+    "institute_name": "GOVT. POLYTECHNIC PAONTA SAHIB DISTT. SIRMOUR H.P. 173031",
+    "address": "VILL.- DHUNDHLO P.O. - DHAULA KUAN TEH. - PONTA SAHIB, DISTT. - SIRMOUR, (H.P.) - 173031",
+    "district": "SIRMAUR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1507402981"
+  },
+  {
+    "aicte_id": "1-44641375443",
+    "institute_name": "GOVT. POLYTECHNIC FOR WOMEN, KANDAGHAT",
+    "address": "GOVT. POLYTECHNIC FOR WOMEN, KANDAGHAT",
+    "district": "SOLAN",
+    "institution_type": "Government",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-454353601"
+  },
+  {
+    "aicte_id": "1-44641507234",
+    "institute_name": "GOVT. POLYTECHNIC KINNAUR (AT GOVT. POLYTECHNIC ROHRU AS MENTOR INSTITUTE)",
+    "address": "KALPA KINNAUR",
+    "district": "KINNAUR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1524320201"
+  },
+  {
+    "aicte_id": "1-44641002608",
+    "institute_name": "SAI SCHOOL OF ENGINEERINGA & TECHNOLOGY",
+    "address": "VPO. SUNGAL,  TEH. PALAMPUR DISTT. KANGRA",
+    "district": "KANGRA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1559901921"
+  },
+  {
+    "aicte_id": "1-44641424894",
+    "institute_name": "HIMALAYAN INSTITUTE OF MANAGEMENT",
+    "address": "SADHORA ROAD, KALA-AMB, DISTT. SIRMOUR (H.P)",
+    "district": "SIRMAUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-491290501"
+  },
+  {
+    "aicte_id": "1-44641140308",
+    "institute_name": "JAWAHARLAL NEHRU  GOVERNMENT  ENGINEERING  COLLEGE",
+    "address": "SUNDERNAGAR                                DISTT. MANDI HIMACHAL PRADESH -174401",
+    "district": "MANDI",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-463859621"
+  },
+  {
+    "aicte_id": "1-44641313232",
+    "institute_name": "RAJIV GANDHI GOVERNMENT POLYTECHNIC BANIKHET AT KANDA",
+    "address": "GP BANIKHET VPO BANIKHET TEH. DALHOUSIE DISTT. CHAMBA H.P.",
+    "district": "CHAMBA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-464954441"
+  },
+  {
+    "aicte_id": "1-44641320336",
+    "institute_name": "ATAL BIHARI VAJPAYEE GOVT. INSTITUTE OF ENGINEERING & TECHNOLOGY ( DEGREE PROGRAMME)",
+    "address": "ATAL BIHARI VAJPAYEE GOVT. INSTITUTE OF ENGINEERING & TECHNOLOGY ( DEGREE PROGRAMME),  PRAGATINAGAR",
+    "district": "SHIMLA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1538283341"
+  },
+  {
+    "aicte_id": "1-44640852767",
+    "institute_name": "K.L.B. D.A.V. COLLEGE FOR GIRLS, PALAMPUR",
+    "address": "KLBDAV GIRLS COLLEGE VPO BUNDLA  TEH PALAMPUR DISTT KANGRA",
+    "district": "KANGRA",
+    "institution_type": "Private-Self Financing",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-478144201"
+  },
+  {
+    "aicte_id": "1-44640898982",
+    "institute_name": "GOVT.POLYTECHNIC  KULLU",
+    "address": "DISTT. KULLU  SEOBAG",
+    "district": "KULU",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1528642701"
+  },
+  {
+    "aicte_id": "1-44641497010",
+    "institute_name": "GOVT. PG COLLEGE UNA (HP)",
+    "address": "GOVT. PG COLLEGE UNA (HP)-174303",
+    "district": "UNA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-782811331"
+  },
+  {
+    "aicte_id": "1-44641619004",
+    "institute_name": "HIMALAYAN INSTITUTE OF COMPUTER SCIENCES",
+    "address": "SADHORA ROAD, KALA-AMB, DISTT. SIRMOUR (H.P)",
+    "district": "SIRMAUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-500768191"
+  },
+  {
+    "aicte_id": "1-44643704736",
+    "institute_name": "T.R. ABHILASHI MEMORIAL INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+    "address": "TANDA, P.O. BALT (NER CHOWK) TEH. SADAR, DISTT. MANDI H.P.",
+    "district": "MANDI",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-6233042"
+  },
+  {
+    "aicte_id": "1-44643090485",
+    "institute_name": "K.C.GROUP OF RESEARCH & PROFESSIONAL INSTITITUES PANDOGA",
+    "address": "V.P.O PANDOGA UPARLA TEH & DIST. UNA, HIMACHAL PRADESH",
+    "district": "UNA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-10031491"
+  },
+  {
+    "aicte_id": "1-44642637632",
+    "institute_name": "GREEN HILLS ENGINEERING COLLEGE",
+    "address": "GREEN HILLS ENGINEERING COLLEGE VILL-GANDHIGRAM, P.O. BAHOLI, KUMARHATTI-NAHAN ROAD, KUMARHATTI, DISTT. SOLAN (H.P.)-173229",
+    "district": "SOLAN",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-26429171"
+  },
+  {
+    "aicte_id": "1-44642645645",
+    "institute_name": "HIMALAYAN INSTITUTE OF ENGINEERING & TECHNOLOGY",
+    "address": "SADHORA ROAD, KALA-AMB, TEH. NAHAN, DISTT SIRMOUR, HIMACHAL PARDESH.",
+    "district": "SIRMAUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-5750691"
+  },
+  {
+    "aicte_id": "1-44644469382",
+    "institute_name": "ST. BEDE'S COLLEGE",
+    "address": "NAV BAHAR SHIMLA",
+    "district": "SHIMLA",
+    "institution_type": "Govt aided",
+    "women": "Y",
+    "minority": "Y",
+    "other_id": "1-44390775154"
+  },
+  {
+    "aicte_id": "1-44644496570",
+    "institute_name": "GOVERNMENT COLLEGE SNAJAULI SHIMLA",
+    "address": "GC SANJAULI SHIMLA",
+    "district": "SHIMLA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44448623644"
+  },
+  {
+    "aicte_id": "1-44644456616",
+    "institute_name": "KC INSTITUTE OF MANAGEMENT",
+    "address": "VPO PANDOGA UPARLA TEHSIL AND DISTT. UNA",
+    "district": "UNA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44368541784"
+  },
+  {
+    "aicte_id": "1-44644566693",
+    "institute_name": "GOVT. COLLEGE BARSAR",
+    "address": "VILL BAROLI P.O. BARSAR TEHSIL BARSAR",
+    "district": "HAMIRPUR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44458205594"
+  },
+  {
+    "aicte_id": "1-44644341818",
+    "institute_name": "VIJAY INSTITUTE OF HIGHER EDUCATION",
+    "address": "OPP.SLBS GOVT.MEDICAL COLLEGE NERCHOWK, V.P.O. BHANGROTU,TEH.BALH,DISTT.MANDI H.P. 175021",
+    "district": "MANDI",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44297232964"
+  },
+  {
+    "aicte_id": "1-44644380372",
+    "institute_name": "GOSWAMI GANESH DUTT SANATAN DHARAM COLLEGE RAJPUR",
+    "address": "GGDSD EDUCATION SOCIETY BAIJNATH, C/0 GGDSD COLLEGE RAJPUR (PALAMPUR)",
+    "district": "KANGRA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44323575714"
+  },
+  {
+    "aicte_id": "1-44644356454",
+    "institute_name": "LAL BAHADUR SHASTRI GOVT. DEGREE COLLEGE SARASWATI NAGAR",
+    "address": "LAL BAHADUR SHASTRI GOVT. DEGREE COLLEGE SARASWATI NAGAR, P.O. HATKOTI, TEHSIL JUBBAL",
+    "district": "SHIMLA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44309351544"
+  },
+  {
+    "aicte_id": "1-44644373561",
+    "institute_name": "ABVGD COLLEGE BANGANA",
+    "address": "VPO BANGANA TEH BANGANA",
+    "district": "UNA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44321050648"
+  },
+  {
+    "aicte_id": "1-44644537781",
+    "institute_name": "NETAJI SUBHASH CHANDER BOSE MEMORIAL GOVT. COLLEGE HAMIRPUR",
+    "address": "NSCBM GOVT COLLEGE HAMIRPUR ANOO",
+    "district": "HAMIRPUR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44454756156"
+  },
+  {
+    "aicte_id": "1-44644336695",
+    "institute_name": "GOVT COLLEGE DAULATPUR CHOWK",
+    "address": "VPO DAULATPIUR CHOWK TEHSIL GHANARI DISTRIC UNA (H.P.)-177204",
+    "district": "UNA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44294561384"
+  },
+  {
+    "aicte_id": "1-44644388006",
+    "institute_name": "SWAMI VIVEKANAND GOVT COLLEGE GHUMARWIN",
+    "address": "SWAMI VIVEKANAND GOVT COLLEGE -GHUMARWIN TEHSIL GHUMARWIN DISTT BILASPUR H.P",
+    "district": "BILASPUR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44327083576"
+  },
+  {
+    "aicte_id": "1-44644113506",
+    "institute_name": "MSCM GOVT COLLEGE THURAL",
+    "address": "MSCM GOVT COLLEGE THURAL  DISTT KANGRA HP PIN 176107",
+    "district": "KANGRA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44233509895"
+  },
+  {
+    "aicte_id": "1-44644154315",
+    "institute_name": "SHOOLINI INSTITUTE OF LIFE SCIENCES AND BUSINESS MANAGEMENT",
+    "address": "SILB, ANAND CAMPUS, THE MALL, SOLAN. HIMACHAL PRADESH",
+    "district": "SOLAN",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44239877173"
+  },
+  {
+    "aicte_id": "1-44644177843",
+    "institute_name": "MINERVA COLLEGE OF EDUCATION",
+    "address": "VILL. CHANGRARA, P.O. BHAPOO, TEH. INDORA, DISTT. KANGRA HP",
+    "district": "KANGRA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44242603663"
+  },
+  {
+    "aicte_id": "1-44644192754",
+    "institute_name": "LAUREATE INSTITUTE OF MANAGEMENT AND INFORMATION TECHNOLOGY",
+    "address": "VPO KATHOG TEHSIL JAWALAJI DISTRICT KANGRA HP",
+    "district": "KANGRA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44244763213"
+  },
+  {
+    "aicte_id": "1-44644039730",
+    "institute_name": "SHRI VISHNU SANATAN DHARAM COLLEGE",
+    "address": "VILL- BHATOLI, P.O.-AJOULI",
+    "district": "UNA",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44228531153"
+  },
+  {
+    "aicte_id": "1-44644161830",
+    "institute_name": "MCM DAV COLLEGE KANGRA",
+    "address": "KANGRA",
+    "district": "KANGRA",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44240754308"
+  },
+  {
+    "aicte_id": "1-44644075484",
+    "institute_name": "MAHARANA PRATAP GOVT. DEGREE COLLEGE AMB",
+    "address": "MAHARANA PRATAP GOVT. DEGREE COLLEGE AMB",
+    "district": "UNA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44230995178"
+  },
+  {
+    "aicte_id": "1-44644310339",
+    "institute_name": "LLR INSTITUTE OF MANAGEMENT",
+    "address": "VILL. JABLI-KYAR, P.O. OACHGHAT",
+    "district": "SOLAN",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44262299263"
+  },
+  {
+    "aicte_id": "1-44645058624",
+    "institute_name": "GOVERNMENT DEGREE COLLEGE NAGROTA SURIAN",
+    "address": "VPO NAGROTA SURIAN TEHSIL JAWALI",
+    "district": "KANGRA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44620760604"
+  },
+  {
+    "aicte_id": "1-44645000384",
+    "institute_name": "RAJIV GANDHI MEMORIAL GOVT COLLEGE JOGINDER NAGAR",
+    "address": "RAJIV GANDHI MEMORIAL GOVT COLLEGE JOGINDER NAGAR",
+    "district": "MANDI",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44587345284"
+  },
+  {
+    "aicte_id": "1-44644636711",
+    "institute_name": "RKMV SHIMLA LONGWOOD",
+    "address": "RKMV SHIMLA LONGWOOD",
+    "district": "SHIMLA",
+    "institution_type": "Government",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44463357564"
+  },
+  {
+    "aicte_id": "1-44644611697",
+    "institute_name": "GOVT. P.G. COLLEGE DHARAMSHALA",
+    "address": "CIVIL LINE DHARAMSHLA",
+    "district": "KANGRA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44461343554"
+  },
+  {
+    "aicte_id": "1-44644923005",
+    "institute_name": "THAKUR JAGDEV CHAND MEMORIAL GOVERNMENT DEGREE COLLEGE SUJANPUR TIHRA",
+    "address": "THAKUR JAGDEV CHAND MEMORIAL GOVERNMENT DEGREE COLLEGE SUJANPUR TIHRA, P.O.& TEH. SUJANPUR TIHRA, DISTT. HAMIRPUR H.P. 176110",
+    "district": "HAMIRPUR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44518889223"
+  },
+  {
+    "aicte_id": "1-44644612613",
+    "institute_name": "MAHARAJA LAKSHMAN SEN MEMORIAL COLLEGE",
+    "address": "POST OFFICE CHATROKHARI, SUNDERNAGAR,",
+    "district": "MANDI",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44461495784"
+  },
+  {
+    "aicte_id": "1-44644646649",
+    "institute_name": "VALLABH GOVT COLLEGE MANDI",
+    "address": "VGC MANDI H.P.",
+    "district": "MANDI",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44464305255"
+  },
+  {
+    "aicte_id": "1-44644777091",
+    "institute_name": "GOVERNMENT COLLEGE BHORANJ TARKWARI",
+    "address": "PRINCIPAL GOVERNMENT COLLEGE BHORANJ TARKWARI",
+    "district": "HAMIRPUR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44483335545"
+  },
+  {
+    "aicte_id": "1-44644795360",
+    "institute_name": "GOVERNMENT COLLEGE DHALIARA",
+    "address": "VPO DHALIARA TEHSIL DEHRA",
+    "district": "KANGRA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44483413457"
+  },
+  {
+    "aicte_id": "1-44644896835",
+    "institute_name": "GAUTAM COLLEGE",
+    "address": "WARD NO. 10, NEAR BUS STAND",
+    "district": "HAMIRPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44512884545"
+  },
+  {
+    "aicte_id": "1-44644995043",
+    "institute_name": "GOVERNMENT COLLGE NAURA",
+    "address": "VPO NAURA TESHIL DHEERA",
+    "district": "KANGRA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44558693974"
+  },
+  {
+    "aicte_id": "1-44644796707",
+    "institute_name": "CTNT STUDY CENTRE",
+    "address": "CTNT STUDY CENTRE, 27/5 ARMY CANTEEN ROAD PALACE COLONY MANDI",
+    "district": "MANDI",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44484057734"
+  },
+  {
+    "aicte_id": "1-44644810769",
+    "institute_name": "GOVT.DEGREE COLLEGE INDORA",
+    "address": "GOVT.DEGREE COLLGE,INDORA TEHSIL-INDORA DISTT-KANGRA",
+    "district": "KANGRA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44486548504"
+  },
+  {
+    "aicte_id": "1-44671738281",
+    "institute_name": "KDC GOVT DEGREE COLLEGE JAISINGHPUR",
+    "address": "KDC GOVT DEGREE COLLEGE JAISINGHPUR",
+    "district": "KANGRA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44623465924"
+  },
+  {
+    "aicte_id": "1-44671746572",
+    "institute_name": "PSR GOVT. COLLEGE BAIJNATH",
+    "address": "PSR GOVT DEGREE COLLEGE BAIJNATH",
+    "district": "KANGRA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44644651878"
+  },
+  {
+    "aicte_id": "1-44753489193",
+    "institute_name": "SHIVA COLLEGE OF EDUCATION",
+    "address": "VILL BAROTA PO LUHARWIN TEH GHUMARWIN DISTT BILASPUR HP-174021",
+    "district": "BILASPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44753489193"
+  },
+  {
+    "aicte_id": "1-44756090293",
+    "institute_name": "FREEDOM FIGHTER PT. SUSHEEL RATTAN GOVT. COLLEGE JAWALAMUKHI",
+    "address": "UCHHAHR, SHIMLA-KANGRA RD, JAWALAMUKHI, HIMACHAL PRADESH, PINCODE : 176031",
+    "district": "KANGRA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44756090293"
+  },
+  {
+    "aicte_id": "1-44797447203",
+    "institute_name": "HIMACHAL INSTITUTE OF MANAGEMENT STUDIES",
+    "address": "VILLAGE  VIDYANAGAR  PO DRAMAN TEHSIL SHAHPUR DISTT KANGRA",
+    "district": "KANGRA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44797447203"
+  },
+  {
+    "aicte_id": "1-44798020753",
+    "institute_name": "DRONACHARYA PG COLLEGE OF EDUCATION",
+    "address": "VPO- RAIT TEHSIL-SHAHPUR DISTRICT KANGRA",
+    "district": "KANGRA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44798020753"
+  }
+]

@@ -2,12 +2,15 @@
   "name": "indian-colleges",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "download": "node --experimental-fetch scripts/download.js"
+    "download": "node --experimental-fetch scripts/download.js",
+    "download:all-states": "node  --experimental-strip-types --experimental-fetch scripts/download-all-states.ts",
+    "merge:institutions": "node --inspect --experimental-strip-types --experimental-fetch scripts/merge-institution.ts"
   },
   "dependencies": {
     "react": "19.2.0",

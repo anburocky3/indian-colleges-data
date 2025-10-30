@@ -1,0 +1,582 @@
+[
+  {
+    "aicte_id": "1-44638439762",
+    "institute_name": "DEPARTMENT OF MANAGEMENT STUDIES",
+    "address": "ISLAMIA COLLEGE OF SCIENCE AND COMMERCE, HAWAL",
+    "district": "SRINAGAR",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-2857231461"
+  },
+  {
+    "aicte_id": "1-44638474216",
+    "institute_name": "INSTITUTE OF TECHNOLOGY UNIVERSITY OF KASHMIR ZAKURA CAMPUS",
+    "address": "ZAKURA,SRINAGAR,JAMMU AND KASHMIR ,INDIA",
+    "district": "SRINAGAR",
+    "institution_type": "State Government University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-7399545041"
+  },
+  {
+    "aicte_id": "1-44638108861",
+    "institute_name": "UNIVERSITY POLYTECHNIC",
+    "address": "UNIVERSITY POLYTECHNIC, BABA GHULAM SHAH BADSHAH UNIVERSITY, RAJOURI, J&K",
+    "district": "RAJAURI",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-7418421841"
+  },
+  {
+    "aicte_id": "1-44638166773",
+    "institute_name": "PG DEPARTMENT OF COMPUTER SCIENCES",
+    "address": "UNIVERSITY OF KASHMIR",
+    "district": "SRINAGAR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3691016684"
+  },
+  {
+    "aicte_id": "1-44638239999",
+    "institute_name": "DEPARTMENT OF COMPUTER SCIENCE AND IT, CENTRAL UNIVERSITY OF JAMMU",
+    "address": "RAHYA-SUCHANI(BAGLA)",
+    "district": "SAMBA",
+    "institution_type": "Central University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3379880901"
+  },
+  {
+    "aicte_id": "1-44637285239",
+    "institute_name": "KASHMIR COLLEGE OF ENGINEERING AND TEACHNOLOGY",
+    "address": "ESTATE RANBIRGARH-PRATAPGARH",
+    "district": "BARAMULLA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-43411121953"
+  },
+  {
+    "aicte_id": "1-44638622615",
+    "institute_name": "GOVERNMENT POLYTECHNIC COLLEGE PULWAMA",
+    "address": "ONE UNIVERSITY CAMPUS ,IUST AWANTIPORA",
+    "district": "PULWAMA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-2512098211"
+  },
+  {
+    "aicte_id": "1-44637291540",
+    "institute_name": "IQBAL INSTITUTE OF TECHNOLOGY AND MANAGEMENT",
+    "address": "LALOO, SHESHGARIBAGH, HYDERPORA, SRINAGAR",
+    "district": "SRINAGAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "Y",
+    "other_id": "1-453022272"
+  },
+  {
+    "aicte_id": "1-44639424174",
+    "institute_name": "GOVT. POLYTECHNIC LEH",
+    "address": "CHOGLAMSAR, NEAR SBI BANK",
+    "district": "LEH",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-483909511"
+  },
+  {
+    "aicte_id": "1-44638903919",
+    "institute_name": "GOVERNMENT COLLEGE OF ENGINEERING AND TECHNOLOGY SAFAPORA GANDERBAL",
+    "address": "SAFAPORA, GANDERBAL, KASHMIR-193504",
+    "district": "BANDIPORA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3693775341"
+  },
+  {
+    "aicte_id": "1-44638949651",
+    "institute_name": "UNIVERSITY INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+    "address": "JANGLOTE, KATHUA CAMPUS, UNIVERSITY OF JAMMU",
+    "district": "KATHUA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-12121996303"
+  },
+  {
+    "aicte_id": "1-44639340662",
+    "institute_name": "GOVERNMENT POLYTECHNIC UDHAMPUR",
+    "address": "GOVERNMENT POLYTECHNIC UDHAMPUR NEAR CMO OFFICE GOLE MARKET UDHAMPUR J&K",
+    "district": "UDHAMPUR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1037778081"
+  },
+  {
+    "aicte_id": "1-44639971847",
+    "institute_name": "SSM POLYTECHNIC",
+    "address": "PARIHASPORA,DIVER,PATTAN",
+    "district": "BARAMULLA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-446189381"
+  },
+  {
+    "aicte_id": "1-44639455050",
+    "institute_name": "NATIONAL INSTITUTE OF ELECTRONICS AND INFORMATION TECHNOLOGY  SRINAGAR/JAMMU",
+    "address": "SIDCO ELECTRONICS COMPLEX OLD AIRPORT ROAD RANGRETH",
+    "district": "SRINAGAR",
+    "institution_type": "Deemed to be University(Govt)",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-498139141"
+  },
+  {
+    "aicte_id": "1-44639997626",
+    "institute_name": "GOVERNMENT POLYTECHNIC COLLEGE BANDIPORA",
+    "address": "WATPORA BANDIPORA PIN 193502",
+    "district": "BANDIPORA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1041356851"
+  },
+  {
+    "aicte_id": "1-44639507691",
+    "institute_name": "GOVT POLYTECHNIC KISHTWAR",
+    "address": "GOVT POLYTECHNIC KISHTWAR NEAR GURUDWARA, KOTWL MOHALLA, KISHTWAR (TEMPORARY ACCOMODATION)",
+    "district": "KISHTWAR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-935761941"
+  },
+  {
+    "aicte_id": "1-44639881976",
+    "institute_name": "GOVERNMENT POLYTECHNIC KARGIL",
+    "address": "KURBATHAN, KARGIL, LADAKH",
+    "district": "KARGIL",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-483596771"
+  },
+  {
+    "aicte_id": "1-44639553289",
+    "institute_name": "GOVERNMENT POLYTECHNIC COLLEGE KUPWARA",
+    "address": "KUPWARA",
+    "district": "KUPWARA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1053089281"
+  },
+  {
+    "aicte_id": "1-44639819826",
+    "institute_name": "GOVT.POLYTECHNIC COLLEGE GANDERBAL",
+    "address": "GOVT POLYTECHNIC COLLEGE,GANDERBAL,HATBARA, CHUNDINA, CHUNDINA ROAD, JAMMU AND KASHMIR 191131 NEAR JAWAHAR NAVODYA VIDHYALAYA GANDERBAL.",
+    "district": "GANDERBAL",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1039532121"
+  },
+  {
+    "aicte_id": "1-44639557495",
+    "institute_name": "MASTERPRO INSTITUTE OF TECHNOLOGY",
+    "address": "NOWGAM BYPASS SRINAGAR JAMMU & KASHMIR, INDIA-190015",
+    "district": "SRINAGAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-454069293"
+  },
+  {
+    "aicte_id": "1-44639720788",
+    "institute_name": "GOVT. POLYTECHNIC COLLEGE DODA",
+    "address": "VILLAGE-BIRSHALLA (MANCHAN) BEOLI, TEHSIL & DISTRICT DODA",
+    "district": "DODA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1049369841"
+  },
+  {
+    "aicte_id": "1-44639940831",
+    "institute_name": "GOVERNMENT POLYTECHNIC FOR WOMEN, SRINAGAR",
+    "address": "BEMINA",
+    "district": "SRINAGAR",
+    "institution_type": "Government",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-483935131"
+  },
+  {
+    "aicte_id": "1-44640317978",
+    "institute_name": "GOVT. COLLEGE OF ENGINEERING & TECHNOLOGY, JAMMU",
+    "address": "CHAK BHALWAL, JAMMU",
+    "district": "JAMMU",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-487904031"
+  },
+  {
+    "aicte_id": "1-44640465164",
+    "institute_name": "NITS POLYTECHNIC",
+    "address": "INDIRA NAGAR , P.O MIRAN SAHIB TEHSIL R.S PURA JAMMU",
+    "district": "JAMMU",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-456138611"
+  },
+  {
+    "aicte_id": "1-44640683443",
+    "institute_name": "THE BUSINESS SCHOOL",
+    "address": "THE BUSINESS SCHOOL, UNIVERSITY OF JAMMU ,BABA SAHEB AMBEDKAR ROAD, BAHU WALI RAKH ,JAMMU",
+    "district": "JAMMU",
+    "institution_type": "State Government University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-502872221"
+  },
+  {
+    "aicte_id": "1-44640816136",
+    "institute_name": "GOVT. POLYTECHNIC FOR WOMEN",
+    "address": "LOWER SHIV NAGAR NEAR AG'S OFFICE JAMMU",
+    "district": "JAMMU",
+    "institution_type": "Government",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-483107441"
+  },
+  {
+    "aicte_id": "1-44640352129",
+    "institute_name": "MODEL INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+    "address": "KOT BHALWAL, JAMMU 181122 JAMMU AND KASHMIR",
+    "district": "JAMMU",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3955211"
+  },
+  {
+    "aicte_id": "1-44640356595",
+    "institute_name": "YOGANANDA COLLEGE OF ENGINEERING & TECHNOLOGY",
+    "address": "GURHA BRAHMANA (PATOLI), AKHNOOR ROAD, JAMMU (J&K)",
+    "district": "JAMMU",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-16821231"
+  },
+  {
+    "aicte_id": "1-44640195208",
+    "institute_name": "ROYAL POLYTECHNIC COLLEGE TRUST",
+    "address": "55 GOGJIBAGH",
+    "district": "SRINAGAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-485007171"
+  },
+  {
+    "aicte_id": "1-44640869957",
+    "institute_name": "GOVERNMENT POLYTECHNIC COLLEGE POONCH",
+    "address": "ITI HOSTEL NEAR POWER HOUSE HAVELI POONCH",
+    "district": "POONCH",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1045774011"
+  },
+  {
+    "aicte_id": "1-44641421071",
+    "institute_name": "GOVT. POLYTECHNIC, JAMMU",
+    "address": "BIKRAM CHOWK, JAMMU",
+    "district": "JAMMU",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-492861561"
+  },
+  {
+    "aicte_id": "1-44640921401",
+    "institute_name": "DEPARTMENT OF COMPUTER SC. & IT",
+    "address": "DEPARTMENT OF COMPUTER SC. & IT, UNIVERITY OF JAMMU, BABA SAHEB AMBEDKAR RAOD,JAMMU",
+    "district": "JAMMU",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-511424471"
+  },
+  {
+    "aicte_id": "1-44641091769",
+    "institute_name": "KASHMIR GOVERNMENT POLYTECHNIC",
+    "address": "GOGJIBAGH",
+    "district": "SRINAGAR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-474267171"
+  },
+  {
+    "aicte_id": "1-44641062871",
+    "institute_name": "GOVT. POLYTECHNIC RAMBAN",
+    "address": "KUNFER CHANDERKOTE RAMBAN.",
+    "district": "RAMBAN",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1045796631"
+  },
+  {
+    "aicte_id": "1-44641188037",
+    "institute_name": "ISLAMIC UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+    "address": "ONE UNIVERSITY AVENUE",
+    "district": "PULWAMA",
+    "institution_type": "State Government University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-475927671"
+  },
+  {
+    "aicte_id": "1-44641189358",
+    "institute_name": "INSTITUTE OF MANAGEMENT SCIENCES",
+    "address": "GURHA BRAHMANA (PATOLI), AKHNOOR ROAD, JAMMU (J&K)",
+    "district": "JAMMU",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-14253613"
+  },
+  {
+    "aicte_id": "1-44641319430",
+    "institute_name": "GOVT. POLYTECHNIC COLLEGE BARAMULLA",
+    "address": "NATIONAL HIGHWAY KANISPORA",
+    "district": "BARAMULLA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1037261391"
+  },
+  {
+    "aicte_id": "1-44641322405",
+    "institute_name": "ISLAMIC UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+    "address": "ONE UNIVERSITY AVENUE AWANTIPORA PULWAMA KASHMIR",
+    "district": "PULWAMA",
+    "institution_type": "State Government University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-465756641"
+  },
+  {
+    "aicte_id": "1-44640897288",
+    "institute_name": "GOVT. POLYTECHNIC COLLEGE REASI",
+    "address": "BEHIND GOVT. DEGREE COLLEGE, REASI, MARI, REASI.",
+    "district": "REASI",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1033271921"
+  },
+  {
+    "aicte_id": "1-44640899477",
+    "institute_name": "GOVT. POLYTECHNIC COLLEGE KULGAM",
+    "address": "CHAMBGUND ROAD KULGAM. J&K",
+    "district": "KULGAM",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1045157161"
+  },
+  {
+    "aicte_id": "1-44640900001",
+    "institute_name": "GOVT. POLYTECHNIC COLLEGE, BUDGAM",
+    "address": "NAGAM, CHADORA, BUDGAM",
+    "district": "BADGAM",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1037776551"
+  },
+  {
+    "aicte_id": "1-44641495511",
+    "institute_name": "GOVERNMENT POLYTECHNIC SAMBA",
+    "address": "GOVT.POLYTECHNIC SAMBA,VILLAGE PANGWAL SUMB ROAD SAMBA.",
+    "district": "SAMBA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1035511421"
+  },
+  {
+    "aicte_id": "1-44641496025",
+    "institute_name": "GOVT.POLYTECHNIC KATHUA",
+    "address": "GOVT. POLYTECHNIC KATHUA,VILL. BADALA, NEAR IRP HEADQUARTERS, NAGRI ROAD, KATHUA.(J&K).",
+    "district": "KATHUA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1037108351"
+  },
+  {
+    "aicte_id": "1-44641496531",
+    "institute_name": "GOVERNMENT POLYTECHNIC COLLEGE  ANANTNAG",
+    "address": "LARKIPORA DOORU, ANANTNAG",
+    "district": "ANANTNAG",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1052010131"
+  },
+  {
+    "aicte_id": "1-44640865388",
+    "institute_name": "GOVT. POLYTECHNIC COLLEGE SHOPIAN",
+    "address": "ALIYAL PORA, SHOPIAN",
+    "district": "SHOPIAN",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1049358594"
+  },
+  {
+    "aicte_id": "1-44641858154",
+    "institute_name": "COLLEGE OF ENGINEERING & TECHNOLOGY, BGSB UNIVERSITY, RAJOURI, J&K",
+    "address": "COLLEGE OF ENGINEERING & TECHNOLOGY BABA GHULAM SHAH BADSHAH UNIVERSITY RAJOURI J&K",
+    "district": "RAJAURI",
+    "institution_type": "State Government University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-22015311"
+  },
+  {
+    "aicte_id": "1-44641791953",
+    "institute_name": "MAHANT BACHITTAR SINGH COLLEGE OF ENGENEERING & TECHONOLOGY",
+    "address": "JEVAN NAGAR BABLIANA",
+    "district": "JAMMU",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "Y",
+    "other_id": "1-462068941"
+  },
+  {
+    "aicte_id": "1-44641730970",
+    "institute_name": "SSM COLLEGE OF ENGINEERING",
+    "address": "DIVAR,PARIHASPORA,PATTAN,BARAMULLA KASHMIR 193121",
+    "district": "BARAMULLA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-7376611"
+  },
+  {
+    "aicte_id": "1-44643103570",
+    "institute_name": "SHRI MATA VAISHNO DEVI UNIVERSITY",
+    "address": "SUB POST OFFICE, KATRA 182320, DIST.REASI, JAMMU AND KASHMIR",
+    "district": "REASI",
+    "institution_type": "State Government University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-40782250"
+  },
+  {
+    "aicte_id": "1-44643420715",
+    "institute_name": "SCHOOL OF MANAGEMENT STUDIES",
+    "address": " BABA GHULAM SHAH BADSHAH UNIVERSITY DHANORE (RAJOIRI)",
+    "district": "RAJAURI",
+    "institution_type": "State Government University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-460937221"
+  },
+  {
+    "aicte_id": "1-44642886933",
+    "institute_name": "SCHOOL OF COMPUTER SCIENCES & INFORMATION TECHNOLOGY, BGSB UNIVERSITY, RAJOURI, J&K",
+    "address": "SCHOOL OF COMPUTER SCIENCES & INFORMATION TECHNOLOGY BABA GHULAM SHAH BADSHAH UNIVERSITY RAJOURI J&K",
+    "district": "RAJAURI",
+    "institution_type": "State Government University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-22043841"
+  },
+  {
+    "aicte_id": "1-44644481018",
+    "institute_name": "CASET COLLEGE OF COMPUTER SCIENCES",
+    "address": "GOLE MARKET KARANAGAR",
+    "district": "SRINAGAR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44411137274"
+  },
+  {
+    "aicte_id": "1-44644412848",
+    "institute_name": "DOGRA DEGREE COLLEGE",
+    "address": "BARI BRAHMANA, SAMBA",
+    "district": "JAMMU",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44338513214"
+  },
+  {
+    "aicte_id": "1-44645383157",
+    "institute_name": "GOVT. COLLEGE FOR WOMEN NAWAKADAL SRINAGAR",
+    "address": "NAWAKADAL SRINAGAR",
+    "district": "SRINAGAR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-11315655511"
+  },
+  {
+    "aicte_id": "1-44645402513",
+    "institute_name": "CENTRAL UNIVESITY OF JAMMU",
+    "address": "RAHYA-SUCHANI (BAGLA)",
+    "district": "SAMBA",
+    "institution_type": "Central University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3361171701"
+  },
+  {
+    "aicte_id": "1-44644910206",
+    "institute_name": "ISLAMIA COLLEGE OF SCIENCE AND COMMERCE",
+    "address": "HAWAL, SRINAGAR",
+    "district": "SRINAGAR",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44514133716"
+  },
+  {
+    "aicte_id": "1-44760102328",
+    "institute_name": "CLUSTER UNIVERSITY OF JAMMU",
+    "address": "GGM SCIENCE COLLEGE CAMPUS, CANAL ROAD, JAMMU",
+    "district": "JAMMU",
+    "institution_type": "State Government University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44760102328"
+  },
+  {
+    "aicte_id": "1-44784210107",
+    "institute_name": "CENTRAL UNIVERSITY OF KASHMIR",
+    "address": "TULMULLA GANDERBAL , JAMMU AND KASHMIR",
+    "district": "GANDERBAL",
+    "institution_type": "Central University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44784210107"
+  }
+]

@@ -1,0 +1,4382 @@
+[
+  {
+    "aicte_id": "1-44516650623",
+    "institute_name": "SPARSH COLLEGE OF COMPUTER AND MANAGEMENT",
+    "address": "GIRI ROAD, NEAR GEETA BHAWAN, BERHAMPUR",
+    "district": "GANJAM",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44516650623"
+  },
+  {
+    "aicte_id": "1-45162771915",
+    "institute_name": "PANDIT NILAKANTHA UTKAL ACADEMY COLLEGE",
+    "address": "CHANDI CHOWK, CHATRAPUR, GANJAM",
+    "district": "GANJAM",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-45162771915"
+  },
+  {
+    "aicte_id": "1-44500033354",
+    "institute_name": "NIGAMANANDA INSTITUTE OF MANAGEMENT STUDIES",
+    "address": "PLOT NO.426 K-3(B), GHATIKIA, BHUBANESWAR, KHURDHA,ODISHA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44500033354"
+  },
+  {
+    "aicte_id": "1-44486867234",
+    "institute_name": "SWARNALATA MANAGEMENT AND INFORMATION TECHNOLOGY",
+    "address": "AT-TALABEDA PO-KANDHAL PS- TALCHER",
+    "district": "ANGUL",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44486867234"
+  },
+  {
+    "aicte_id": "1-44608218934",
+    "institute_name": "ARKA ACADEMY OF MANAGEMENT STUDIES",
+    "address": "DUHURIA KENDRAPARA",
+    "district": "KENDRAPARA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44608218934"
+  },
+  {
+    "aicte_id": "1-44638579502",
+    "institute_name": "MAHENDRA INSTITUTE OF MANAGEMENT AND TECHNICAL STUDIES",
+    "address": "AT: PITAPALLI, POST: KUMARBASTA, KHURDA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4232581"
+  },
+  {
+    "aicte_id": "1-44638579988",
+    "institute_name": "SYNERGY SCHOOL OF ENGINEERING ,DHENKANAL",
+    "address": "BANAMALIPRASAD,BY THE SIDE OF NH,55 DISTRICT-DHENKANAL PIN-759001 ODISHA",
+    "district": "DHENKANAL",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3348020769"
+  },
+  {
+    "aicte_id": "1-44638338685",
+    "institute_name": "GANDHI INSTITUTE OF ENGINEERING AND TECHNOLOGY UNIVERSITY, ODISHA, GUNUPUR (GIET UNIVERSITY)",
+    "address": "AT : GOBRIGUDA , PO : KHARLING , TALUK : GUNUPUR",
+    "district": "RAYAGADA",
+    "institution_type": "State Private University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4561768721"
+  },
+  {
+    "aicte_id": "1-44638422248",
+    "institute_name": "GOVERNMENT POLYTECHNIC,BHADRAK",
+    "address": "AT-TENTALIGADIA(SARMANGA),PO-RANDHIA,BHADRAK",
+    "district": "BHADRAK",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3368783971"
+  },
+  {
+    "aicte_id": "1-44638353296",
+    "institute_name": "SAMET SCHOOL OF  MANAGEMENT",
+    "address": "75/2 SAI VIHAR ,BHARATPUR",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-9492416201"
+  },
+  {
+    "aicte_id": "1-44638401484",
+    "institute_name": "SIKSHA 'O' ANUSANDHAN",
+    "address": "KHANDAGIRI, BHUBANESWAR",
+    "district": "KHORDHA",
+    "institution_type": "Deemed to be University(Pvt)",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3732495651"
+  },
+  {
+    "aicte_id": "1-44638426416",
+    "institute_name": "SORO SCHOOL OF ENGINEERING (DIPLOMA)",
+    "address": "AT-BRAHMANSAHI, PO-SARASANKHA, P.S-SORO, DIST-BALASORE",
+    "district": "BALASORE",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-2846163491"
+  },
+  {
+    "aicte_id": "1-44638463990",
+    "institute_name": "ASIAN SCHOOL OF MANAGEMENT",
+    "address": "AT- BANTALA, PO - MUKTAPUR",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-7327142941"
+  },
+  {
+    "aicte_id": "1-44638464413",
+    "institute_name": "DISHA COLLEGE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "BISWANATHPUR ROAD, NEAR BHAIRABI TEMPLE,PO-MANTRIDI, VIA GOLANTHARA,",
+    "district": "GANJAM",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-7370494381"
+  },
+  {
+    "aicte_id": "1-44638373773",
+    "institute_name": "BHARAT INSTITUTE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "DAHAPADA, FULADI , BALASORE",
+    "district": "BALASORE",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-11868340321"
+  },
+  {
+    "aicte_id": "1-44638431847",
+    "institute_name": "SARASWAT INSTITUTE OF MANAGEMENT",
+    "address": "KERANDA, BAJPUR, BHUBANESWAR - 752060",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-7055411"
+  },
+  {
+    "aicte_id": "1-44638514330",
+    "institute_name": "KRUTTIKA INSTITUTE OF TECHNICAL EDUCATION",
+    "address": "GHANGAPATNA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-8431271"
+  },
+  {
+    "aicte_id": "1-44638561649",
+    "institute_name": "GURUKRUPA COLLEGE OF MANAGEMENT",
+    "address": "PLOT NO-1742, SUB PLOT- 03, AT- KALARAHANGA, PO-KIIT SQUARE, PS-INFOCITY, PATIA, BHUBANESWAR, KHORDHA ,ODISHA ,PIN- 751024. ",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4682867681"
+  },
+  {
+    "aicte_id": "1-44638362920",
+    "institute_name": "VAMSI INSTITUTE OF MANAGEMENT STUDIES",
+    "address": "AT-JAGANNATHPUR,PO-PITAMAHAL",
+    "district": "RAYAGADA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-11300733001"
+  },
+  {
+    "aicte_id": "1-44638412474",
+    "institute_name": "SYNERGY POLYTECHNIC, BHUBANESWAR",
+    "address": "AT BHIMPUR, PO PHULNAKHARA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3400022404"
+  },
+  {
+    "aicte_id": "1-44638452529",
+    "institute_name": "KOUSTUV BUSINESS SCHOOL PGDM",
+    "address": "PLOT NO-2,INFOCITY ROAD,CHANDAKA IE,CHANDRASEKHARPUR",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-7909903491"
+  },
+  {
+    "aicte_id": "1-44638471889",
+    "institute_name": "MAHARAJA BUSINESS SCHOOL",
+    "address": "GAMAI, PO-GANGAPADA, VIA- JANLA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-7524615111"
+  },
+  {
+    "aicte_id": "1-44638568738",
+    "institute_name": "ACADEMY OF MANAGEMENT & INFORMATION TECHNOLOGY",
+    "address": "67, IID CENTER,",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-7774661"
+  },
+  {
+    "aicte_id": "1-44638526409",
+    "institute_name": "CAPITAL ENGINEERING COLLEGE",
+    "address": "PLOT NO-1293 AT/PO-MAHATAPALA DIST- KHORDHA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-8223731"
+  },
+  {
+    "aicte_id": "1-44638100455",
+    "institute_name": "ZENITH SCHOOL OF MANAGEMENT",
+    "address": "AT-PITAPALLI,PO-JATANI,DIST-KHORDHA,752050",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4932180201"
+  },
+  {
+    "aicte_id": "1-44638224878",
+    "institute_name": "SWMI VIVEKANANDA INSTITUTE OF MANAGEMENT",
+    "address": "AT BANIATAANGI , POST:BAZAPUR,, BHUBANESWAR-752055, KHORDA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-7478943231"
+  },
+  {
+    "aicte_id": "1-44638296835",
+    "institute_name": "RAYAGADA INSTITUTE OF TECHNOLOGY AND MANAGEMENT",
+    "address": "PITAMAHAL",
+    "district": "RAYAGADA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-6880861"
+  },
+  {
+    "aicte_id": "1-44638312193",
+    "institute_name": "MAHARAJA PURNA CHANDRA (AUTONOMOUS)COLLEGE",
+    "address": "AT-TAKHATPUR,P.O.-BARIPADA",
+    "district": "MAYURBHANJ",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-512267571"
+  },
+  {
+    "aicte_id": "1-44638146645",
+    "institute_name": "BHUBANESWAR INSTITUTE OF INDUSTRIAL TECHNOLOGY",
+    "address": "PANDIAPADA, RETANGA, BHUBANESWAR DIST-KHURDA, ORISSA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-11823591"
+  },
+  {
+    "aicte_id": "1-44638188340",
+    "institute_name": "CAPITAL INSTITUTE OF MANAGEMENT AND SCIENCE",
+    "address": "1309, PADHANSAHI SQUARE",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-5354821"
+  },
+  {
+    "aicte_id": "1-44638148877",
+    "institute_name": "AMRAVATI POLYTECHNICH",
+    "address": "AT/PO/PS-RAIRANG PUR",
+    "district": "MAYURBHANJ",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3348020496"
+  },
+  {
+    "aicte_id": "1-44638211751",
+    "institute_name": "RCM GLOBAL B SCHOOL",
+    "address": "PLOT NO GD 2/13, CHANDRASEKHAR PUR",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-8286440891"
+  },
+  {
+    "aicte_id": "1-44638668452",
+    "institute_name": "TEMPLECITY INSTITUTE OF TECHNOLOGY AND ENGINEERING",
+    "address": "VILLAGE- TARABOI, MOUZA- MANIPUR, PS-JATANI, TAHASIL- JATNI, DIST- KHURDA, ODISHA, 752050",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3723857281"
+  },
+  {
+    "aicte_id": "1-44638770344",
+    "institute_name": "GANESH INSTITUTE OF MANAGEMENT STUDIES",
+    "address": "BIDYA NAGAR, JAGANNATH PRASAD, ANDHARUA, BHUBANESWAR",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-7407527591"
+  },
+  {
+    "aicte_id": "1-44638732887",
+    "institute_name": "INSTITUTE OF CHEMICAL TECHNOLOGY MUMBAI IOC ODISHA OFF CAMPUS",
+    "address": "INDIAN INSTITUTE OF TECHNOLOGY, KHARAGPUR EXTENSION CENTRE, MOUZA SAMANTAPURI, BHUBANESWAR 751013",
+    "district": "KHORDHA",
+    "institution_type": "Deemed to be University(Govt)",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3751674141"
+  },
+  {
+    "aicte_id": "1-44638595296",
+    "institute_name": "SAKUNTALA SUDARSHAN INSTITUTE OF TECHNOLGY(POLYTECHNIC)",
+    "address": "AT- KALAKAD, PO- PATBIL, VIA- KARANJIA, DIST- MAYURBHANJ, ODISHA, 757037",
+    "district": "MAYURBHANJ",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-2846171381"
+  },
+  {
+    "aicte_id": "1-44638656676",
+    "institute_name": "HM SCHOOL OF BUSINESS MANAGEMENT",
+    "address": "AT-PHULACHHANCHUNI, PO-GUDUM, KHORDHA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-9473532741"
+  },
+  {
+    "aicte_id": "1-44638773978",
+    "institute_name": "VIJAYANJALI  SCHOOL OF ENGINEERING",
+    "address": "VIJAYANJALI SCHOOL OF ENGINEERING GADAVANGA-NO 4, KHANTAPADA, BALASORE PIN: 756043",
+    "district": "BALASORE",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4563975181"
+  },
+  {
+    "aicte_id": "1-44638597865",
+    "institute_name": "SOPHITORIUM MANAGEMENT COLLEGE",
+    "address": "AT: BANIATANGI, PO: BAJAPUR, DIST: KHORDHA, ODISHA-752060",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3360175441"
+  },
+  {
+    "aicte_id": "1-44638658973",
+    "institute_name": "BHUBANESWAR INSTITUTE OF MANAGEMENT STUDIES",
+    "address": "INFO VALLEY, HARAPUR, KHORDHA 752054",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-9467537441"
+  },
+  {
+    "aicte_id": "1-44638681344",
+    "institute_name": "JAYADEVA BUSINESS SCHOOL",
+    "address": "BUDHIPADA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-11325933851"
+  },
+  {
+    "aicte_id": "1-44637276228",
+    "institute_name": "XIM UNIVERSITY",
+    "address": "PLOT NO- 12(A),NIJIGADA, KURKI, HARIRAJPUR",
+    "district": "PURI",
+    "institution_type": "State Private University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-7354791061"
+  },
+  {
+    "aicte_id": "1-44637306950",
+    "institute_name": "BHARAT INSTITUTE OF TECHNICAL STUDIES",
+    "address": "DAHAPADA, BALASORE",
+    "district": "BALASORE",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-43361816778"
+  },
+  {
+    "aicte_id": "1-44638663658",
+    "institute_name": "GAYATRI INSTITUTE OF SCIENCE AND TECHNOLOGY",
+    "address": "GANJU,BRAHMAPUR",
+    "district": "GANJAM",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-9441883711"
+  },
+  {
+    "aicte_id": "1-44638684420",
+    "institute_name": "GAYATRI INSTITUTE OF MANAGEMENT",
+    "address": "AT- SUDHASADANGI, MOUZA/PO- BRAHMANSUALO, BLOCK/PS- BALIANTA, DIST- KHURDA, ODISHA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-11341188611"
+  },
+  {
+    "aicte_id": "1-44638643743",
+    "institute_name": "UTKAL INSTITUTE OF MANAGEMENT",
+    "address": "AT-RATHIPUR,PO-KANTIA,JATANI,DIST-KHORDHA,ODISHA,PIN-752050",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-9469381451"
+  },
+  {
+    "aicte_id": "1-44638664593",
+    "institute_name": "MAULANA AZAD NATIONAL URDU UNIVERSITY POLYTECHNIC CUTTACK",
+    "address": "PLOT NO. 151(P), 152, 153(P), 268(P) BRAJABIHARIPUR (SHELTER ROAD), C.D.A ",
+    "district": "CUTTACK",
+    "institution_type": "Central University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-9527556321"
+  },
+  {
+    "aicte_id": "1-44639361547",
+    "institute_name": "PURUSHOTTAM SCHOOL OF ENGINEERING AND TECHNOLOGY",
+    "address": "MANDIA KUDAR, KANSBAHAL",
+    "district": "SUNDERGARH",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-456567881"
+  },
+  {
+    "aicte_id": "1-44639330966",
+    "institute_name": "GOVT. POLYTECHNIC",
+    "address": "RAGADI, JAJPUR, ORISSA.",
+    "district": "JAJPUR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-2057811541"
+  },
+  {
+    "aicte_id": "1-44638827271",
+    "institute_name": "GOVT POLYTECHNIC; DEOGARH",
+    "address": "AT/PO DEOGARH",
+    "district": "DEBAGARHÂ (DEOGARH)",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3374518501"
+  },
+  {
+    "aicte_id": "1-44638842534",
+    "institute_name": "GOVERNMENT POLYTECHNIC, JAGATSINGHPUR",
+    "address": "AT-JAMUGAON BLOCK-NAUGAON JAGATSINGHPUR",
+    "district": "JAGATSINGHPUR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3370409271"
+  },
+  {
+    "aicte_id": "1-44638886852",
+    "institute_name": "CAMBRIDGE SCHOOL OF MANAGEMENT",
+    "address": "AT/PO-KANTIPUR",
+    "district": "BALASORE",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-9611241961"
+  },
+  {
+    "aicte_id": "1-44638867505",
+    "institute_name": "IIPM SCHOOL OF ENGINEERING & TECHNOLOGY",
+    "address": "AT /PO. KANSBAHAL, DT.SUNDARGARH, ODISHA 770034",
+    "district": "SUNDERGARH",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3394807991"
+  },
+  {
+    "aicte_id": "1-44638887752",
+    "institute_name": "PRESIDENCY COLLEGE",
+    "address": "VILLAGE-KANISI,SIHALA ROAD, PO-SUNADEI, KONISI",
+    "district": "GANJAM",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-9526529231"
+  },
+  {
+    "aicte_id": "1-44638831885",
+    "institute_name": "RADHAKRISHNA INSTITUTE OF TECHNOLOGY AND ENGINEERING (RITE)",
+    "address": "PLOT NO. -1, KHURDA INDUSTRIAL ESTATE, DISTRICT: KHURDA, UNDER BHUBANESWAR DEVELOPMENT AUTHORITY, BHUANESWAR",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-21513233"
+  },
+  {
+    "aicte_id": "1-44638906587",
+    "institute_name": "UTKAL INSTITUTE OF TECHNOLOGY AND MANAGEMENT",
+    "address": "AT: BHATAKURI, PO: GANGAPADA, KHORDHA ODISHA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-11308827281"
+  },
+  {
+    "aicte_id": "1-44639366885",
+    "institute_name": "BHARATINSTITUTEOFENGINEERINGANDTECHNOLOGY(POLYTECHNIC)",
+    "address": "SIBARAM VIHAR,GHATEKESWARHILLS",
+    "district": "GANJAM",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-473856021"
+  },
+  {
+    "aicte_id": "1-44638794432",
+    "institute_name": "OXFORD COLLEGE OF MANAGEMENT",
+    "address": "AT-RAMCHANDRAPUR, PO-BHATAPATNA, PS-BALIANTA,",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3675401991"
+  },
+  {
+    "aicte_id": "1-44638889090",
+    "institute_name": "SRI INSTITUTE OF MANAGEMENT",
+    "address": "PLOT NO- 3287/3603, AT/PO:KOMAND",
+    "district": "NAYAGARH",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-9528220071"
+  },
+  {
+    "aicte_id": "1-44639351669",
+    "institute_name": "GOVT.POLYTECHNIC ANGUL",
+    "address": "AT-KUSASINGA PO-RANTALEI",
+    "district": "ANGUL",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-2060094261"
+  },
+  {
+    "aicte_id": "1-44639352924",
+    "institute_name": "INDUS SCHOOL OF ENGINEERING",
+    "address": "BARAKUDA HEIGHTS",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-467939061"
+  },
+  {
+    "aicte_id": "1-44639353443",
+    "institute_name": "GOVERNMENT POLYTECHNIC, BOUDH",
+    "address": "AT-NUAPALI PO-BAGHAIPADA BOUDA",
+    "district": "BOUDHÂ (BAUDA)",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-2064376171"
+  },
+  {
+    "aicte_id": "1-44639369031",
+    "institute_name": "GOVERNMENT POLYTECHNIC SAMBALPUR",
+    "address": "AT/PO-RENGALI DIST.-SAMBALPUR ODISHA-768212",
+    "district": "SAMBALPUR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1513138521"
+  },
+  {
+    "aicte_id": "1-44639355536",
+    "institute_name": "GOVERNMENT POLYTECHNIC, KORAPUT",
+    "address": "AT-RANDAPALI PO-AMBAGUDA KORAPUT",
+    "district": "KORAPUT",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-2066730101"
+  },
+  {
+    "aicte_id": "1-44639356671",
+    "institute_name": "OXFORD SCHOOL OF POLYTECHNIC (DIPLOMA)",
+    "address": "AT- RAMACHANDRAPUR, PO- BHATAPATNA, PS-BALIANTA, BHUBANESWAR",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-457404111"
+  },
+  {
+    "aicte_id": "1-44639357213",
+    "institute_name": "GOVERNMENT COLLEGE OF ENGINEERING. KEONJHAR",
+    "address": "AT - JAMUNALIA P.O. - OLD TOWN DIST - KEONJHAR",
+    "district": "KENDUJHARÂ (KEONJHAR)",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-483647721"
+  },
+  {
+    "aicte_id": "1-44638915776",
+    "institute_name": "ASHAA KIRANN BUSINESS SCHOOL",
+    "address": "AT/PO- PALASPUR, , PS- CHANDAKA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-12322837431"
+  },
+  {
+    "aicte_id": "1-44639497409",
+    "institute_name": "DRIEMS POLYTECHNIC",
+    "address": "AT-KAIRAPARI PO-KOTSAHI (TANGI) DIST-CUTTACK ORISSA-754022",
+    "district": "CUTTACK",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-483811564"
+  },
+  {
+    "aicte_id": "1-44639498700",
+    "institute_name": "DIVINE INSTITUTE OF ENGINEERING & TECHNOLOGY (POLYTECHNIC)",
+    "address": "PODA ASTIA, BARIPADA",
+    "district": "MAYURBHANJ",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-476551631"
+  },
+  {
+    "aicte_id": "1-44639537152",
+    "institute_name": "RAJA KISHORE CHANDRA ACADEMY OF TECHNOLOGY(POLYTECHNIC)",
+    "address": "AT/PO-NILGIRI DIST-BALASORE STATE-ORISSA PIN-756040",
+    "district": "BALASORE",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-458549791"
+  },
+  {
+    "aicte_id": "1-44639625396",
+    "institute_name": "ORISSA SCHOOL OF MINING ENGINEERING",
+    "address": "ORISSA SCHOOL OF MINING ENGINEERING AT/PO- KEONJHAR DIST. - KEONJHAR PIN - 758001",
+    "district": "KENDUJHARÂ (KEONJHAR)",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-522269491"
+  },
+  {
+    "aicte_id": "1-44639626025",
+    "institute_name": "SRI SRI UNIVERSITY - FACULTY OF MANAGEMENT STUDIES",
+    "address": "WARD NO 1, BIDYADHARPUR, P.S. GODI SAHI",
+    "district": "CUTTACK",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-723727861"
+  },
+  {
+    "aicte_id": "1-44639627060",
+    "institute_name": "GOVERNMENT POLYTECHNIC, BHUBHANESWAR",
+    "address": "PLOT NO-1 CHANDRASEKHARPUR PO- RAIL VIHAR",
+    "district": "KHORDHA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-474009353"
+  },
+  {
+    "aicte_id": "1-44639947369",
+    "institute_name": "HI-TECH INSTITUTE OF INFORMATION & TECHNOLOGY",
+    "address": "HI-TECH NAGAR UMERI",
+    "district": "KORAPUT",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-474326871"
+  },
+  {
+    "aicte_id": "1-44639992864",
+    "institute_name": "PATHANI SAMANTA INSTITUTE OF ENGINEERING  & TECHNOLOGY",
+    "address": "AT-KARANDA PO-KARANDA VIA-GUDIAKATENI DIST-DHENKANAL",
+    "district": "ANGUL",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-460640153"
+  },
+  {
+    "aicte_id": "1-44639628189",
+    "institute_name": "SUSHREE INSTITUTE OF TECHNICAL EDUCATION (SITE)",
+    "address": "AT-PALLISHREE VIHAR PO-SADAIPALI VIA-CHANDANBHATI DIST-BALANGIR PIN-767065 STATE-ORISSA",
+    "district": "BALANGIR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-461155451"
+  },
+  {
+    "aicte_id": "1-44639629236",
+    "institute_name": "GANAPATI INSTITUTE OF ENGINEERING & TECHNOLOGY (POLYTECHNIC)",
+    "address": "GOPINATH PUR, MATHASAHI, BHIARPUR. JAGATPUR",
+    "district": "CUTTACK",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-462302433"
+  },
+  {
+    "aicte_id": "1-44639503044",
+    "institute_name": "ODISHA POLYTECHNIC",
+    "address": "AT/PO: KURUDA, DIST: BALASORE, ODISHA, PIN: 756056",
+    "district": "BALASORE",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-2492777331"
+  },
+  {
+    "aicte_id": "1-44639584230",
+    "institute_name": "JEYPORE SCHOOL OF ENGINEERING AND TECHNOLOGY (JSET)",
+    "address": "AT/PO - RONDAPALLI, VIA - JEYPORE,DIST - KORAPUT, STATE - ODISHA, PIN - 764002",
+    "district": "KORAPUT",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-463104201"
+  },
+  {
+    "aicte_id": "1-44639805490",
+    "institute_name": "NILASAILA INSTITUTE OF SCIENCE & TECHNOLOGY",
+    "address": "AT/PO-SHERGADA NH-5",
+    "district": "BALASORE",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-461457001"
+  },
+  {
+    "aicte_id": "1-44639584799",
+    "institute_name": "BIJU PATTANAIK FILM & TELEVISION INSTITUTE OF ORISSA",
+    "address": "MEDICAL ROAD BOSE CAMPUS, CUTTACK ORISSA-753007",
+    "district": "CUTTACK",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-479957701"
+  },
+  {
+    "aicte_id": "1-44639637595",
+    "institute_name": "KMBB COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "address": "NH-5, DALEIPUT, KHURDA, PIN-752056 ORISSA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-10001284"
+  },
+  {
+    "aicte_id": "1-44640174543",
+    "institute_name": "NALANDA INSTITUTE OF TECHNOLOGY",
+    "address": "BUDHIST VILLA, CHANDAKA G.P",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-422675541"
+  },
+  {
+    "aicte_id": "1-44639651740",
+    "institute_name": "GOVERNMENT POLYTECHNIC, MALKANAGIRI",
+    "address": "AT-MALAKANAGIRI PO- MALAKANAGIRI",
+    "district": "MALKANGIRI",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-2496727551"
+  },
+  {
+    "aicte_id": "1-44640081377",
+    "institute_name": "CENTRAL TOOL ROOM & TRAINING CENTRE",
+    "address": "B-36, CHANDAKA INDUSTRIAL AREA",
+    "district": "KHORDHA",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-455233041"
+  },
+  {
+    "aicte_id": "1-44639551604",
+    "institute_name": "GURUKULA ENGINEERING SCHOOL",
+    "address": "AT-JAMUJHARI PO-CHHATABAR BHUBAENSWAR",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-439083231"
+  },
+  {
+    "aicte_id": "1-44640143471",
+    "institute_name": "ROURKELA INSTITUTE OF TECHNOLOGY,KALUNGA",
+    "address": "AT-RIT CAMPUS PO-KALUNGA DIST-SUNDARGARH ORISSA PIN-770031",
+    "district": "SUNDERGARH",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-11925484"
+  },
+  {
+    "aicte_id": "1-44639516879",
+    "institute_name": "IMI BHUBANESWAR",
+    "address": "IDCO PLOT NO. 1 VILLAGE GOTHAPATNA P.O MALIPADA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-464781906"
+  },
+  {
+    "aicte_id": "1-44639819268",
+    "institute_name": "BALAJI INSTITUTE OF TECHNOLOGY & SCIENCE (POLYTECHNIC)",
+    "address": "AT-KNOWLEDGE CENTRE,  VILLAGE/PO-KHARLINGI PS/TALUK: GUNUPUR DISTRICT: RAYAGADA PIN: 765022 ORISSA",
+    "district": "RAYAGADA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-431049621"
+  },
+  {
+    "aicte_id": "1-44639519008",
+    "institute_name": "IDEAL SCHOOL OF ENGINEERING",
+    "address": "AT-JHINKHARADA PO-RETANG KHURDA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-509534691"
+  },
+  {
+    "aicte_id": "1-44639520191",
+    "institute_name": "MAHALAXMI INSTITUTE OF TECHNOLOGY & ENGINEERING",
+    "address": "AT/PO-RAJ NILAGIRI DIST-BALASORE 756040",
+    "district": "BALASORE",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-505932461"
+  },
+  {
+    "aicte_id": "1-44639708210",
+    "institute_name": "BAJIROUT INSTITUTE OF ENGINEERING AND TECHNOLOGY (POLYTECHNIC)",
+    "address": "AT. TALABARKOTE, NEAR SPINNING MILL PO. GOVINDPUR",
+    "district": "DHENKANAL",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-513330401"
+  },
+  {
+    "aicte_id": "1-44639820786",
+    "institute_name": "GOVERNMENT POLYTECHNIC",
+    "address": "AT: AGNIPUR, PO/DIST: NABARANGPUR, PIN-764059, ODISHA",
+    "district": "NABARANGPUR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1512770921"
+  },
+  {
+    "aicte_id": "1-44639432715",
+    "institute_name": "ZENITH INSTITUTE OF SCIENCE & TECHNOLOGY",
+    "address": "AT-PITAPALLY (NH-5) PO-JATNI DIST-KHURDA PIN-752055",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-461807531"
+  },
+  {
+    "aicte_id": "1-44639522254",
+    "institute_name": "VENUS GROUP OF EDUCATIONAL & RESEARCH INSTITUTE",
+    "address": "AT/P.O.-BAHANAGA,DIST-BALASORE,PIN-756042",
+    "district": "BALASORE",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1505905911"
+  },
+  {
+    "aicte_id": "1-44639480237",
+    "institute_name": "BIT POLYTECHNIC",
+    "address": "TECHNO CAMPUS, ARMALA, SOMANATHPUR, BALASORE, ORISSA",
+    "district": "BALASORE",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-476895581"
+  },
+  {
+    "aicte_id": "1-44639564721",
+    "institute_name": "GOVERNMENT POLYTECHNIC NAYAGARH",
+    "address": "AT-GHASAIDEIPUR PO-ODAGAON ODAGAON NAYAGARH",
+    "district": "NAYAGARH",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-2050985591"
+  },
+  {
+    "aicte_id": "1-44639912457",
+    "institute_name": "JHARSUGUDA ENGINEERING SCHOOL",
+    "address": "AT/PO- KALIMANDIR ROAD",
+    "district": "JHARSUGUDA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-477753671"
+  },
+  {
+    "aicte_id": "1-44639525867",
+    "institute_name": "OXFORD COLLEGE OF ENGINEERING AND MANAGEMENT",
+    "address": "AT-RAMACHANDRAPUR, PO-BHATAPATNA, PS- BALIANTA, BHUBANESWAR, DIST-KHURDA, PH NO-0674-2593909 POSTAL ADRESS-QR NO-C77/3,AT-PAILLASHPALI,NEAR AERODRUM AREA,BHUBANESWAR,ORISSA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-8665621"
+  },
+  {
+    "aicte_id": "1-44639670669",
+    "institute_name": "NM INSTITUTE OF ENGINEERING & TECHNOLOGY",
+    "address": "SIJUA, PATRAPADA, BHUBANESWAR ORISSA - 751019",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-5395981"
+  },
+  {
+    "aicte_id": "1-44639956342",
+    "institute_name": "DHABALESWAR INSTITUTE OF POLYTECHNIC",
+    "address": "RADHADAMODARPUR, P.O-RADHAKISHORPUR, KHUNTUNI, CUTTACK,ORISSA PIN-754029",
+    "district": "CUTTACK",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-447932981"
+  },
+  {
+    "aicte_id": "1-44639441249",
+    "institute_name": "SYNERGY INSTITUTE OF ENGINEERING & TECHNOLOGY",
+    "address": "BANAMALIPRASAD, BY THE SIDE OF NH-42, DISTRICT - DHENKANAL, PIN-759001, ORISSA.",
+    "district": "DHENKANAL",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-2020302"
+  },
+  {
+    "aicte_id": "1-44639760512",
+    "institute_name": "NILACHALA POLYTECHNIC COLLEGE OF ENGINEERING",
+    "address": "540/1780 , PATHAR GADIA , NEAR INFOCITY & SIKHARCHANDI TEMPLE PO:KIIT",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-448393481"
+  },
+  {
+    "aicte_id": "1-44639761099",
+    "institute_name": "BERHAMPUR SCHOOL OF ENGINEERING & TECHNOLOGY",
+    "address": "AT-RAMACHANDRAPUR, PO- DURA, BERHAMPUR-760010, DIST-GANJAM (ORISSA)",
+    "district": "GANJAM",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-459772571"
+  },
+  {
+    "aicte_id": "1-44639917210",
+    "institute_name": "BALASORE COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "address": "SERGARH BALASORE ORISSA PIN-756060",
+    "district": "BALASORE",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-11958015"
+  },
+  {
+    "aicte_id": "1-44640041236",
+    "institute_name": "KONARK INSTITUTE OF SCIENCE AND TECHNOLOGY",
+    "address": "PO. BOX NO. 21, TECHNOPARK, JATNI, BHUBANESWAR.",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-5298941"
+  },
+  {
+    "aicte_id": "1-44639764582",
+    "institute_name": "BLACK DIAMOND SCHOOL OF ENGINEERING",
+    "address": "AT: BALIJORI,L&T BYPASS ROAD,POST BOX NO. 21,DISTRICT: JHARSUGUDAORISSA",
+    "district": "JHARSUGUDA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-407140283"
+  },
+  {
+    "aicte_id": "1-44639765134",
+    "institute_name": "AUM SAI INSTITUTE OF TECHNICAL EDUCATION",
+    "address": "NARAYANAPUR GOPALPUR ROAD",
+    "district": "GANJAM",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-462869143"
+  },
+  {
+    "aicte_id": "1-44639920878",
+    "institute_name": "SKDAV GOVERNMENT POLYTECHNIC",
+    "address": "BASANTI COLONY ROURKELA DIST: SUNDARGARH ORISSA, BHUBANESWAR",
+    "district": "SUNDERGARH",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-492801611"
+  },
+  {
+    "aicte_id": "1-44640008691",
+    "institute_name": "UTKAL INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+    "address": "AT-GYAN VIHAR PO-RATHIPUR,KANTIA JATNI,BHUBANESWAR DIST-KHORDHA PIN-752050",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-445216601"
+  },
+  {
+    "aicte_id": "1-44640044262",
+    "institute_name": "GOVERNMENT POLYTECHNIC BERHAMPUR",
+    "address": "BERHAMPUR, GANJAM,ORISSA",
+    "district": "GANJAM",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-513861321"
+  },
+  {
+    "aicte_id": "1-44639534231",
+    "institute_name": "NAYAGARH INSTITUTE OF ENGINEERING & TECHNOLOGY (POLYTECHNIC)",
+    "address": "VIDYA VIHAR PANIPOILA",
+    "district": "NAYAGARH",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-455223731"
+  },
+  {
+    "aicte_id": "1-44639681997",
+    "institute_name": "GOVERNMENT POLYTECHNIC, MAYURBHANJ",
+    "address": "AT- TIKAR PADA PO- PODA ASTIA",
+    "district": "MAYURBHANJ",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-2497334351"
+  },
+  {
+    "aicte_id": "1-44639623837",
+    "institute_name": "GOVERNMENT POLYTECHNIC, BOLANGIR",
+    "address": "AT- LARKIPALI PO- RAJENDRA COLLEGE",
+    "district": "BALANGIR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1507444831"
+  },
+  {
+    "aicte_id": "1-44639624890",
+    "institute_name": "BIJU PATNAIK INSTITUTE OF TECHNOLOGY",
+    "address": "VILLAGE-DADPAJU, BLOCK-KHAJURIPADA, DISTRICT-KANDHAMAL, PIN-762001",
+    "district": "KANDHAMAL",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-474023711"
+  },
+  {
+    "aicte_id": "1-44640491838",
+    "institute_name": "SAI SCHOOL OF ENGINEERING",
+    "address": "AT/PO-A KATAPALI,P.S-BURLA,DIST SAAMBALPUR",
+    "district": "SAMBALPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4290314791"
+  },
+  {
+    "aicte_id": "1-44640453612",
+    "institute_name": "GOVERNMENT POLYTECHNIC, SUBARNAPUR",
+    "address": "AT-BADA JHINKI PO-SUBARNAPUR DIST-SUBARNAPUR PIN-767017",
+    "district": "SUBARNAPURÂ (SONEPUR)",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1529568061"
+  },
+  {
+    "aicte_id": "1-44640535463",
+    "institute_name": "BARUNEI INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+    "address": "AT-KADALIBADI, PO-DALEIPUT",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-493970971"
+  },
+  {
+    "aicte_id": "1-44640744239",
+    "institute_name": "KEONJHAR SCHOOL OF ENGINEERING, KEONJHAR",
+    "address": "AT - DIMBO (TENTULINANDA) PO-DIMBO DIST-KEONJHAR ODISHA PIN-758014",
+    "district": "KENDUJHARÂ (KEONJHAR)",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-475286551"
+  },
+  {
+    "aicte_id": "1-44640201257",
+    "institute_name": "KALINGA INSTITUTE OF ENGINEERING & TECHNOLOGY",
+    "address": "F.C.PROJECT",
+    "district": "JAJPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-466937181"
+  },
+  {
+    "aicte_id": "1-44640202217",
+    "institute_name": "BARAPADA SCHOOL OF ENGINEERING & TECHNOLOGY",
+    "address": "AT/PO- BARAPADA DIST- BHADRAK ORISSA PIN - 756113",
+    "district": "BHADRAK",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-454174721"
+  },
+  {
+    "aicte_id": "1-44640203342",
+    "institute_name": "SAMANTA CHANDRASEKHAR INSTITUTE OF TECHNOLOGY AND MANAGEMENT",
+    "address": "AT-JANIGUDA PO-SEMILIGUDA DIST-KORAPUT",
+    "district": "KORAPUT",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-474267571"
+  },
+  {
+    "aicte_id": "1-44640459195",
+    "institute_name": "INDIRA GANDHI INSTITUTE OF TECHNOLOGY SARANG",
+    "address": "AT/PO:IGIT SARANG",
+    "district": "DHENKANAL",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-412736121"
+  },
+  {
+    "aicte_id": "1-44640796888",
+    "institute_name": "KALLINGA GLOBAL INSTITUTE OF TECHNOLOGY, INNOVATION & MANAGEMENT",
+    "address": "AT:TARAPUR, PO:LAXMINAGAR",
+    "district": "JAJPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-463728061"
+  },
+  {
+    "aicte_id": "1-44640205885",
+    "institute_name": "VIKASH POLYTECHNIC",
+    "address": "VIKASH ENCLAVE, BARAHAGUDA CANAL CHOWK,",
+    "district": "BARGARH",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-722616521"
+  },
+  {
+    "aicte_id": "1-44640207472",
+    "institute_name": "BHADRAK ENGINEERING SCHOOL AND TECHNOLOGY",
+    "address": "NITYANANDA VIHAR AT/PO-ASURALI BHADRAK DIST-BHADRAK ORISSA PIN-756137",
+    "district": "BHADRAK",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-464056681"
+  },
+  {
+    "aicte_id": "1-44640464128",
+    "institute_name": "PADMASHREE KRUTARTHA ACHARYA INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+    "address": "AT: CHAKARKEND P.O.: BARGARH DIST: BARGARH",
+    "district": "BARGARH",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-462766911"
+  },
+  {
+    "aicte_id": "1-44640630553",
+    "institute_name": "GANESH INSTITUTE OF ENGINEERING & TECHNOLOGY, POLYTECHNIC",
+    "address": "BIDYA NAGAR, JAGANNATH PRASAD, ANDHARUA, BHUBANESWAR",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-459307713"
+  },
+  {
+    "aicte_id": "1-44640208122",
+    "institute_name": "PNS SCHOOL OF ENGINEERING & TECHNOLOGY(POLYTECHNIC)",
+    "address": "NISHAMANI VIHAR, MARSHAGHAI, KENDRAPARA, ORISSA",
+    "district": "KENDRAPARA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-474840171"
+  },
+  {
+    "aicte_id": "1-44640210172",
+    "institute_name": "GOVERNMENT POLYTECHNIC, BARGARH",
+    "address": "AT-TENTELA TAHASIL-BARGARH DIST-BARGARH PIN-768030",
+    "district": "BARGARH",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-2068619351"
+  },
+  {
+    "aicte_id": "1-44640717185",
+    "institute_name": "GURUKRUPA TECHNICAL SCHOOL",
+    "address": "AT: KENDUPALLI, PO- NUKHAPADA,PS- NARSINGHPUR,DIST- CUTTACK",
+    "district": "CUTTACK",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-476911551"
+  },
+  {
+    "aicte_id": "1-44640677542",
+    "institute_name": "INSTITUTE OF TEXTILE TECHNOLOGY",
+    "address": "AT-GANDHI CHHAKA, CHOUDWAR",
+    "district": "CUTTACK",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-483093641"
+  },
+  {
+    "aicte_id": "1-44640719160",
+    "institute_name": "BADRIPRASAD INSTITUTE OF TECHNOLOGY",
+    "address": "AT-DEBAIPALI,POST-SASON,DIST-SAMBALPUR",
+    "district": "SAMBALPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-463849211"
+  },
+  {
+    "aicte_id": "1-44640757536",
+    "institute_name": "INSTITUTE OF BUSINESS MANAGEMENT",
+    "address": "PRACHI VIHAR, ANANTAPUR, PHULNAKHARA, KHURDA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-2489028601"
+  },
+  {
+    "aicte_id": "1-44640213244",
+    "institute_name": "MAHARAJA INSTITUTE OF ADVANCED COMPUTING AND RESEARCH",
+    "address": "AT- GAMAI, VILLAGE- GAMAI, BHUBANESWAR, PO-GANGAPADA, VIA-JANLA PS-CHANDAKA,TAHASIL- JATNI,BLOCK-JATNI, DIST- KHURDA, ODISHA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-444216191"
+  },
+  {
+    "aicte_id": "1-44640214390",
+    "institute_name": "PURNA CHANDRA INSTITUTE OF ENGINEERING & TECHNOLOGY",
+    "address": "AT-CHHENDIPADAPO-CHHENDIPADAPS-CHHENDIPADADIST-ANGULPIN-759124ORISSA",
+    "district": "ANGUL",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-445778291"
+  },
+  {
+    "aicte_id": "1-44640761665",
+    "institute_name": "ORISSA SCHOOL OF ENGINEERING",
+    "address": "BANTHAPALLI",
+    "district": "GANJAM",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-458364331"
+  },
+  {
+    "aicte_id": "1-44640215001",
+    "institute_name": "ROURKELA INSTITUTE OF MANAGEMENT STUDIES",
+    "address": "INSTITUTIONAL AREA GOPABANDHU NAGAR CHHEND ROURKELA-769015",
+    "district": "SUNDERGARH",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-13798941"
+  },
+  {
+    "aicte_id": "1-44640215515",
+    "institute_name": "ASIAN SCHOOL OF TECHNOLOGY",
+    "address": "AT-BANTALA PO-MUKTAPUR DIST-KHURDA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-465666361"
+  },
+  {
+    "aicte_id": "1-44640257062",
+    "institute_name": "HOLY INSTITUTE OF TECHNOLOGY",
+    "address": "AT-GOVINDAPUR PO-BENDALIA",
+    "district": "GANJAM",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-487115803"
+  },
+  {
+    "aicte_id": "1-44640218310",
+    "institute_name": "KALAHANDI SCHOOL OF ENGINEERING & TECHNOLOGY",
+    "address": "AT: BAIDYANATH VIHAR, UDITNARAYANPUR",
+    "district": "KALAHANDI",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-478416861"
+  },
+  {
+    "aicte_id": "1-44640218896",
+    "institute_name": "SSB REGIONAL INSTITUTE OF SCIENCE & TECHNOLOGY (POLYTECHNIC)",
+    "address": "AT/PO:-CHITRADA VIA:-CHITRADA DIST:-MAYURBHANJ PIN:-757018",
+    "district": "MAYURBHANJ",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-458637481"
+  },
+  {
+    "aicte_id": "1-44640219431",
+    "institute_name": "GOVERNMENT POLYTECHNIC, KENDRAPARA",
+    "address": "AT/PO-CHATRA CHAKADA BLOCK- DERABISH",
+    "district": "KENDRAPARA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1508020141"
+  },
+  {
+    "aicte_id": "1-44640645777",
+    "institute_name": "SRI POLYTECHNIC",
+    "address": "AT/PO - KOMAND, DIST - NAYAGARH, PIN - 752090",
+    "district": "NAYAGARH",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-492879771"
+  },
+  {
+    "aicte_id": "1-44640220447",
+    "institute_name": "RAMARANI INSTITUTE OF TECHNOLOGY",
+    "address": "AT: TAMULIA PO:KURUDA DIST: BALASORE PIN:756056 ORISSA",
+    "district": "BALASORE",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-412310931"
+  },
+  {
+    "aicte_id": "1-44640604691",
+    "institute_name": "CENTRAL INSTITUTE OF PETROCHEMICALS ENGINEERING & TECHNOLOGY (CIPET)",
+    "address": "PLOT NO.A, IDCO, BAMPADA INDUSTRIAL AREA",
+    "district": "BALASORE",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-2083942451"
+  },
+  {
+    "aicte_id": "1-44640688195",
+    "institute_name": "INSTITUTE OF ENGINEERING & MANAGEMENT",
+    "address": "AT- GOURHARI VIHAR RANIPUT",
+    "district": "KORAPUT",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-453049821"
+  },
+  {
+    "aicte_id": "1-44640688771",
+    "institute_name": "SIDHARTHA INSTITUTE OF ENGINEERING & TECHNOLOGY(POLYTECHNIC)",
+    "address": "AT-EKTAGUDA, PO-MAHADEIPUT",
+    "district": "KORAPUT",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-455740241"
+  },
+  {
+    "aicte_id": "1-44640226302",
+    "institute_name": "BHADRAK INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+    "address": "AT/PO-BARAPADADIST-BHADRAK ORISSA, 756113",
+    "district": "BHADRAK",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-450110421"
+  },
+  {
+    "aicte_id": "1-44640227628",
+    "institute_name": "MAHAMAYA INSTITUTE OF MEDICAL & TECHNICAL SCIENCE, NUAPADA",
+    "address": "AT/PO-NUAPADA",
+    "district": "NUAPADA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-445720023"
+  },
+  {
+    "aicte_id": "1-44640610675",
+    "institute_name": "UTKALMANI GOPABANDHU INSTITUTE OF ENGINEERING ROURKELA",
+    "address": "AT-JAILROAD",
+    "district": "SUNDERGARH",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-475037561"
+  },
+  {
+    "aicte_id": "1-44640693003",
+    "institute_name": "UTKAL GOURAV MADHUSUDAN INSTITUTE OF TECHNOLOGY",
+    "address": "BEHIND COLLECTORATE",
+    "district": "RAYAGADA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-479477983"
+  },
+  {
+    "aicte_id": "1-44640734407",
+    "institute_name": "R.K. INSTITUTE OF ENGINEERING & TECHNOLOGY",
+    "address": "AT/PO- KANTAPADA, VIA- BANAMALIPUR, PS- NIALI",
+    "district": "CUTTACK",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-474649311"
+  },
+  {
+    "aicte_id": "1-44640694757",
+    "institute_name": "MAHAVIR ENGINEERING COLLEGE",
+    "address": "MAHAVIR NAGAR, BHUBANESWAR, PANIORA, PO-PALASHPUR, DIST-KHURDA PIN-752054, ORISSA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-2083014261"
+  },
+  {
+    "aicte_id": "1-44640231688",
+    "institute_name": "SEEMANTA ENGINEERING COLLEGE, MAYURBHANJ",
+    "address": "AT- MAYURVIHAR, VILLAGE- JAUNTI, PO.-JHARPOKHARIA, MAYURBHANJ, PIN-757086.",
+    "district": "MAYURBHANJ",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-10787922"
+  },
+  {
+    "aicte_id": "1-44640446173",
+    "institute_name": "GOVERNMENT POLYTECHNIC, GAJAPATI",
+    "address": "AT: BETAGUDA, PARALAKHEMUNDI, DIST: GAJAPATI",
+    "district": "GAJAPATI",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1499357811"
+  },
+  {
+    "aicte_id": "1-44640449265",
+    "institute_name": "GANDHI SCHOOL OF ENGINEERING",
+    "address": "CHIDANANDA HILLS, AT:BHABANDHA PO:BATAKUMARADA BERHAMPUR.",
+    "district": "GANJAM",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-447696441"
+  },
+  {
+    "aicte_id": "1-44640825792",
+    "institute_name": "SWAMIVIVEKANANDA SCHOOL OF ENGINEERING & TECHNOLOGY(POLYTECHNIC)",
+    "address": "AT-CHAITANYA PRASAD,PO-MADANPUR,PS-JATNI,BHUBANSEWAR,DIST-KHURDA,ORISSA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-462506571"
+  },
+  {
+    "aicte_id": "1-44640909708",
+    "institute_name": "GOVERNMENT COLLEGE OF ENGINEERING, KALAHANDI, BHAWANIPATNA",
+    "address": "AT- BANDOPALA PO- RISIGAON BHAWANIPATNA DIST- KALAHANDI ODISHA - 766002",
+    "district": "KALAHANDI",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1473500971"
+  },
+  {
+    "aicte_id": "1-44641129662",
+    "institute_name": "GOVT. POLYTECHNIC, DHENKANAL",
+    "address": "MAHISAPAT DHENKANAL ORISSA-759001",
+    "district": "DHENKANAL",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-478170101"
+  },
+  {
+    "aicte_id": "1-44641292995",
+    "institute_name": "SUDDHANANDA RESIDENTIAL POLYTECHNIC",
+    "address": "AT-NACHHIPUR, PO-BHATAPATNA, BHUBANESWAR, DIST-KHORDHA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-445460851"
+  },
+  {
+    "aicte_id": "1-44641506007",
+    "institute_name": "VEER SURENDRA SAI UNIVERSITY OF TECHNOLOGY, BURLA",
+    "address": "VEER SURENDRA SAI UNIVERSITY OF TECHNOLOGY, BURLA PO. BURLA ENGG. COLLEGE, DIST. SAMBALPUR",
+    "district": "SAMBALPUR",
+    "institution_type": "State Government University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-455946701"
+  },
+  {
+    "aicte_id": "1-44640916708",
+    "institute_name": "SANJAY MEMORIAL INSTITUTE OF TECHNOLOGY",
+    "address": "BRUDABAN BIHAR,ANKUSHPUR,ORISSA,GANJAM,761100",
+    "district": "GANJAM",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-499301243"
+  },
+  {
+    "aicte_id": "1-44641296550",
+    "institute_name": "SUNDARGARH ENGINEERING SCHOOL, SUNDARGARH",
+    "address": "AT/PO- KIREI",
+    "district": "SUNDERGARH",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-462404861"
+  },
+  {
+    "aicte_id": "1-44641339874",
+    "institute_name": "KIIT POLYTECHNIC",
+    "address": "KOLAB CAMPUS KIIT PATIA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-475257681"
+  },
+  {
+    "aicte_id": "1-44640918579",
+    "institute_name": "PARALA MAHARAJA ENGINEERING COLLEGE",
+    "address": "SITALAPALLI PO-TANGANAPALLI BERHAMPUR PIN-761003",
+    "district": "GANJAM",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1498909591"
+  },
+  {
+    "aicte_id": "1-44641007426",
+    "institute_name": "GOVT. POLYTECHNIC BALASORE",
+    "address": "AT: BIDYADHARPUR PO: REMUNA DIST: BALASORE",
+    "district": "BALASORE",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1510868851"
+  },
+  {
+    "aicte_id": "1-44641049734",
+    "institute_name": "BHUBANANANDA ORISSA SCHOOL OF ENGINEERING",
+    "address": "ENGINEERING SCHOOL CAMPUS, AT-JOBRA PO-SCB MEDICAL COLLEGE PS-MANGALABAG CUTTAK-7",
+    "district": "CUTTACK",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-481814731"
+  },
+  {
+    "aicte_id": "1-44641134522",
+    "institute_name": "CENTRAL INSTITUTE OF PETROCHEMICALS ENGINEERING AND TECHNOLOGY",
+    "address": "PLOT NO - B-25, C.N.I. COMPLEX PATIA, BHUBANESWAR, ORISSA PIN - 751024",
+    "district": "KHORDHA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-2056211"
+  },
+  {
+    "aicte_id": "1-44641299226",
+    "institute_name": "BALASORE SCHOOL OF ENGINEERING",
+    "address": "AT-SRIKANTHAPUR (NEAR RANIPATNA) PO/DIST-BALASORE",
+    "district": "BALASORE",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-445270361"
+  },
+  {
+    "aicte_id": "1-44641008746",
+    "institute_name": "GOVERNMENT POLYTECHNIC, PURI, BRAHMAGIRI",
+    "address": "BRAHMAGIRI,  SIPASARUBALI, NEAR BALIHARACHANDI TEMPLE 752011",
+    "district": "PURI",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-2060360344"
+  },
+  {
+    "aicte_id": "1-44641009741",
+    "institute_name": "CITY INSTITUTE OF TECHNICAL EDUCATION",
+    "address": "JAMUNANAGAR, NH-23, KUARMUNDA, ROURKELA, DIST-SUNDARGARH",
+    "district": "SUNDERGARH",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-480672011"
+  },
+  {
+    "aicte_id": "1-44641010308",
+    "institute_name": "HI-TECH INSTITUTE OF ENGINEERING & MANAGEMENT",
+    "address": "N.H-5, AT/PO - RANITAL DIST-BHADRAK PIN-756111 ORISSA.",
+    "district": "BHADRAK",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-463825051"
+  },
+  {
+    "aicte_id": "1-44641052277",
+    "institute_name": "ORISSA INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+    "address": "AT-PATIMAL PO-MAHULAPADA DHENKANAL",
+    "district": "DHENKANAL",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-474009413"
+  },
+  {
+    "aicte_id": "1-44641136655",
+    "institute_name": "PABITRA MOHAN INSTITUTE OF TECHNOLOGY",
+    "address": "AT/PO:-MANIKAMARA,DHARAMPUR,TALCHER DIST:-ANGUL PIN:-759100",
+    "district": "ANGUL",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-467733873"
+  },
+  {
+    "aicte_id": "1-44641012406",
+    "institute_name": "ADARSHA INSTITUTE OF TECHNOLOGY AND MANAGEMENT",
+    "address": "AT-SARADHAPUR PO-KUMURISINGHA,VIA/DIST-ANGUL ODISHA 759122",
+    "district": "ANGUL",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-479088221"
+  },
+  {
+    "aicte_id": "1-44641265322",
+    "institute_name": "INTERNATIONAL POLYTECHNIC",
+    "address": "AT-LAHANGA, PO-MOTTA, PS-JANKIA DIST-KHORDHA, PIN-752020 ODISHA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-2046344121"
+  },
+  {
+    "aicte_id": "1-44641518029",
+    "institute_name": "SAI INSTITUTE OF TECHNOLOGICAL SCIENCE",
+    "address": "AT- IDCO INDUSTRIAL BELT GOPALPUR,BHABDEIPUR, BANIPADA, P.O.- CHASAPARA",
+    "district": "CUTTACK",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-465029841"
+  },
+  {
+    "aicte_id": "1-44641017034",
+    "institute_name": "GOVT. POLYTECHNIC, NUAPADA",
+    "address": "BHERA, NUAPADA TOWN BHERA, NUAPADA, PIN: 766105 ODISHA",
+    "district": "NUAPADA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-2066666481"
+  },
+  {
+    "aicte_id": "1-44641019563",
+    "institute_name": "SATYA SAI SCHOOL OF ENGINEERING (DIPLOMA)",
+    "address": "AT :SRIKONA PO: PANJIBAG  VIA: SUNHAT",
+    "district": "BALASORE",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-463298351"
+  },
+  {
+    "aicte_id": "1-44641022006",
+    "institute_name": "NORTH ODISHA SCHOOL OF ENGINEERING",
+    "address": "AT/PO: BAUNSATOFA VIA: RASGOBINDAPUR DIST: MAYURBHANJ ODISHA",
+    "district": "MAYURBHANJ",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-2051181481"
+  },
+  {
+    "aicte_id": "1-44641022500",
+    "institute_name": "MITS SCHOOL OF ENGINEERING",
+    "address": "AT/PO:- JANLA TALUKA- BHUBANESWAR",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-435376761"
+  },
+  {
+    "aicte_id": "1-44641271184",
+    "institute_name": "INDIAN INSTITUTE OF HANDLOOM TECHNOLOGY",
+    "address": "BHATLI ROAD, KHEDAPALI, BARGARH",
+    "district": "BARGARH",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-2470137661"
+  },
+  {
+    "aicte_id": "1-44641352800",
+    "institute_name": "MAYURBHANJ SCHOOL OF ENGINEERING",
+    "address": "AT:LAXMIPOSI PO:BARIPADA DIST:MAYURBHANJ STATE:ODISHA PIN:757107 INDIA",
+    "district": "MAYURBHANJ",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-445487091"
+  },
+  {
+    "aicte_id": "1-44641024673",
+    "institute_name": "GOVERNMENT POLYTECHNIC, KALAHANDI",
+    "address": "AT-PARAMANANDPUR PO-BHAWANIPATNA KALAHANDI",
+    "district": "KALAHANDI",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-2070793231"
+  },
+  {
+    "aicte_id": "1-44641232160",
+    "institute_name": "C.V. RAMAN POLYTECHNIC",
+    "address": "BIDYA NAGAR MAHURA JANLA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-445248681"
+  },
+  {
+    "aicte_id": "1-44640891616",
+    "institute_name": "ARYAN INSTITUTE OF ENGINEERING & TECHNOLOGY (POLYTECHNIC)",
+    "address": "VIDYA-VIHAR, SUNDARGRAM, CUTTACK",
+    "district": "CUTTACK",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-425851531"
+  },
+  {
+    "aicte_id": "1-44641025182",
+    "institute_name": "BHUBANESWAR COLLEGE OF ENGINEERING",
+    "address": "AT- KHAJURIA POST: DAMANABHUIN PS: JANKIA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-458726391"
+  },
+  {
+    "aicte_id": "1-44641030223",
+    "institute_name": "NARAYANI INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+    "address": "AT-ARAHAT PO-BANARPAL DIST-ANGUL",
+    "district": "ANGUL",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-473834521"
+  },
+  {
+    "aicte_id": "1-44640992450",
+    "institute_name": "ROURKELA INSTITUTE OF TECHNOLOGY",
+    "address": "IDC, SECTOR-B KALUNGA INDUSTRIAL ESTATE",
+    "district": "SUNDERGARH",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-458456821"
+  },
+  {
+    "aicte_id": "1-44641498450",
+    "institute_name": "NIST INSTITUTE OF SCIENCE AND TECHNOLOGY",
+    "address": "PALUR HILLS, BERHAMPUR, ORISSA - 761008",
+    "district": "GANJAM",
+    "institution_type": "State Private University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-9144791"
+  },
+  {
+    "aicte_id": "1-44641037638",
+    "institute_name": "UMA CHARAN PATNAIK ENGINEERING SCHOOL",
+    "address": "PRINCIPAL UCP ENGINEERING SCHOOL, BERHAMPUR, DIST: GANJAM",
+    "district": "GANJAM",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-484668241"
+  },
+  {
+    "aicte_id": "1-44641163911",
+    "institute_name": "GOVT.POLYTECHNIC, KANDHAMAL",
+    "address": "AT:- GOVT. COLLEGE ROAD PO:- PHULBANI DIST:- KANDHAMAL",
+    "district": "KANDHAMAL",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1500345031"
+  },
+  {
+    "aicte_id": "1-44641373913",
+    "institute_name": "BLACK DIAMOND COLLEGE OF ENGINEERING & TECHNOLOGY, JHARSUGUDA",
+    "address": "AT: BALIJORI, L&T BYPASS ROAD, POST BOX NO. 21, DISTRICT: JHARSUGUDA ORISSA",
+    "district": "JHARSUGUDA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-400203651"
+  },
+  {
+    "aicte_id": "1-44641886431",
+    "institute_name": "GANDHI ENGINEERING COLLEGE (GEC AUTONOMOUS) BHUBANESWAR",
+    "address": "AT: BADARAGHUNATHPUR, PO: MADANPUR OFF NH 5 ON GAHIRA SQUARE",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-5916691"
+  },
+  {
+    "aicte_id": "1-44641846542",
+    "institute_name": "RAAJDHANI ENGINEERING COLLEGE",
+    "address": "NEAR MANCHESWAR RLY.STATION MANCHESWAR BHUBANESWAR KHORDHA 751017 ORISSA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3528961"
+  },
+  {
+    "aicte_id": "1-44641941536",
+    "institute_name": "SUNDARGARH ENGINEERING COLLEGE,SUNDARGARH",
+    "address": "AT/PO- KIREI DIST-SUNDARGARH (ORISSA) PIN-770 073",
+    "district": "SUNDERGARH",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-13887371"
+  },
+  {
+    "aicte_id": "1-44641942091",
+    "institute_name": "SUDDHANANDA ENGINEERING AND RESEARCH CENTRE",
+    "address": "AT - NACHHIPUR, PO - BHATAPATNA, BHUBANESWAR, KHURDA, PIN - 752115",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-5841791"
+  },
+  {
+    "aicte_id": "1-44641806886",
+    "institute_name": "VITS ENGINEERING COLLEGE",
+    "address": "DAMANABHUIN, KHORDHA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-9094371"
+  },
+  {
+    "aicte_id": "1-44641945881",
+    "institute_name": "BHADRAK INSTITUTE OF ENGINEERING & TECHNOLOGY, BARAPADA, BHADRAK",
+    "address": "AT/PO- BARAPADA, BHADRAK DIST- BHADRAK PIN - 756113 ORISSA, INDIA",
+    "district": "BHADRAK",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-6081478"
+  },
+  {
+    "aicte_id": "1-44641946509",
+    "institute_name": "INDOTECH COLLEGE OF ENGINEERING",
+    "address": "INDOTECH COLLEGE OF ENGINEERING,PLOT NO 144,AT/PO MALLIPADA, VIA PALLAHAT (KHURDA- 2)DIST KHURDA, ORISSA - 752 056",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-13120911"
+  },
+  {
+    "aicte_id": "1-44641947956",
+    "institute_name": "SOPHITORIUM ENGINEERING COLLEGE",
+    "address": "IN FRONT ROAD OF COLLECTOR'S OFFICE, KHURDA, BANIATANGI, KHURDA, BHUBANESWAR, ORISSA,PIN-752060",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-5914631"
+  },
+  {
+    "aicte_id": "1-44641948486",
+    "institute_name": "SATYASAI ENGINEERING COLLEGE",
+    "address": "AT: SRIKONA ( CHANDIPUR SEA BEACH ROAD )  PO: PANJIBAG,  VIA- SUNHAT, DIST : BALASORE ODISHA",
+    "district": "BALASORE",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-8471796"
+  },
+  {
+    "aicte_id": "1-44641658386",
+    "institute_name": "THE TECHNO SCHOOL",
+    "address": "361-A, PATRAPADA, BHUBANESWAR, PIN CODE- 751019, KHURDA, ORISSA, PHONE NO- 2472525, 2471416, E-MAIL: TTS_BBSR@YAHOO.CO.IN, WEB:WWW. TTS.AC.IN",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-5815121"
+  },
+  {
+    "aicte_id": "1-44642270773",
+    "institute_name": "BHUBANESWAR INSTITUTE OF MANAGEMENT & INFORMATION TECHNOLOGY",
+    "address": "PRASNAGARBHA, PLOT NO.-S-3/68,69 & 83, SECTOR-A, ZONE-B, MANCHESWAR INDUSTRIAL ESTATE, BHUBANESWAR - 751010, DIST-KHURDA, ORISSA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-24155491"
+  },
+  {
+    "aicte_id": "1-44641908416",
+    "institute_name": "ARYAN INSTITUTE OF ENGINEERING & TECHNOLOGY",
+    "address": "AT: BARAKUDA PO: PANCHAGAON DIST: KHURDA BHUBANESWAR PIN-752050 ORISSA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-2507657"
+  },
+  {
+    "aicte_id": "1-44641665734",
+    "institute_name": "S.M.INSTITUTE OF TECHNOLOY,P.G.CENTRE FOR MANAGEMENT STUDIES",
+    "address": "BRUNDABAN BIHAR, ANKUSHPUR BERHAMPUR GANJAM ORISSA PIN CODE-761100",
+    "district": "GANJAM",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4025471"
+  },
+  {
+    "aicte_id": "1-44642089609",
+    "institute_name": "INTERSCIENCE INSTITUTE OF MANAGEMENT & TECHNOLOGY,BHUBANESWAR",
+    "address": "AT/ P.O. KANTABADA, VIA-JANLA, DIST- KHURDA 752024",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-31331537"
+  },
+  {
+    "aicte_id": "1-44642235002",
+    "institute_name": "SILICON INSTITUTE OF TECHNOLOGY",
+    "address": "SILICON WEST, SASON SAMBALPUR ORISSA 768200",
+    "district": "SAMBALPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-7431721"
+  },
+  {
+    "aicte_id": "1-44642294943",
+    "institute_name": "ROLAND INSTITUTE OF TECHNOLOGY",
+    "address": "SURYA VIHAR, KOTHARI SINGHI, GOLANTHARA, BERHAMPUR-761008. GANJAM, ORISSA, INDIA.",
+    "district": "GANJAM",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4862166"
+  },
+  {
+    "aicte_id": "1-44641667159",
+    "institute_name": "KRUPAJAL BUSINESS SCHOOL",
+    "address": "PUBA SASANA, KAUSALYA GANGA.",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3690321"
+  },
+  {
+    "aicte_id": "1-44641971881",
+    "institute_name": "NIST UNIVERSITY",
+    "address": "PALUR HILLS BERHAMPUR, ORISSA - 761008",
+    "district": "GANJAM",
+    "institution_type": "State Private University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-10282064"
+  },
+  {
+    "aicte_id": "1-44642136245",
+    "institute_name": "SPINTRONIC TECHNOLOGY AND ADVANCE RESEARCH",
+    "address": "AT/PO: TARABOI, BHUBANESWAR VIA: JATANI DIST: KHURDA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-5497656"
+  },
+  {
+    "aicte_id": "1-44642300136",
+    "institute_name": "GOPAL KRISHNA COLLEGE OF ENGGINEERING & TECHNOLOGY, JEYPORE",
+    "address": "GOURAHARI VIHAR, PO:RANIPUT JEYPORE-764005,  DIST:KORAPUT",
+    "district": "KORAPUT",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-5796891"
+  },
+  {
+    "aicte_id": "1-44641674067",
+    "institute_name": "GITA AUTONOMOUS COLLEGE, BHUBANESWAR",
+    "address": "AT: BADARAGHUNATHPUR, PO: MADANPUR VIA: JAANLA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-5947321"
+  },
+  {
+    "aicte_id": "1-44641604466",
+    "institute_name": "JHADESWAR INSTITUTE OF ENGINEERING & TECHNOLOGY",
+    "address": "INDIAN OIL ROAD NEAR BIRLA TYRES BALASORE",
+    "district": "BALASORE",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-446040211"
+  },
+  {
+    "aicte_id": "1-44641675927",
+    "institute_name": "IIPM SCHOOL OF MANAGEMENT",
+    "address": "AT/PO: KANSBAHAL NEAR ROURKELA DIST. SUNDARGARH ORISSA  PIN-770034",
+    "district": "SUNDERGARH",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-5757271"
+  },
+  {
+    "aicte_id": "1-44641874621",
+    "institute_name": "COLLEGE OF ENGINEERING BHUBANESWAR",
+    "address": "PLOT NO-1(A),CNI COMPLEX,PATIA CHANDRASEKHARPUR,BHUBANESWAR ORISSA-751024",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4587924"
+  },
+  {
+    "aicte_id": "1-44641876014",
+    "institute_name": "GANDHI INSTITUTE OF SCIENCE AND TECHNOLOGY",
+    "address": "AT. KHOLIGUDA PO. KOTHAPETA DIST. RAYAGADA ORISSA PIN.765017",
+    "district": "RAYAGADA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3104691"
+  },
+  {
+    "aicte_id": "1-44641975664",
+    "institute_name": "GANDHI INSTITUTE OF EXCELLENT TECHNOCRATS",
+    "address": "PRINCES AVENUE, GHANGAPATNA, BHUBANESWAR, PO:KANTABADA, VIA:JANLA, DIST:KHURDA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-7498801"
+  },
+  {
+    "aicte_id": "1-44642101099",
+    "institute_name": "MAJHIGHARIANI INSTITUTE OF TECHNOLOGY AND SCIENCE",
+    "address": "SRIRAM VIHAR BHUJABALA KOLNARA RAYAGADA-765017 ORISSA",
+    "district": "RAYAGADA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-14483404"
+  },
+  {
+    "aicte_id": "1-44642310893",
+    "institute_name": "SCS COLLEGE (AUTONOMOUS) PURI,GOVT",
+    "address": "AT/PO-PURI PURI DIST-PURI ODISHA",
+    "district": "PURI",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-13650104"
+  },
+  {
+    "aicte_id": "1-44642313571",
+    "institute_name": "VEDANG INSTITUTE OF TECHNOLOGY",
+    "address": "DURGAPRASAD P.O. RAMACHANDI DIST. KHURDA ORISSA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-19240771"
+  },
+  {
+    "aicte_id": "1-44641731592",
+    "institute_name": "ODISHA UNIVERSITY OF TECHNOLOGY AND RESEARCH",
+    "address": "GHATIKIA, BHUBANESWAR-751003",
+    "district": "KHORDHA",
+    "institution_type": "State Government University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-32347208"
+  },
+  {
+    "aicte_id": "1-44642355144",
+    "institute_name": "INSTITUTE OF MANAGEMENT BHUBANESWAR",
+    "address": "GYAN VIHAR  RASULGARH  BHUBANESWAR   751 010  ORISSA  INDIA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-14062654"
+  },
+  {
+    "aicte_id": "1-44642062780",
+    "institute_name": "KALAM INSTITUTE OF TECHNOLOGY",
+    "address": "GOVINDA VIHAR, GOVINDA PUR,PO: LAXMIPUR, BERHAMPUR, DIST: GANJAM",
+    "district": "GANJAM",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-9639011"
+  },
+  {
+    "aicte_id": "1-44642106601",
+    "institute_name": "RJ SCHOOL OF MANAGEMENT STUDIES",
+    "address": "RJ VIDYA VIHAR,TIGIRIA, TENTULIPURA, PO : PUNJIBAG, VIA : SUNHAT, DIST : BALASORE, PIN : 756002",
+    "district": "BALASORE",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-476630493"
+  },
+  {
+    "aicte_id": "1-44642256231",
+    "institute_name": "PJ COLLEGE OF MANAGEMENT & TECHNOLOGY",
+    "address": "SWATIK NAGAR, KESORA, BHUBANESWAR, ORISSA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-10820815"
+  },
+  {
+    "aicte_id": "1-44641615080",
+    "institute_name": "EASTERN ACADEMY OF SCIENCE AND TECHNOLOGY (EAST)",
+    "address": "EASTERN ACADEMY OF SCIENCE AND TECHNOLOGY (EAST) AT:- PRACHI VIHAR, ANANTAPUR, PO:- PHULNAKHARA, BHUBANESWAR DIST:- KHURDHA(ORISSA) PIN:- 754001",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-19588032"
+  },
+  {
+    "aicte_id": "1-44643711704",
+    "institute_name": "SRUSTI ACADEMY OF MANAGEMENT AND TECHNOLOGY",
+    "address": "PLOT NO: 38/1 CHANDAKA INDUSTRIAL ESTATE, NEAR INFOCITY PO: PATIA, BHUBANESWAR DIST: KHURDA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-7010767"
+  },
+  {
+    "aicte_id": "1-44643361547",
+    "institute_name": "TRIDENT ACADEMY OF CREATIVE TECHNOLOGY",
+    "address": "F2/B, CHANDAKA INDUSTRIAL ESTATE, INFRONT OF INFOCITY, CHANDRASEKHARPUR, BHUBANESWAR, PIN-751024",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-6599101"
+  },
+  {
+    "aicte_id": "1-44643444888",
+    "institute_name": "ODM BUSINESS SCHOOL",
+    "address": "AT-SISHU VIHAR,P.O-KIIT,INFOCITY ROAD,PATIA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-5891471"
+  },
+  {
+    "aicte_id": "1-44643578215",
+    "institute_name": "MAHAVIR INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+    "address": "MAHAVIR NAGAR, BHUBANESWAR, PANIORA, PO-PALASHPUR, DIST-KHURDA PIN-752054, ORISSA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-10460724"
+  },
+  {
+    "aicte_id": "1-44643713611",
+    "institute_name": "BIJU PATNAIK INSTITUTE OF INFORMATION TECHNOLOGY AND MANAGEMENT STUDIES",
+    "address": "PLOT NO. -F/4, CHANDAKA IND. ESTATE, OPP. OF INFOCITY, PATIA, BHUBANESWAR-751024",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4190526"
+  },
+  {
+    "aicte_id": "1-44643792946",
+    "institute_name": "BHADRAK AUTONOMOUS COLLEGE",
+    "address": "PRINCIPAL, BHADRAK AUTONOMOUS COLLEGE, JAGANNATHPUR, BHADRAK. PIN : 756100",
+    "district": "BHADRAK",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-43767223983"
+  },
+  {
+    "aicte_id": "1-44643321023",
+    "institute_name": "GANDHI INSTITUTE OF ADVANCED COMPUTER AND RESEARCH",
+    "address": "PRAJUKTI VIHAR  AUROBINDO MARG",
+    "district": "RAYAGADA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-13448361"
+  },
+  {
+    "aicte_id": "1-44643193972",
+    "institute_name": "ACADEMY OF TECHNOCRATS",
+    "address": "DIBYANANDA VIHAR, LATHI ROAD,BERHAMPUR",
+    "district": "GANJAM",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-43376439107"
+  },
+  {
+    "aicte_id": "1-44643496353",
+    "institute_name": "GANDHI INSTITUTE FOR EDUCATION & TECHNOLOGY",
+    "address": "AT : BANIATANGI PO : BAJPUR DIST : KHURDA ORISSA PIN : 752060",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-7583431"
+  },
+  {
+    "aicte_id": "1-44643627454",
+    "institute_name": "TEMPLECITY INSTITUTE OF TECHNOLOGY & ENGINEERING ( TITE), BHUBANESWAR",
+    "address": "VILLAGE-TARABOI, MOUZA-MANIPUR, PS-JATNI, TAHASIL-JATNI, DIST-KHURDA, PIN-752050",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-7969303"
+  },
+  {
+    "aicte_id": "1-44643100707",
+    "institute_name": "NALANDA INSTITUTE OF TECHNOLOGY",
+    "address": "BHUDHIST VILLA, NEBAD BHUASANI TEMPLE SQUARE, SIMILIPATNA, CHANDAKA, BHUBANESAWR, ORISSA.",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-7374515"
+  },
+  {
+    "aicte_id": "1-44643280866",
+    "institute_name": "DHENKANAL AUTONOMOUS COLLEGE",
+    "address": "AT/PO-DHENKANAL DHENKANAL ODISHA",
+    "district": "DHENKANAL",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-13712921"
+  },
+  {
+    "aicte_id": "1-44643200018",
+    "institute_name": "SOPHITORIUM ENGINEERING SCHOOL",
+    "address": "BANIATANGI, KHORDHA",
+    "district": "KHORDHA",
+    "institution_type": "Deemed to be University(Pvt)",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-43381931963"
+  },
+  {
+    "aicte_id": "1-44643632494",
+    "institute_name": "SRINIX COLLEGE OF ENGINEERING, BALASORE",
+    "address": "AT-RANIPATNA P.O./DIST-BALASORE",
+    "district": "BALASORE",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-10339953"
+  },
+  {
+    "aicte_id": "1-44643786359",
+    "institute_name": "INSTITUTE OF BUSINESS AND MANAGEMENT STUDIES",
+    "address": "PLOT NO-66,GOPINATHPUR,DHAULI,BHUBANESWAR",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-43697093553"
+  },
+  {
+    "aicte_id": "1-44643202227",
+    "institute_name": "GAYATRI COLLEGE OF ENGINEERING",
+    "address": "NEAR INCOME TAX OFFICE, AMBAPUA, BERHAMPUR",
+    "district": "GANJAM",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-43385583703"
+  },
+  {
+    "aicte_id": "1-44643596221",
+    "institute_name": "KRUPAJAL ENGINEERING COLLEGE",
+    "address": "PUBASASAN, KAUSALYAGANGA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4229961"
+  },
+  {
+    "aicte_id": "1-44643339592",
+    "institute_name": "NIIS INSTITUTE OF ENGINEERING & TECHNOLOGY",
+    "address": "AT-CHHATABAR P.O.-CHHATABAR VIA-JANLA(BHUBANESWAR) DIST-KHURDA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-7121751"
+  },
+  {
+    "aicte_id": "1-44643516511",
+    "institute_name": "INSTITUTE OF SCIENCE AND INFORMATION TECHNOLOGY ISIT",
+    "address": "PRASNAGARBHA, PLOT NO. S-3/68,69 & 83, SECTOR-'A', ZONE-'B' MANCHESWAR INDUSTRIAL ESTATE, BHUBANESWAR - 751010, ORISSA.",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-22705881"
+  },
+  {
+    "aicte_id": "1-44643737171",
+    "institute_name": "VIJAYANJALI SCHOOL OF MANAGEMENT",
+    "address": "AT: GADAVANGA NO-4 PO: KHANTAPADA",
+    "district": "BALASORE",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-43444211473"
+  },
+  {
+    "aicte_id": "1-44643790355",
+    "institute_name": "BIJU PATNAIK UNIVERSITY OF TECHNOLOGY ODISHA",
+    "address": "CHHEND ROURKELA",
+    "district": "SUNDERGARH",
+    "institution_type": "State Government University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-43749427144"
+  },
+  {
+    "aicte_id": "1-44643212797",
+    "institute_name": "INSTITUTE OF MANAGEMENT & INFORMATION SCIENCE",
+    "address": "SWAGAT VIHAR, BANKUALA, BHUBANESWAR VIVEKANANDA MARG, BHUBANESWAR",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-5092683"
+  },
+  {
+    "aicte_id": "1-44643213801",
+    "institute_name": "DRIEMS UNIVERSITY",
+    "address": "AT- KAIRAPARI, PO- KOTSAHI (TANGI), DIST- CUTTACK, PIN - 754022",
+    "district": "CUTTACK",
+    "institution_type": "State Private University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-10750751"
+  },
+  {
+    "aicte_id": "1-44643260769",
+    "institute_name": "ACADEMY OF BUSINESS ADMINISTRATION",
+    "address": "CORPORATE OFFICE S1/25, INDUSTRIAL ESTATE,BALASORE-756001 CAMPUS : HARIDA, KURUDA, BALASORE -756056",
+    "district": "BALASORE",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-15280521"
+  },
+  {
+    "aicte_id": "1-44643478053",
+    "institute_name": "INTERNATIONAL INSTITUTE OF INFORMATION TECHNOLOGY BHUBANESWAR",
+    "address": "PLOT-570(P), GOTHAPATNA, VIA- MALIPADA, BHUBANESWAR-751003",
+    "district": "KHORDHA",
+    "institution_type": "State Government University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-31041611"
+  },
+  {
+    "aicte_id": "1-44643520475",
+    "institute_name": "GLOBAL INSTITUTE OF MANAGEMENT",
+    "address": "AT:-HANSPAL PO:-NAHARKANTA BHUBANESWAR PIN-752101 ORISSA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-6326571"
+  },
+  {
+    "aicte_id": "1-44643217197",
+    "institute_name": "NIGAM INSITUTE OF ENGINEERING & TECHNOLOGY",
+    "address": "BARANGA CUTTACK",
+    "district": "CUTTACK",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-6315191"
+  },
+  {
+    "aicte_id": "1-44643612350",
+    "institute_name": "VIJAYANJALI INSTITUTE OF TECHNOLOGY",
+    "address": "AT-KHANTAPADA DIST-BALASORE,ORISSA PIN-756043",
+    "district": "BALASORE",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4986111"
+  },
+  {
+    "aicte_id": "1-44643179846",
+    "institute_name": "GANDHI ACADEMY OF TECHNOLOGY AND ENGINEERING",
+    "address": "GOLANTHARA KONISI BERHAMPUR GANJAM ODISHA",
+    "district": "GANJAM",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-7310636"
+  },
+  {
+    "aicte_id": "1-44643221995",
+    "institute_name": "SILICON UNIVERSITY,ODISHA",
+    "address": "SILICON HILLS,  PATIA,  BHUBANESWAR,  KHORDHA,  ORISSA PIN-751024",
+    "district": "KHORDHA",
+    "institution_type": "State Private University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-7412362"
+  },
+  {
+    "aicte_id": "1-44643660080",
+    "institute_name": "GIFT AUTONOMOUS,BHUBANESWAR",
+    "address": "AT-GRAMADIHA PO-GANGAPADA VIA-JANLA DT-KHURDA STATE:ORISSA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-2055801"
+  },
+  {
+    "aicte_id": "1-44643708038",
+    "institute_name": "MODERN INSTITUTE OF TECHNOLOGY AND MANAGEMENT",
+    "address": "AT-BHAGABATIPUR   BHUBANESWAR, PO- KANTABADA,VIA - JANLA, DIST-KHURDA,ORISSA 752054",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-12669431"
+  },
+  {
+    "aicte_id": "1-44643224571",
+    "institute_name": "BHAVAN'S CENTRE FOR COMMUNICATION AND MANAGEMENT",
+    "address": "PLOT NO -9, KHARVELANAGAR BHUBANESWAR  PIN - 751001 ORISSA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-6813406"
+  },
+  {
+    "aicte_id": "1-44643396991",
+    "institute_name": "GANDHI INSTITUTE OF TECHNOLOGY AND MANAGEMENT (GITAM)",
+    "address": "SARASWATI VIHAR, AT- GRAMADIHA, P.O- GANGAPADA, VIA- JANALA, BHUBANESWAR, DIST- KHORDA, STATE- ORISSA, PIN- 752054",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-13121734"
+  },
+  {
+    "aicte_id": "1-44643576085",
+    "institute_name": "ADARSHA COLLEGE OF ENGINEERING",
+    "address": "AT-SARADHAPUR, PO-KUMURISINGHA,VIA/DIST-ANGUL, PIN-759122 ORISSA",
+    "district": "ANGUL",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-10473051"
+  },
+  {
+    "aicte_id": "1-44643619063",
+    "institute_name": "MODERN ENGINEERING & MANAGEMENT STUDIES",
+    "address": "BANAPARIA, KURUDA,  BALASORE ORISSA. PIN CODE : 756056",
+    "district": "BALASORE",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-7414931"
+  },
+  {
+    "aicte_id": "1-44643753572",
+    "institute_name": "EINSTEIN ACADEMY OF TECHNOLOGY AND MANAGEMENT",
+    "address": "AT-BANIATANGI, BHUBANESWAR, P.O-BAJAPUR, DIST:KHURDA, ORISSA, PIN - 752060",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-13159881"
+  },
+  {
+    "aicte_id": "1-44643048274",
+    "institute_name": "REGIONAL COLLEGE OF MANAGEMENT",
+    "address": "CHAKADOLA VIHAR, CHANDRASEKHARPUR,",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-9046801"
+  },
+  {
+    "aicte_id": "1-44642535886",
+    "institute_name": "DR. AMBEDKAR MEMORIAL INSTITUTE OF INFORMATION TECHNOLOGY & MANAGEMENT SCIENCE",
+    "address": "JAGDA,  ROURKELA-769042 DIST-SUNDARGARH ORISSA",
+    "district": "SUNDERGARH",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-15629231"
+  },
+  {
+    "aicte_id": "1-44642920396",
+    "institute_name": "INNOVATION - THE BUSINESS SCHOOL",
+    "address": "AT: TARAKAI PO: MUKTAPUR DIST: KHURDA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-8305761"
+  },
+  {
+    "aicte_id": "1-44642958181",
+    "institute_name": "BRM INSTITUTE OF MANAGEMENT AND INFORMATION TECHNOLOGY",
+    "address": "BRM INSTITUTE OF MANAGEMENT AND INFORMATION TECHNOLOGY, PUBA SASAN, KOUSHLYA GANGA, BHUBANESWAR",
+    "district": "PURI",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-9006541"
+  },
+  {
+    "aicte_id": "1-44642536410",
+    "institute_name": "KALINGA INSTITUE OF INDUSTRIAL TECHNOLOGY",
+    "address": "AT/PO PATIA",
+    "district": "KHORDHA",
+    "institution_type": "Deemed to be University(Pvt)",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-475093041"
+  },
+  {
+    "aicte_id": "1-44642537767",
+    "institute_name": "SUBAS INSTITUTE OF TECHNOLOGY",
+    "address": "GYAN VIHAR BARANG BHUBANESWAR",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3890141"
+  },
+  {
+    "aicte_id": "1-44642844414",
+    "institute_name": "MADHUSUDAN INSTITUTE OF COOPERATIVE MANAGEMENT, BHUBANESWAR",
+    "address": "UNIT - 8, BHUBANESWAR - 751012",
+    "district": "KHORDHA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-20376751"
+  },
+  {
+    "aicte_id": "1-44642883090",
+    "institute_name": "PRESIDENCY COLLEGE BERHAMPUR",
+    "address": "SIHALA ROAD, KONISI, GOLANTHARA-PO BERHAMPUR, GANJAM, ORISSA PIN-761008 PH-0680-2637200/300,  FAX-0680-2637301 E-MAIL- PRESIDENCYMAIL@GMAIL.COM",
+    "district": "GANJAM",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-26917541"
+  },
+  {
+    "aicte_id": "1-44643004468",
+    "institute_name": "NIIS INSTITUTE OF BUSINESS ADMINISTRATION",
+    "address": "SARADA VIHAR  MADANPUR  BHUBANESWAR DIST: KHURDA  PIN: 752054",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-8203021"
+  },
+  {
+    "aicte_id": "1-44643051782",
+    "institute_name": "INDUS COLLEGE OF ENGINEERING",
+    "address": "BARAKUDA HEIGHT BHUBANESWAR PIN-752050",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-32291594"
+  },
+  {
+    "aicte_id": "1-44642501291",
+    "institute_name": "HI-TECH INSTITUTE OF TECHNOLOGY",
+    "address": "INDUSTRIAL ESTATE,KHURDA, BHUBANESWAR",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-9363159"
+  },
+  {
+    "aicte_id": "1-44642926233",
+    "institute_name": "ASTHA SCHOOL OF MANAGEMENT",
+    "address": "261,ATALA,BALIANTA BHUBANESWAR, DIST-KHURDA ORISSA PIN-752101",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-7039191"
+  },
+  {
+    "aicte_id": "1-44642408106",
+    "institute_name": "SANJAY MEMORIAL INSTITUTE OF TECHNOLOGY, SMIT",
+    "address": "DEGREE ENGINEERING COLLEGE,  CHANDIPADAR, VIA- BHATAKUMARADA, BERHAMPUR DIST- GANJAM, ORISSA PIN-761003",
+    "district": "GANJAM",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4325591"
+  },
+  {
+    "aicte_id": "1-44642629396",
+    "institute_name": "SYNERGY INSTITUTE OF TECHNOLOGY",
+    "address": "AT: BHIMPUR, VIA: PHULNAKHARA, PO: PAHALA, BHUBANESWAR, DIST: KHURDA, ORISSA, INDIA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-5928501"
+  },
+  {
+    "aicte_id": "1-44642722525",
+    "institute_name": "PADMASHREE KRUTARTHA ACHARYA COLLEGE OF ENGINEERING,BARGARH",
+    "address": "AT/POST.CHAKARKEND DIST. BARGARH ORISSA -768028",
+    "district": "BARGARH",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4447361"
+  },
+  {
+    "aicte_id": "1-44643060122",
+    "institute_name": "BHUBANESWAR ENGINEERING COLLEGE (BEC)",
+    "address": "NK NAGAR,AT-GRAMADIHA,PITTAPALLY BHUBANESWAR",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-3547201"
+  },
+  {
+    "aicte_id": "1-44642857998",
+    "institute_name": "VIGNAN INSTITUTE OF TECHNOLOGY AND MANAGEMENT",
+    "address": "BHAIRAVI VIHAR, HARADANGA VILLAGE, PO: MANTRIDI, VIA: GOLANTHARA, BERHAMPUR, GANJAM DISTRICT, ORISSA PIN: 761008",
+    "district": "GANJAM",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-7169671"
+  },
+  {
+    "aicte_id": "1-44642935406",
+    "institute_name": "BHUBANESWAR INSTITUTE OF TECHNOLOGY",
+    "address": "INFOVALLEY, HARAPUR BHUBANESWAR PIN-752054 ODISHA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-6436511"
+  },
+  {
+    "aicte_id": "1-44642693627",
+    "institute_name": "UNITED SCHOOL OF BUSINESS MANAGEMENT",
+    "address": "PLOT NO. 37/A  CHANDAKA  I.E PATIA BHUBANESWAR",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-11599471"
+  },
+  {
+    "aicte_id": "1-44642424593",
+    "institute_name": "BARRISTER RANJIT MOHANTY INTERNATIONAL INSTITUTE OF TECHNOLOGY",
+    "address": "BARRISTER RANJIT MOHANTY INTERNATIONAL INSTITUTE OF TECHNOLOGY, AT- PANDRA , PO- RASULGARH, BHUBANESWAR",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-8935501"
+  },
+  {
+    "aicte_id": "1-44642560034",
+    "institute_name": "SUDDHANANDA SCHOOL OF MANAGEMENT AND COMPUTER SCIENCE",
+    "address": "NACHHIPUR, BHATAPATNA, BHUBANESWAR, KHURDA, ORISSA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-12340827"
+  },
+  {
+    "aicte_id": "1-44642699139",
+    "institute_name": "AJAY BINAY INSTITUTE OF TECHNOLOGY , CUTTACK",
+    "address": "SECTOR-I,CDA , CUTTACK-753014",
+    "district": "CUTTACK",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-5687186"
+  },
+  {
+    "aicte_id": "1-44643033435",
+    "institute_name": "GURUKULA INSTITUTE OF TECHNOLOGY",
+    "address": "JAMUJHARI, CHHATABAR",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-14853339"
+  },
+  {
+    "aicte_id": "1-44642566523",
+    "institute_name": "INSTITUTE OF PROFESSIONAL STUDIES & RESEARCH",
+    "address": "IPSAR HOUSE, SEC-6, CDA, CUTTACK-753014 ORISSA",
+    "district": "CUTTACK",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-20581981"
+  },
+  {
+    "aicte_id": "1-44642704496",
+    "institute_name": "COLLEGE OF IT & MANAGEMENT EDUCATION",
+    "address": "PLOT NOT.4, SECTOR-A, ZONE-B, MANCHESWAR INDUSTRIAL ESTATE",
+    "district": "KHORDHA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-4289581"
+  },
+  {
+    "aicte_id": "1-44642830011",
+    "institute_name": "SAMANTA CHANDRASEKHAR INSTITUTE OF TECHNOLOGY & MANAGEMENT",
+    "address": "AT-JANIGUDA PO- SEMILIGUDA CITY-SEMILIGUDA TEHSIL-POTTANGI DISTRICT-KORAPUT PIN-764036 STATE-ORISSA",
+    "district": "KORAPUT",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-6927381"
+  },
+  {
+    "aicte_id": "1-44642831250",
+    "institute_name": "GAYATRI INSTITUTE OF COMPUTER AND MANAGEMENT STUDIES (GICMS)",
+    "address": "GYAN VIHAR  AT : REGEDA  PO: GUNUPUR  DIST: RAYAGADA (ODISHA) PIN - 765022",
+    "district": "RAYAGADA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-7960121"
+  },
+  {
+    "aicte_id": "1-44642433707",
+    "institute_name": "RAJDHANI COLLEGE OF ENGINEERING AND MANAGMENT",
+    "address": "PLOT NO. -18, SECTOR-A, ZONE-B, MANCHESWAR INDUSTRIAL ESTATE",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-1925401"
+  },
+  {
+    "aicte_id": "1-44642490128",
+    "institute_name": "C.V. RAMAN GLOBAL UNIVERSITY",
+    "address": "BIDYANAGAR MAHURA JANLA BHUBANESWAR - 752054",
+    "district": "KHORDHA",
+    "institution_type": "State Private University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-5046106"
+  },
+  {
+    "aicte_id": "1-44642491060",
+    "institute_name": "VIKASH INSTITUTE OF TECHNOLOGY,BARGARH",
+    "address": "VIKASH ENCLAVE, BARAHAGUDA CANAL CHOWK",
+    "district": "BARGARH",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-6952050"
+  },
+  {
+    "aicte_id": "1-44644538794",
+    "institute_name": "N.C. AUTONOMOUS COLLEGE",
+    "address": "JAJPUR",
+    "district": "JAJPUR",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44454979354"
+  },
+  {
+    "aicte_id": "1-44644527817",
+    "institute_name": "INDIAN INSTITUTE OF MANAGEMENT AND SCIENCE",
+    "address": "PLOT NO-622, PALASPUR, CHHATABAR, JATNI, DIST-KHORDHA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44452526464"
+  },
+  {
+    "aicte_id": "1-44644389246",
+    "institute_name": "COLLEGE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "AT- BALIGHAT, PURI-KONARK MARINE DRIVE ROAD, PURI",
+    "district": "PURI",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44328815554"
+  },
+  {
+    "aicte_id": "1-44644456296",
+    "institute_name": "TRIDENT CACDEMY OF CREATIVE TECHNOLOGY",
+    "address": "F2/B, CHANDAKA INDUSTRIAL ESTATE, CHANDRASEKHARPUR",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44368463554"
+  },
+  {
+    "aicte_id": "1-44644528144",
+    "institute_name": "GOVERNMENT POLYTECHNIC DARLIPALI SUNDARGARH",
+    "address": "AT DARLIPALI PO DARLIPALI NTPC",
+    "district": "SUNDERGARH",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44452839625"
+  },
+  {
+    "aicte_id": "1-44644406439",
+    "institute_name": "RAJDHANI COLLEGE",
+    "address": "NEAR BARAMUNDA FIRE STATION, BARAMUNDA SQUARE,",
+    "district": "KHORDHA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44337812654"
+  },
+  {
+    "aicte_id": "1-44644531643",
+    "institute_name": "GANDHI ACADEMY OF TECHNOLOGY AND ENGINEERING",
+    "address": "AT/PO GOLANTHARA, TAHASIL-KONISI",
+    "district": "GANJAM",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44453550024"
+  },
+  {
+    "aicte_id": "1-44644553352",
+    "institute_name": "ACADEMY OF TECHNOCRATS",
+    "address": "DIVYANANDA VIHAR, LATHI ROAD, BERHAMPUR",
+    "district": "GANJAM",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44456027644"
+  },
+  {
+    "aicte_id": "1-44644487675",
+    "institute_name": "INSTITUTE OF MANAGEMENT AND APPLICATION",
+    "address": "JAYADEVA KNOWLEDGE CAMPUS,BUDHIPADA, SISILO,BALAKATI,BHUBANESWAR, DIST-KHORDHA, PIN-752100",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44427449024"
+  },
+  {
+    "aicte_id": "1-44644553669",
+    "institute_name": "UNIPOWER SCHOOL OF IT AND MANAGEMENT",
+    "address": "MIRGHATKUL, KOTHAR, BHADRAK",
+    "district": "BHADRAK",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44456124104"
+  },
+  {
+    "aicte_id": "1-44644553948",
+    "institute_name": "INSTITUTE OF INSTRUMENTATION AND MEDIA SCIENCE",
+    "address": "PLOT NO-196 KHANDAGIRI,BHUBANESWAR  PIN: 751030",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44456299674"
+  },
+  {
+    "aicte_id": "1-44644570126",
+    "institute_name": "BANKI COLLEGE AUTONOMOUS",
+    "address": "AT/PO - BANKI , CUTTACK",
+    "district": "CUTTACK",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44458559174"
+  },
+  {
+    "aicte_id": "1-44644393803",
+    "institute_name": "IMPERIAL COLLEGE",
+    "address": "AT.VIDYA VIHAR, NEAR NEW GOVT HOSPITAL,  PO. CHADEIGAON, VIA BHATLI",
+    "district": "BARGARH",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44332135085"
+  },
+  {
+    "aicte_id": "1-44644343837",
+    "institute_name": "MILLENNIUM ACADEMY OF HIGHER EDUCATION",
+    "address": "KHEDAPADA, PO- BALUGAON, PS- NAYAGARH",
+    "district": "NAYAGARH",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44300400634"
+  },
+  {
+    "aicte_id": "1-44644517383",
+    "institute_name": "MAHENDRA INSTITUTE OF MANAGEMENT AND TECHNICAL STUDIES",
+    "address": "PITAPALI, POST-KUMARBASTA,",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44451301264"
+  },
+  {
+    "aicte_id": "1-44644517643",
+    "institute_name": "NALANDA INSTITUTE OF PROFESSIONAL STUDIES",
+    "address": "BUDDHIST VILLA, CHANDAKA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44451317654"
+  },
+  {
+    "aicte_id": "1-44644533085",
+    "institute_name": "STAR MANAGEMENT COLLEGE",
+    "address": "FOREST PARK, BHUBANESWAR",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44454078294"
+  },
+  {
+    "aicte_id": "1-44644394871",
+    "institute_name": "LAKSHYA INSTITUTE OF TECHNOLOGY",
+    "address": "PLOT NO.M4/46, ACHARYA VIHAR, BHUBANESWAR",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44332993750"
+  },
+  {
+    "aicte_id": "1-44644489073",
+    "institute_name": "COLLEGE OF BUSINESS ADMINISTRATION",
+    "address": "KONISI ROAD, BERHAMPUR",
+    "district": "GANJAM",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44438687644"
+  },
+  {
+    "aicte_id": "1-44644518264",
+    "institute_name": "ASSTHACOLLEGEOFITANDMANAGEMENT",
+    "address": "VANIVIHAR ,BHUBANESWAR",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44451463754"
+  },
+  {
+    "aicte_id": "1-44644533714",
+    "institute_name": "BADRIPRASAD COLLEGE OF COMPUTER TECHNOLOGY",
+    "address": "AT-DEBAIPALI,MAJHIPALI CHOWK, PO-SASON, SAMBALPUR 0",
+    "district": "SAMBALPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44454270994"
+  },
+  {
+    "aicte_id": "1-44644334461",
+    "institute_name": "NIIS INSTITUTE OF INFORMATION SCIENCE AND MANAGEMENT",
+    "address": "SARADA VIHAR MADANPUR BHUBANESWAR KHURDA ODISHA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44291372385"
+  },
+  {
+    "aicte_id": "1-44644450268",
+    "institute_name": "SARASWATI INSTITUTE OF IT AND MANAGEMENT",
+    "address": "HOUSING BOARD COLONY, DWARKA CITY LANE NO.4, NEAR RAILWAY STATION",
+    "district": "KALAHANDI",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44357139234"
+  },
+  {
+    "aicte_id": "1-44644397705",
+    "institute_name": "COLLEGE OF BASIC SCIENCE AND TECHNOLOGY",
+    "address": "AT- GOPALGAON, POST- BALASORE",
+    "district": "BALASORE",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44333955094"
+  },
+  {
+    "aicte_id": "1-44644450742",
+    "institute_name": "ROLAND INSTITUTE OF TECHNOLOGY",
+    "address": "SURYA VIHAR, BERHAMPUR",
+    "district": "GANJAM",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44358552793"
+  },
+  {
+    "aicte_id": "1-44644534611",
+    "institute_name": "BHANJA COLLEGE OF COMPUTER AND MANAGEMENT",
+    "address": "SHREE BIHAR PHULBANI ROAD",
+    "district": "GANJAM",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44454501844"
+  },
+  {
+    "aicte_id": "1-44644368968",
+    "institute_name": "SOPHITORIUM INSTITUTE OF TECHNOLOGY AND LIFESKILLS",
+    "address": "BANIATANGI, KHORDHA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44320876384"
+  },
+  {
+    "aicte_id": "1-44644335855",
+    "institute_name": "PJ COLLEGE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "KESURA, BANKUAL",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44293272944"
+  },
+  {
+    "aicte_id": "1-44644373815",
+    "institute_name": "RAJIV MEMORIAL INSTITUTE OF TECHNOLOGY",
+    "address": "AT-GOVINDAPUR",
+    "district": "GANJAM",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44321145314"
+  },
+  {
+    "aicte_id": "1-44644463918",
+    "institute_name": "SBR GOVT. WOMEN'S COLLEGE",
+    "address": "INFRONT OF OSRTC GARRAGE",
+    "district": "GANJAM",
+    "institution_type": "Government",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44383405934"
+  },
+  {
+    "aicte_id": "1-44644521701",
+    "institute_name": "KALAM INSTITUTE OF MANAGEMENT STUDIES",
+    "address": "GOVINDA VIHAR GOVINDAPUR PO- LAXMIPUR",
+    "district": "GANJAM",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44451883557"
+  },
+  {
+    "aicte_id": "1-44644434757",
+    "institute_name": "SWAMI VIVEKANANDA COLLEGE OF SCIENCE AND MANAGEMENT",
+    "address": "AT-BANIATANGI, PO-BAJAPUR, KHORDHA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44345804864"
+  },
+  {
+    "aicte_id": "1-44644495214",
+    "institute_name": "VIKASH SCHOOL OF BUSINESS MANAGEMENT",
+    "address": "AT-VIKASH ENCLAVE, BARAHAGUDA CANAL CHOWK",
+    "district": "BARGARH",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44448152704"
+  },
+  {
+    "aicte_id": "1-45061515081",
+    "institute_name": "BHUBANESWAR INSTITUTE OF MANAGEMENT STUDIES",
+    "address": "PLOT NO-4 INFO VALLEY, HARAPUR, KHORDHA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-45061515081"
+  },
+  {
+    "aicte_id": "1-44644464600",
+    "institute_name": "NM INSTITUTE OF PROFESSIONAL STUDIES",
+    "address": "SIJUA, PATRAPADA, NEAR AIIMS, BHUBANESWAR",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44387525594"
+  },
+  {
+    "aicte_id": "1-44644480309",
+    "institute_name": "RANESWAR INSTITUTE OF MANAGEMENT AND INFORMATION TECHNOLOGY",
+    "address": "NEAR RTO OFFICE,PANCHAMAHALA",
+    "district": "ANGUL",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44408412904"
+  },
+  {
+    "aicte_id": "1-44643794770",
+    "institute_name": "FAKIR MOHAN AUTONOMOUS COLLEGE",
+    "address": "AZIMABAD, FM COLLEGE ROAD, BALASORE, ODISHA, 756001",
+    "district": "BALASORE",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-43796331337"
+  },
+  {
+    "aicte_id": "1-44643816491",
+    "institute_name": "RAMAMANI INSTITUTE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "AT: BHATAKURI ,PO: GANGAPADA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-43933233835"
+  },
+  {
+    "aicte_id": "1-44644318587",
+    "institute_name": "SRUSTI ACADEMY OF MANAGEMENT",
+    "address": "38/1, CHANDAKA INDUSTRIAL ESTATE, NEAR INFOCITY, PATIA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44266914584"
+  },
+  {
+    "aicte_id": "1-44644327466",
+    "institute_name": "DHENKANAL ACADEMY OF MANAGEMENT AND TECHNOLOGY",
+    "address": "AT-DEOPARA, PO-MANIPUR, VIA-GOVINDPUR, DIST-DHENKANAL",
+    "district": "DHENKANAL",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44280306743"
+  },
+  {
+    "aicte_id": "1-44643838883",
+    "institute_name": "NAUMI BUSINESS SCHOOL",
+    "address": "BHAGABATIPUR, KANTABADA, BHUBANESWAR",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44067965257"
+  },
+  {
+    "aicte_id": "1-44643856575",
+    "institute_name": "MAHARAJA BUSINESS SCHOOL",
+    "address": "AT-GAMAI, PO-GANGAPADA, DIST-KHORDHA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44081343675"
+  },
+  {
+    "aicte_id": "1-44644319068",
+    "institute_name": "PUSPITA RAJGURU",
+    "address": "NIMAPARA AUTONOMOUS COLLEGE, NIMAPARA",
+    "district": "PURI",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44267885594"
+  },
+  {
+    "aicte_id": "1-44644187777",
+    "institute_name": "GOVERNMENT AUTONOMOUS COLLEGE ROURKLEA",
+    "address": "GOVERNMENT AUTONOMOUS COLLEGE PANPOSH ROURKELA",
+    "district": "SUNDERGARH",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44244592317"
+  },
+  {
+    "aicte_id": "1-44644277778",
+    "institute_name": "ARYA SCHOOL OF MANAGEMENT AND INFORMATION TECHNOLOGY",
+    "address": "PLOT NO-320/2686 PATRAPADA BEHIND SHANI TEMPLE BHUBANESWAR",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44251111694"
+  },
+  {
+    "aicte_id": "1-44644329495",
+    "institute_name": "ICSS COLEGE",
+    "address": "BEHIND SP RESIDENCE GABASAHI BHADRAK",
+    "district": "BHADRAK",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44284077474"
+  },
+  {
+    "aicte_id": "1-44644278649",
+    "institute_name": "CREATIVE TECHNO COLLEGE",
+    "address": "BALUAKATA",
+    "district": "ANGUL",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44253288213"
+  },
+  {
+    "aicte_id": "1-44644279154",
+    "institute_name": "ARYAVART ANCIENT ACADEMY",
+    "address": "PLOT NO 685, HALADIPADA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44253853734"
+  },
+  {
+    "aicte_id": "1-44644299236",
+    "institute_name": "INTERNATIONAL INSTITUTE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "AT/PO-INMT CAMPUS,  SARAPARI, NEAR JANKIA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44254118054"
+  },
+  {
+    "aicte_id": "1-44643809286",
+    "institute_name": "NIRMANA INSTITUTE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "AT/PO- BALAKATI, KHORDHA, ODISHA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-43862810043"
+  },
+  {
+    "aicte_id": "1-44643861058",
+    "institute_name": "GOVERNMENT COLLEGE ANGUL",
+    "address": "HAKIMPADA",
+    "district": "ANGUL",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44090331720"
+  },
+  {
+    "aicte_id": "1-44644162166",
+    "institute_name": "MITS SCHOOL OF BIOTECHNOLOGY",
+    "address": "2(P), INFOCITY, PATIA, CHANDAKA INDUSTRIAL ESTATE, BHUBANESWAR",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44240837736"
+  },
+  {
+    "aicte_id": "1-44644040804",
+    "institute_name": "SAI VALLEY WORLD INSTITUTE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "AT JAMUNANAKI PO KUARMUNDA DIST SUNDERGARH ODISHA",
+    "district": "SUNDERGARH",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44228683403"
+  },
+  {
+    "aicte_id": "1-44644212289",
+    "institute_name": "ISHAAN INSTITUTE OF MANAGEMENT STUDIES",
+    "address": "AT-MAIN ROAD, PO-ITAMATI",
+    "district": "NAYAGARH",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44245218073"
+  },
+  {
+    "aicte_id": "1-44643976551",
+    "institute_name": "SHAILABALA WOMENS AUTONOMOUS COLLEGE",
+    "address": "BUXI BAZAR, MISSIOR ROAD, CUTTACK",
+    "district": "CUTTACK",
+    "institution_type": "Government",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44209833542"
+  },
+  {
+    "aicte_id": "1-44644213110",
+    "institute_name": "NABAPRAVAT ACADEMY FOR MANAGEMENT EDUCATION",
+    "address": "AT/PO-SUNAKHANDI,PS-SALEPUR,DIST-CUTTACK,PIN-754202",
+    "district": "CUTTACK",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44245309064"
+  },
+  {
+    "aicte_id": "1-44644042580",
+    "institute_name": "SAMBALPUR UNIVERSITY INSTITUTE OF INFORMATION TECHNOLOGY",
+    "address": "JYOTI VIHAR, BURLA ODISHA-768019",
+    "district": "SAMBALPUR",
+    "institution_type": "State Government University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44228866905"
+  },
+  {
+    "aicte_id": "1-44644075808",
+    "institute_name": "INDIAN INSTITUTE FOR PRODUCTION MANAGEMENT",
+    "address": "AT/PO KANSBAHAL DIST SUNDARGARH",
+    "district": "SUNDERGARH",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44231127036"
+  },
+  {
+    "aicte_id": "1-44754565143",
+    "institute_name": "ARYA SCHOOL OF MANAGEMENT AND COMPUTER SCIENCE",
+    "address": "PLOT NO 320/2686, NH16, BEHIND SANI TEMPLE, PATRAPADA, BHUBANESWAR, ODISHA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44754565143"
+  },
+  {
+    "aicte_id": "1-44645010885",
+    "institute_name": "SAI INSTITUTE OF PROFESSIONAL STUDIES",
+    "address": "SAMBALPUR",
+    "district": "SAMBALPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44605910434"
+  },
+  {
+    "aicte_id": "1-44645058213",
+    "institute_name": "NIRANJAN GOVT WOMENS COLLEGE",
+    "address": "KHAMBESWARI PATANA ASKA ASKA",
+    "district": "GANJAM",
+    "institution_type": "Government",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44620710334"
+  },
+  {
+    "aicte_id": "1-44645031987",
+    "institute_name": "MICROSOLUTION'S COMPUTER ACADEMY",
+    "address": "AT - BAMPADA PO - CHHANPUR VIA - KURUDA",
+    "district": "BALASORE",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44610325243"
+  },
+  {
+    "aicte_id": "1-44645074774",
+    "institute_name": "ZENITH SCHOOL OF BUSINESS MANAGEMENT",
+    "address": "NG16,AT-PITTAPALI,PO-KUMBHARBASTA,BHUBANESWAR,KHORDHA,ODISHA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44623193689"
+  },
+  {
+    "aicte_id": "1-44645019331",
+    "institute_name": "KESHPUR DEGREE COLLEGE",
+    "address": "PANDITGAON, KESHPUR, KHALLIKOTE, GANJAM,761029",
+    "district": "GANJAM",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44606910173"
+  },
+  {
+    "aicte_id": "1-44645489009",
+    "institute_name": "KHALLIKOTE AUTONOMOUS COLLEGE",
+    "address": "KHALLIKOTE AUTONOMOUS COLLEGE, BERHAMPUR GANJAM ODISHA",
+    "district": "GANJAM",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-507490551"
+  },
+  {
+    "aicte_id": "1-44644920830",
+    "institute_name": "VIVEKANAND INSTITUTE OF ADVANCED EDUCATIONAL RESEARCH AND TECHNOLOGY",
+    "address": "SWAMI VIVEKANAND NAGAR, TANGIAPADA, KHORDHA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44518049564"
+  },
+  {
+    "aicte_id": "1-44644635487",
+    "institute_name": "SRI SRI UNIVERSITY. FACULTY OF MANAGEMENT STUDIES",
+    "address": "BIDYADHARPUR, WARD NO.3 PO GODISAHI",
+    "district": "CUTTACK",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44462624374"
+  },
+  {
+    "aicte_id": "1-44644635569",
+    "institute_name": "RAJDHANI COLLEGE OF SCIENCE TECHNOLOGY AND MANAGEMENT",
+    "address": "AT: NEAR MANCHESWAR RAILWAY STATION, PO: MANCHESWAR RAILWAY STATION",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44462633964"
+  },
+  {
+    "aicte_id": "1-44644635702",
+    "institute_name": "IDREAM GROUP OF INSTITUTIONS",
+    "address": "BALHAR CHHACK,TALCHER",
+    "district": "ANGUL",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44462659194"
+  },
+  {
+    "aicte_id": "1-44644856129",
+    "institute_name": "YUVODAYA COLLEGE OF ADVANCED TECHNOLOGY",
+    "address": "SAKMA BALANGIR",
+    "district": "BALANGIR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44494975424"
+  },
+  {
+    "aicte_id": "1-44644888663",
+    "institute_name": "GAYATRI INSTITUTE OF COMPUTER AND MANAGEMENT",
+    "address": "RANGUNIPALLI, PO BADAKHANDI,  ",
+    "district": "GANJAM",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44505841624"
+  },
+  {
+    "aicte_id": "1-44644934893",
+    "institute_name": "RUSHIKULYA DEGREE COLLEGE",
+    "address": "SURADA",
+    "district": "GANJAM",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44522167168"
+  },
+  {
+    "aicte_id": "1-44644969913",
+    "institute_name": "RAJKUMAR COLLEGE OF INFORMATION TECHNOLOGY AND MANAGEMENT",
+    "address": "NICE BUILDING, BUDHARAJA, SAMALASWARI MARKET COMPLEX",
+    "district": "SAMBALPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44526539734"
+  },
+  {
+    "aicte_id": "1-44644732976",
+    "institute_name": "RAJA KISHORE CHANDRA ACADEMY OF TECHNOLOGY",
+    "address": "AT/PO- NILGIRI, DIST- BALASORE, ODISHA, PIN-756040",
+    "district": "BALASORE",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44471612374"
+  },
+  {
+    "aicte_id": "1-44644733139",
+    "institute_name": "AYAN INSTITUTE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "PHULBANI",
+    "district": "KANDHAMAL",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44471748064"
+  },
+  {
+    "aicte_id": "1-44644987664",
+    "institute_name": "MAHAMAYEE MAHILA MAHAVIDYALAYA",
+    "address": "GANDHI NAGAR, 3RD LANE",
+    "district": "GANJAM",
+    "institution_type": "Govt aided",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44532597144"
+  },
+  {
+    "aicte_id": "1-44644674244",
+    "institute_name": "DISHA COLLEGE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "BISWANATHPUR ROAD, NEAR BHAIRABI TEMPLE, PO-MANTRIDI, VIA-GOLANTHRA",
+    "district": "GANJAM",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44465855414"
+  },
+  {
+    "aicte_id": "1-44644772580",
+    "institute_name": "VIDYANT COLLEGE OF MANAGEMENT AND SOCIAL SCIENCE",
+    "address": "AT-TUJUNG ,M.RAMPUR, DIST- KALAHANDI, ODISHA-766102 ",
+    "district": "KALAHANDI",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44480493924"
+  },
+  {
+    "aicte_id": "1-44644911041",
+    "institute_name": "AJAY BINAY DEGREE COLLEGE",
+    "address": "SECTOR-1, CDA",
+    "district": "CUTTACK",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44514607684"
+  },
+  {
+    "aicte_id": "1-44644970481",
+    "institute_name": "RAYAGADA GOVT AUTONOMOUS COLLEGE",
+    "address": "NEHRU NAGAR 2ND LANE, GANDHI NAGAR SCHOOL LANE",
+    "district": "RAYAGADA",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44526616934"
+  },
+  {
+    "aicte_id": "1-44644970597",
+    "institute_name": "ACADEMY OF BUSINESS ADMINISTRATION",
+    "address": "HARIDA KURUDA",
+    "district": "BALASORE",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44526839945"
+  },
+  {
+    "aicte_id": "1-44644611514",
+    "institute_name": "MITS INSTITUTE OF PROFESSIONAL STUDIES",
+    "address": "AT:BHUJABALA ,POST: KOLNARA,RAYAGADA",
+    "district": "RAYAGADA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44461324414"
+  },
+  {
+    "aicte_id": "1-44644816664",
+    "institute_name": "COLLEGE OF ADVANCE COMPUTING",
+    "address": "CAC CAMPUS, BADAKUSASTHALI",
+    "district": "GANJAM",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44487576235"
+  },
+  {
+    "aicte_id": "1-44644840204",
+    "institute_name": "LOKADRUSTI COLLEGE OF ADVANCED TECHNOLOGY",
+    "address": "AT-GADRAMUNDA PO-CHINDAGUDA PS-KHARIAR",
+    "district": "NUAPADA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44491944466"
+  },
+  {
+    "aicte_id": "1-44644775686",
+    "institute_name": "CITY COLLEGE OF MANAGEMENT AND SCIENCE",
+    "address": "SAI PRIYA NAGAR 3RD LANE",
+    "district": "RAYAGADA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44482257225"
+  },
+  {
+    "aicte_id": "1-44644860518",
+    "institute_name": "MAHAMAYA SCHOOL OF BUSINESS MANAGEMENT",
+    "address": "AT-DARLIMUNDA PO-NUAPADA DIST-NUAPADA PIN-766105",
+    "district": "NUAPADA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44496601994"
+  },
+  {
+    "aicte_id": "1-44644826128",
+    "institute_name": "JAYA JAGANNATH DEGREE COLLEGE",
+    "address": "N.H 326, CANAL ROAD, JEYPORE -VIJAYAWADA BYPASS ROAD, JEYPORE",
+    "district": "KORAPUT",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44488398365"
+  },
+  {
+    "aicte_id": "1-44644914848",
+    "institute_name": "INSTITUTE OF PROFESSIONAL LEARNING",
+    "address": "PLOT NO 340, PRADHAN SAHI, BARAMUNDA, BHUBANESWAR",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44515757194"
+  },
+  {
+    "aicte_id": "1-44644915045",
+    "institute_name": "BALASORE INSTITUTE OF TECHNICAL STUDIES",
+    "address": "AT- SOMANATHPUR INDUSTRIAL ESTATE , PO- SAMANATHPUR , DIST- BALASORE",
+    "district": "BALASORE",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44515962814"
+  },
+  {
+    "aicte_id": "1-44644963622",
+    "institute_name": "PRANANATH COLLEGE AUTONOMOUS",
+    "address": "NH 16, MUKUNDAPRASAD",
+    "district": "KHORDHA",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44522761124"
+  },
+  {
+    "aicte_id": "1-44644917238",
+    "institute_name": "COLLEGE OF BUSINESS MANAGEMENT",
+    "address": "TANGIAPADA, KHORDHA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44516024784"
+  },
+  {
+    "aicte_id": "1-44644975225",
+    "institute_name": "RJ SCHOOL OF MANAGEMENT STUDIES",
+    "address": "CHANDIPUR SEA BEACH ROAD, TENTULIPURA, GACHHAMALIA",
+    "district": "BALASORE",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44529001204"
+  },
+  {
+    "aicte_id": "1-44644917646",
+    "institute_name": "MUNICIPAL COLLEGE ROURKELA",
+    "address": "UDITNAGAR  ROURKELA",
+    "district": "SUNDERGARH",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44516440684"
+  },
+  {
+    "aicte_id": "1-44644964247",
+    "institute_name": "VENKATESWAR INSTITUTE OF PLANNING AND MANAGEMENT",
+    "address": "2ND LINE, BRAHMA NAGAR, NEAR NEW BUS STAND",
+    "district": "GANJAM",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44523008833"
+  },
+  {
+    "aicte_id": "1-44644831320",
+    "institute_name": "NARAYANI INSTITUTE OF MANAGEMENT AND COMPUTER EDUCATION",
+    "address": "ARAHAT,BANARPAL,ANGUL",
+    "district": "ANGUL",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44488886324"
+  },
+  {
+    "aicte_id": "1-44644883670",
+    "institute_name": "SALIPUR AUTONOMOUS COLLEGE",
+    "address": "AT-BALISAHI PO-SALIPUR, DIST-CUTTACK",
+    "district": "CUTTACK",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44500090674"
+  },
+  {
+    "aicte_id": "1-44644976447",
+    "institute_name": "SUDHA KIRAN DEGREE COLLEGE",
+    "address": "AT-RAIKIA PO-RAIKIA DIST-KANDHAMAL",
+    "district": "KANDHAMAL",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44529284173"
+  },
+  {
+    "aicte_id": "1-44644658936",
+    "institute_name": "SRI BHARATA PATI MAHAVIDYALAYA",
+    "address": "SAMANTIAPALLI",
+    "district": "GANJAM",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44464945834"
+  },
+  {
+    "aicte_id": "1-44644845792",
+    "institute_name": "GAYATRI INSTITUTE OF SCIENCE AND TECHNOLOGY",
+    "address": "GANJU,BRAHMAPUR",
+    "district": "GANJAM",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44493341484"
+  },
+  {
+    "aicte_id": "1-44644867188",
+    "institute_name": "GOVERNMENT AUTONOMOUS COLLEGE PHULBANI",
+    "address": "TERAGUDA PHULBANI",
+    "district": "KANDHAMAL",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44497494081"
+  },
+  {
+    "aicte_id": "1-44644965474",
+    "institute_name": "SCIENCE COLLEGE AUTONOMOUS HINJILICUT",
+    "address": "MAIN ROAD HINJILICUT",
+    "district": "GANJAM",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44524503003"
+  },
+  {
+    "aicte_id": "1-44644598120",
+    "institute_name": "BHUBANESWAR INSTITUTE OF INDUSTRIAL  TECHNOLOGY",
+    "address": "PANDIAPADA, RETANGA, BHUBANESWAR DIST-KHURDA, ORISSA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44460797254"
+  },
+  {
+    "aicte_id": "1-44644832912",
+    "institute_name": "RAYAGADA INSTITUTE OF PROFESSIONAL STUDIES",
+    "address": "GYAN VIHAR PITAMAHAL, RAYAGADA",
+    "district": "RAYAGADA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44490043794"
+  },
+  {
+    "aicte_id": "1-44644884941",
+    "institute_name": "IMPERIAL COLLEGE",
+    "address": "NUAPADA, VIA-BALIPADA, TAHASIL-KUKUDAKHANDI",
+    "district": "GANJAM",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44501165994"
+  },
+  {
+    "aicte_id": "1-44644931170",
+    "institute_name": "PALLISHREE MAHILA MAHAVIDYALAYA",
+    "address": "AT-BANARAMCHANDRA PUR, PO-BADAPANKALA BADI",
+    "district": "GANJAM",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44521429524"
+  },
+  {
+    "aicte_id": "1-44644902933",
+    "institute_name": "SHREE GANESH INSTITUTE OF BUSINESS MANAGEMENT",
+    "address": "AT- GADASILA, PO - GADASILA, DIST - DHENKANA",
+    "district": "DHENKANAL",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44513501154"
+  },
+  {
+    "aicte_id": "1-44644903082",
+    "institute_name": "NATIONAL INSTITUTE OF PROFESSIONAL STUDIES",
+    "address": "AT-MANJURI (LAXMI NAGAR), P.O.-PACHHIKOTE, JAJPUR ROAD, DIST-JAJPUR, ODISHA",
+    "district": "JAJPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44513631404"
+  },
+  {
+    "aicte_id": "1-44644933467",
+    "institute_name": "SGI SCHOOL OF BUSINESS AND COMPUTER SCIENCE",
+    "address": "AT-NACHHIPUR, PO-BHATAPATNA, CUTTACK,752115",
+    "district": "CUTTACK",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44521429944"
+  },
+  {
+    "aicte_id": "1-44644630667",
+    "institute_name": "MAA MANIKESHWARI UNIVERSITY",
+    "address": "MANIKYA VIHAR, BHAWANIPATNA, KALAHANDI, ODISHA",
+    "district": "KALAHANDI",
+    "institution_type": "State Government University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44462445124"
+  },
+  {
+    "aicte_id": "1-44644872340",
+    "institute_name": "INSTITUTE OF PROFESSIONAL STUDIES AND RESEARCH",
+    "address": "IPSAR , P.NO. 8/43 , SEC-2 , CDA , SATICHOURA , CUTTACK ,753014",
+    "district": "CUTTACK",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44497890804"
+  },
+  {
+    "aicte_id": "1-44644887729",
+    "institute_name": "CHIKITI MAHAVIDYALAYA",
+    "address": "CHIKITI",
+    "district": "GANJAM",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44501896124"
+  },
+  {
+    "aicte_id": "1-44644909273",
+    "institute_name": "ISPAT AUTONOMOUS COLLEGE",
+    "address": "SECTOR -16",
+    "district": "SUNDERGARH",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44513798633"
+  },
+  {
+    "aicte_id": "1-44644934227",
+    "institute_name": "VEDIC COLLEGE OF PLUS THREE SCIENCE AND COMMERCE",
+    "address": "SASON SAMBALPUR ODSIHA",
+    "district": "SAMBALPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44521901434"
+  },
+  {
+    "aicte_id": "1-44644966682",
+    "institute_name": "GOVINDPUR COLLEGE",
+    "address": "DEVI VIHAR, GOVINDPUR CUTTACK",
+    "district": "CUTTACK",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44525804594"
+  },
+  {
+    "aicte_id": "1-44644966911",
+    "institute_name": "ADARSHA PROFESSIONAL DEGREE COLLEGE",
+    "address": "AT-SARADHAPUR PO-KUMURISINGHA DIST-ANGUL ODISHA 759122",
+    "district": "ANGUL",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44526007534"
+  },
+  {
+    "aicte_id": "1-44644872798",
+    "institute_name": "EMINENCE ACADEMY",
+    "address": "SAMARAIPUR, BHADRAK",
+    "district": "BHADRAK",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44498095814"
+  },
+  {
+    "aicte_id": "1-44671783884",
+    "institute_name": "SWAMI VIVEKANANDA MEMORIAL COLLEGE",
+    "address": "AT: COLLEGE SQUARE, NEAR INDOOR STADIUM, JAGATSINGHPUR",
+    "district": "JAGATSINGHPUR",
+    "institution_type": "Govt aided",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44660753144"
+  },
+  {
+    "aicte_id": "1-44671789970",
+    "institute_name": "GIET UNIVERSITY",
+    "address": "AT : GOBRIGUDA , PO : KHARLING , TALUK : GUNUPUR, GUNUPUR, RAYAGADA, ODISHA, 765022",
+    "district": "RAYAGADA",
+    "institution_type": "State Private University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44661481044"
+  },
+  {
+    "aicte_id": "1-44673337453",
+    "institute_name": "BHUBANESWAR SCHOOL OF MANAGEMENT",
+    "address": "AT/PO-CHANDAKA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44327257356"
+  },
+  {
+    "aicte_id": "1-44673341735",
+    "institute_name": "GANDHI NATIONAL COLLEGE",
+    "address": "BADARAGHUNATHPUR,  PO: MADANPUR  OFF NH 5 ON GAHIRA SQUARE,  BHUBANESWAR, KHORDHA,  ODISHA, 752054",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44656267576"
+  },
+  {
+    "aicte_id": "1-44671796852",
+    "institute_name": "VISHWA VINAYAK DEGREE COLLEGE",
+    "address": "KHIREITANGIRI",
+    "district": "KENDUJHARÂ (KEONJHAR)",
+    "institution_type": "Private-Self Financing",
+    "women": "Y",
+    "minority": "N",
+    "other_id": "1-44661857223"
+  },
+  {
+    "aicte_id": "1-44671732153",
+    "institute_name": "INTERSCIENCE DEGREE COLLEGE",
+    "address": "KANTABADA,KHORDHA,752054",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44486782204"
+  },
+  {
+    "aicte_id": "1-44671770864",
+    "institute_name": "GAYATRI INSTITUTE OF COMPUTER AND MANAGEMENT STUDIES",
+    "address": "GYAN VIHAR, AT-REGEDA,PO-GUNUPUR",
+    "district": "RAYAGADA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44656681459"
+  },
+  {
+    "aicte_id": "1-44753606845",
+    "institute_name": "PEARL ACADEMY",
+    "address": "GANDHI NAGAR 5TH LINE, MAIN ROAD, BERHAMPUR",
+    "district": "GANJAM",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44753606845"
+  },
+  {
+    "aicte_id": "1-44753516083",
+    "institute_name": "ZENITH ENGINEERING AND MANAGEMENT STUDIES",
+    "address": "AT-NH-16,PITAPALLI,PO-KHORDHA,BHUBANESWAR,752057",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44753516083"
+  },
+  {
+    "aicte_id": "1-44706399207",
+    "institute_name": "TRIDENT ACADEMY OF TECHNOLOGY",
+    "address": "F2A, INFRONT OF INFOCITY, CHANDAKA INDUSTRIAL ESTATE, CHANDRASEKHARPUR, BHUBANESWAR-751 024",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-6840831"
+  },
+  {
+    "aicte_id": "1-44756234357",
+    "institute_name": "SARALA INSTITUTE OF MANAGEMENT STUDIES",
+    "address": "NUAPOKHARI, DAGARAPADA MANIJANGA , TIRTOL JAGATSINGH PUR",
+    "district": "JAGATSINGHPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44756234357"
+  },
+  {
+    "aicte_id": "1-44753664713",
+    "institute_name": "VIVEKANANDA INSTITUTE OF HIGHER EDUCATION2",
+    "address": "KARANJIA",
+    "district": "MAYURBHANJ",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44753664713"
+  },
+  {
+    "aicte_id": "1-44754292295",
+    "institute_name": "GURUKRUPA COLLEGE OF ENGINEERING",
+    "address": "AT/PO-SIBAPUR, VIA-MERAMUNDALI, PS-KANTABANIA, DIST-DHENKANAL, PIN-759121",
+    "district": "DHENKANAL",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44754292295"
+  },
+  {
+    "aicte_id": "1-44753375203",
+    "institute_name": "UTKAL BUSINESS SCHOOL",
+    "address": "AT-RATHIPUR,PO-KANTIA,JATANI,BHUBANESWAR,KHORDHA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44753375203"
+  },
+  {
+    "aicte_id": "1-44754243063",
+    "institute_name": "MGTI POLYTECHNIC",
+    "address": "AT: RAMPAS, DHABALGIRI,PO: FC PLANT,JAJPUR ROAD",
+    "district": "JAJPUR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44754243063"
+  },
+  {
+    "aicte_id": "1-44753523076",
+    "institute_name": "JHADESWAR ENGINEERING COLLEGE",
+    "address": "NEAR BIRLA TYRE, INDIAN OIL ROAD,BALASORE-756056",
+    "district": "BALASORE",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44753523076"
+  },
+  {
+    "aicte_id": "1-44755601413",
+    "institute_name": "PRATIVA INSTITUTE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "PLOT NO -289/1664/6736,NILADRI VIHAR , BHUBANESWAR , KHURDA , 751016 ",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44755601413"
+  },
+  {
+    "aicte_id": "1-44753591853",
+    "institute_name": "ASHAA KIRANN ENGINEERING SCHOOL",
+    "address": "AT/PO-PALASPUR, PS-CHANDAKA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44753591853"
+  },
+  {
+    "aicte_id": "1-44754023796",
+    "institute_name": "CHALLENGERS ACADEMY OF S.H.E",
+    "address": "MAHAVIR NAGAR ,PANIORA ,GANGAPADA, BHUBANESWAR",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44754023796"
+  },
+  {
+    "aicte_id": "1-44784712643",
+    "institute_name": "RAJDHANI COLLEGE BHUBANESWAR",
+    "address": "N 1/ 154, NEAR BARAMUNDA FIRE STATION, BARAMUNDA SQUARE, NAYAPALLI, CRPF SQUARE, IRC VILLAGE, NAYAPALLI, RAJDHANI COLLEGE, ROAD",
+    "district": "KHORDHA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44784712643"
+  },
+  {
+    "aicte_id": "1-44798993225",
+    "institute_name": "GAYATRI SCHOOL OF ENGINEERING",
+    "address": "GANJU, PO-GANJU",
+    "district": "GANJAM",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44798993225"
+  },
+  {
+    "aicte_id": "1-44798994573",
+    "institute_name": "SRI GURU INSTITUTE OF ENGINEERING AND MANAGEMENT STUDIES",
+    "address": "PLOT NO 147 & 148, PHASE -1 NIE JAGATPUR CUTTACK ODISHA",
+    "district": "CUTTACK",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44798994573"
+  },
+  {
+    "aicte_id": "1-44788437118",
+    "institute_name": "UTKAL UNIVERSITY",
+    "address": "UTKAL UNIVERSITY CAMPUS, VANIVIHAR, BHUBANESWAR, 751004",
+    "district": "KHORDHA",
+    "institution_type": "State Government University",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44788437118"
+  },
+  {
+    "aicte_id": "1-44767421223",
+    "institute_name": "BUXI JAGABANDHU BIDYADHAR AUTONOMOUS COLLEGE",
+    "address": "BJB NAGAR, BHUBANESWAR",
+    "district": "KHORDHA",
+    "institution_type": "Government",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44767421223"
+  },
+  {
+    "aicte_id": "1-44896730613",
+    "institute_name": "KALINGA INSTITUTE OF MANAGEMENT AND TECHNOLOGY",
+    "address": "K-3B, KALINGA NAGAR, GHATIKIA, BHUBANESWAR, DIST - KHORDHA",
+    "district": "KHORDHA",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-44896730613"
+  },
+  {
+    "aicte_id": "1-45314028153",
+    "institute_name": "JSM COMMERCE DEGREE COLLEGE",
+    "address": "DURGA MADIR ROAD, BALANGIR",
+    "district": "BALANGIR",
+    "institution_type": "Private-Self Financing",
+    "women": "N",
+    "minority": "N",
+    "other_id": "1-45314028153"
+  }
+]
