@@ -200,6 +200,57 @@ export default function Home() {
         <section className="mt-10">
           <div className="flex justify-between items-center">
             <h2 className="text-2xl font-semibold flex items-center">
+              <span>GET /api/institutions/search </span>
+            </h2>
+            <a
+              href="/api/institutions/search?state=Tamil Nadu&q=dmi"
+              target="_blank"
+              className="bg-orange-500 text-white px-3 py-1 rounded text-sm hover:bg-orange-700 cursor-pointer"
+              title={"Open API in new tab"}
+            >
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="16"
+                height="16"
+                viewBox="0 0 24 24"
+                className="inline-flex mr-1"
+              >
+                <path
+                  fill="currentColor"
+                  d="M5.616 20q-.691 0-1.153-.462T4 18.384V5.616q0-.691.463-1.153T5.616 4h5.115q.213 0 .357.143t.143.357t-.143.357T10.73 5H5.616q-.231 0-.424.192T5 5.616v12.769q0 .23.192.423t.423.192h12.77q.23 0 .423-.192t.192-.423v-5.116q0-.213.143-.357t.357-.143t.357.143t.143.357v5.116q0 .69-.462 1.152T18.384 20zM19 5.708l-8.908 8.908q-.14.14-.344.15t-.363-.15t-.16-.354t.16-.354L18.292 5H14.5q-.213 0-.357-.143T14 4.5t.143-.357T14.5 4h4.692q.349 0 .578.23t.23.578V9.5q0 .214-.143.357T19.5 10t-.357-.143T19 9.5z"
+                />
+              </svg>
+              View Endpoint
+            </a>
+          </div>
+
+          <p className="mt-2 text-sm text-zinc-500">
+            Search institutions. This route requires BOTH a <code>state</code>{" "}
+            query parameter and a search string <code>q</code> of at least 3
+            characters. Results are paginated.
+          </p>
+
+          <section className="mt-8">
+            <h2 className="text-2xl font-semibold">Examples</h2>
+            <p className="text-sm text-zinc-700 mt-2">Browser (client-side):</p>
+            <pre className="bg-zinc-100 dark:bg-zinc-900 p-3 rounded mt-2 text-sm overflow-auto">{`fetch("/api/institutions/search?state=Tamil Nadu&q=loyola&page=1&limit=20")
+  .then((r) => r.json())
+  .then((data) => console.log(data));`}</pre>
+
+            <p className="text-sm text-zinc-700 mt-3">Curl (cmd.exe):</p>
+            <pre className="bg-zinc-100 dark:bg-zinc-900 p-3 rounded mt-2 text-sm overflow-auto">
+              curl
+              https://indian-colleges-list.vercel.app/api/institutions/search?state=Tamil
+              Nadu&q=loyola
+            </pre>
+          </section>
+
+          <hr className="my-10 border border-gray-900" />
+        </section>
+
+        <section className="mt-10">
+          <div className="flex justify-between items-center">
+            <h2 className="text-2xl font-semibold flex items-center">
               <span>GET /api/institutions/states </span>
             </h2>
             <a

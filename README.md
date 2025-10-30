@@ -17,7 +17,8 @@ website.
 - 👉 [GET - List all Institutions](https://indian-colleges-list.vercel.app/api/institutions)
 - 👉 [GET - List available states (state snapshots)](https://indian-colleges-list.vercel.app/api/institutions/states)
 - 👉 [GET - Get institutions for a specific state (example)](https://indian-colleges-list.vercel.app/api/institutions/states/tamil-nadu)
-- 👉 [GET - List all Courses offered by that institutions](https://indian-colleges-list.vercel.app/api/states/Tamil%20Nadu/1-44641241273)
+- 👉 [GET - List all Courses offered by that institutions](https://indian-colleges-list.vercel.app/api/institutions/states/Tamil%20Nadu/1-44641241273)
+- 👉 [GET - Search institutions (state + query)](https://indian-colleges-list.vercel.app/api/institutions/search?state=Tamil%20Nadu&q=loyola)
 
 > Calling /api/institutions will load 11.9MB of data, which is time consuming. Instead you can load institutions by state api call.
 
@@ -49,6 +50,13 @@ http://localhost:3000
 
 - `GET /api/institutions` — returns offline `data/institutions.json` by default; `?online=1` fetches upstream
 - `GET /api/institution/[id]` — proxy for per-institution course details (supports extra query params like `course` and `year`)
+
+- `GET /api/institutions/search` — search institutions by state and query (requires `state` and `q` >= 3 chars)
+
+  - Example: `GET /api/institutions/search?state=Karnataka&q=engineering&page=1&limit=20`
+  - Response: `{ total, page, limit, results: [{ id, name, university, state, district, programmes_count }] }`
+
+- `GET/POST /api/hits` — simple page visit counter (GET to read, POST to increment). This is file-backed by default (development). For production on serverless platforms use an external store (Upstash, Vercel KV, Supabase) — see notes below.
 
 ## API — Detailed documentation
 

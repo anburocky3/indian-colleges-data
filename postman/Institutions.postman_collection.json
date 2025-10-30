@@ -81,6 +81,25 @@
         }
       },
       "response": []
+    },
+    {
+      "name": "GET /api/institutions/search (example)",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{base_url}}/api/institutions/search?state=Tamil Nadu&q=loyola&page=1&limit=20",
+          "host": ["{{base_url}}"],
+          "path": ["api", "institutions", "search"],
+          "query": [
+            { "key": "state", "value": "Tamil Nadu" },
+            { "key": "q", "value": "loyola" },
+            { "key": "page", "value": "1" },
+            { "key": "limit", "value": "20" }
+          ]
+        }
+      },
+      "response": []
     }
   ]
 }
