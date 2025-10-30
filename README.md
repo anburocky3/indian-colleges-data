@@ -15,7 +15,14 @@ website.
 ## 🚀 Available Endpoints
 
 - 👉 [GET - List all Institutions](https://indian-colleges-list.vercel.app/api/institutions)
-- 👉 [GET - List all Courses offered by that institutions](https://indian-colleges-list.vercel.app/api/institution/1-44641241273?course=1&year=2025-2026)
+- 👉 [GET - List available states (state snapshots)](https://indian-colleges-list.vercel.app/api/institutions/state)
+- 👉 [GET - Get institutions for a specific state (example)](https://indian-colleges-list.vercel.app/api/institutions/state/tamil-nadu)
+<!-- - 👉 [GET - List all Courses offered by that institutions](https://indian-colleges-list.vercel.app/api/institution/1-44641241273?course=1&year=2025-2026) -->
+
+> Calling /api/institutions will load 11.9MB of data, which is time consuming. Instead you can load institutions by state api call.
+
+- The `/api/institutions` route is offline-first and serves the snapshot at `data/institutions.json` by default. Use `?online=1` to fetch fresh upstream data.
+- The downloader/merge writes a small metadata file at `data/institutions.meta.json` which contains `{ "last_grabbed": "ISO timestamp", "records": number }`. When present the `/api/institutions` response will include this metadata and the route sets an `X-Data-Source` header to indicate `offline` or `online`.
 
 ### ✅ [Download Postman Collections](https://raw.githubusercontent.com/anburocky3/indian-colleges-data/refs/heads/main/postman/Institutions.postman_collection.json)
 
